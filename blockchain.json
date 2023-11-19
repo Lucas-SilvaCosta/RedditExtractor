@@ -1,0 +1,4626 @@
+[
+    {
+        "ID": "1_1",
+        "Title": "Crypto exchange Binance, Musk's co-investor, to help Twitter with blockchain",
+        "Upvotes": 745,
+        "Comments": 367,
+        "Date": 1667023557.0,
+        "URL": "https://www.reuters.com/technology/crypto-exchange-binance-musks-co-investor-help-twitter-with-blockchain-2022-10-28/"
+    },
+    {
+        "ID": "1_2",
+        "Title": "Blockchain project Ronin hit by $615 million crypto heist",
+        "Upvotes": 349,
+        "Comments": 99,
+        "Date": 1648574124.0,
+        "URL": "https://www.reuters.com/technology/blockchain-company-ronin-hit-by-615-million-crypto-heist-2022-03-29/"
+    },
+    {
+        "ID": "1_3",
+        "Title": "India's education board is using blockchain to store documents",
+        "Upvotes": 25,
+        "Comments": 3,
+        "Date": 1632392219.0,
+        "URL": "https://indianexpress.com/article/education/cbse-to-use-blockchain-technology-to-secure-board-exam-documents-cbse-gov-in-7527604/"
+    },
+    {
+        "ID": "1_4",
+        "Title": "Shopin blockchain startup CEO pleads guilty to fraud: NY attorney general",
+        "Upvotes": 16,
+        "Comments": 0,
+        "Date": 1576171557.0,
+        "URL": "https://www.reuters.com/article/us-shopin-eyal/shopin-blockchain-startup-ceo-pleads-guilty-to-fraud-ny-attorney-general-idUSKBN1YG22F"
+    },
+    {
+        "ID": "1_5",
+        "Title": "India is losing to China in the blockchain and digital assets market.",
+        "Upvotes": 34,
+        "Comments": 8,
+        "Date": 1573551993.0,
+        "URL": "https://www.cnbctv18.com/views/india-is-losing-to-china-in-the-blockchain-and-digital-assets-market-4665121.htm"
+    },
+    {
+        "ID": "1_6",
+        "Title": "Blockchain Specialists: Who Are They and How Much Do They Earn?",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1545125021.0,
+        "URL": "https://www.thecoinshark.net/blockchain-specialists-who-are-they-and-how-much-do-they-earn/"
+    },
+    {
+        "ID": "1_7",
+        "Title": "Blockchain company Tron buys BitTorrent",
+        "Upvotes": 41,
+        "Comments": 9,
+        "Date": 1532523535.0,
+        "URL": "https://www.techradar.com/news/blockchain-company-tron-buys-bittorrent"
+    },
+    {
+        "ID": "1_8",
+        "Title": "Slovenia claims world's first blockchain monument",
+        "Upvotes": 28,
+        "Comments": 6,
+        "Date": 1523668518.0,
+        "URL": "https://reuters.com/article/bitcoin-slovenia/slovenia-claims-worlds-first-blockchain-monument-idINKCN1GP2NT"
+    },
+    {
+        "ID": "1_9",
+        "Title": "This coal power plant is being reopened for blockchain mining",
+        "Upvotes": 21,
+        "Comments": 15,
+        "Date": 1523573482.0,
+        "URL": "https://www.cnet.com/news/australian-coal-power-plant-reopened-blockchain-bitcoin-applications/"
+    },
+    {
+        "ID": "1_10",
+        "Title": "German researchers have discovered unknown persons are using bitcoin\u2019s blockchain to store and link to child abuse imagery, potentially putting the cryptocurrency in jeopardy...making possession of it potentially unlawful in many countries.",
+        "Upvotes": 1729,
+        "Comments": 664,
+        "Date": 1521553782.0,
+        "URL": "https://www.theguardian.com/technology/2018/mar/20/child-abuse-imagery-bitcoin-blockchain-illegal-content"
+    },
+    {
+        "ID": "1_11",
+        "Title": "Investors rush into new 'blockchain' ETFs, pouring in $240 million in single week",
+        "Upvotes": 24,
+        "Comments": 4,
+        "Date": 1516986940.0,
+        "URL": "https://www.cnbc.com/2018/01/26/investors-clamor-into-new-etfs-with-focus-on-blockchain.html"
+    },
+    {
+        "ID": "1_12",
+        "Title": "Australian stock market to use blockchain",
+        "Upvotes": 56,
+        "Comments": 13,
+        "Date": 1512852713.0,
+        "URL": "http://www.bbc.com/news/business-42261456"
+    },
+    {
+        "ID": "1_13",
+        "Title": "Mixed Messages Fly as JP Morgan Posts Job Ad for Blockchain Technician",
+        "Upvotes": 19,
+        "Comments": 8,
+        "Date": 1505763700.0,
+        "URL": "http://bitcoinist.com/mixed-messages-fly-as-jp-morgan-posts-job-ad-for-blockchain-technician/"
+    },
+    {
+        "ID": "1_14",
+        "Title": "Delaware Governor Signs Blockchain Legislation Into Law",
+        "Upvotes": 43,
+        "Comments": 15,
+        "Date": 1500928099.0,
+        "URL": "https://www.coindesk.com/delaware-governor-signs-blockchain-legislation-law/"
+    },
+    {
+        "ID": "1_15",
+        "Title": "Israeli blockchain companies that shoot for the stars",
+        "Upvotes": 6,
+        "Comments": 1,
+        "Date": 1498076271.0,
+        "URL": "http://www.cnbc.com/2017/06/21/israeli-blockchain-companies-that-shoot-for-the-stars.html"
+    },
+    {
+        "ID": "1_16",
+        "Title": "Blockchain tech to help stop ticket touting",
+        "Upvotes": 6,
+        "Comments": 0,
+        "Date": 1495741530.0,
+        "URL": "https://bitcoinmagazine.com/articles/using-blockchain-tech-keep-concert-ticket-prices-honest/"
+    },
+    {
+        "ID": "1_17",
+        "Title": "Davos 2017: China unites 25 countries to establish Global Blockchain Business Council",
+        "Upvotes": 7,
+        "Comments": 2,
+        "Date": 1484870240.0,
+        "URL": "http://www.econotimes.com/Davos-2017-China-unites-25-countries-to-establish-Global-Blockchain-Business-Council-495920"
+    },
+    {
+        "ID": "1_18",
+        "Title": "$1.44 Billion Chinese Fintech \u201cFund of Funds\u201d to Focus on Blockchain. The fund launched in Beijing, will center on leading companies in the fields of big data, AI, cloud computing, mobile payment, supply chain financing and blockchain.",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1483521591.0,
+        "URL": "https://www.cryptocoinsnews.com/1-44-billion-chinese-fintech-fund-funds-focus-blockchain/"
+    },
+    {
+        "ID": "1_19",
+        "Title": "DARPA may borrow blockchain tech from Bitcoin to secure military networks | ExtremeTech",
+        "Upvotes": 9,
+        "Comments": 2,
+        "Date": 1476382483.0,
+        "URL": "http://www.extremetech.com/computing/237461-darpa-may-borrow-blockchain-tech-from-bitcoin-to-secure-military-networks"
+    },
+    {
+        "ID": "1_20",
+        "Title": "Bill Gross Says Bitcoin, Blockchain May Counter Central Banks",
+        "Upvotes": 8,
+        "Comments": 0,
+        "Date": 1475605741.0,
+        "URL": "http://www.bloomberg.com/news/articles/2016-10-04/janus-s-gross-says-bitcoin-blockchain-may-counter-central-banks"
+    },
+    {
+        "ID": "1_21",
+        "Title": "US Central Bank Chair: Blockchain Could Have 'Significant' Impact",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1475120360.0,
+        "URL": "http://www.coindesk.com/us-fed-yellen-blockchain-impact/"
+    },
+    {
+        "ID": "1_22",
+        "Title": "Finance Firms Seen Investing $1 Billion in Blockchain This Year",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1466716906.0,
+        "URL": "http://www.bloomberg.com/news/articles/2016-06-23/finance-firms-seen-investing-1-billion-in-blockchain-this-year"
+    },
+    {
+        "ID": "1_23",
+        "Title": "Yellen Reportedly Urges Central Banks to Study Blockchain, Bitcoin",
+        "Upvotes": 6,
+        "Comments": 3,
+        "Date": 1465471776.0,
+        "URL": "http://www.americanbanker.com/news/bank-technology/yellen-reportedly-urges-central-banks-to-study-blockchain-bitcoin-1081354-1.html"
+    },
+    {
+        "ID": "1_24",
+        "Title": "IBM wants to move blockchain tech beyond Bitcoin and money transfer",
+        "Upvotes": 6,
+        "Comments": 0,
+        "Date": 1455729468.0,
+        "URL": "http://arstechnica.com/business/2016/02/ibm-wants-to-move-blockchain-tech-beyond-bitcoin-and-money-transfer/"
+    },
+    {
+        "ID": "1_25",
+        "Title": "SEC Approves Plan to Issue Stock Via Bitcoin's Blockchain",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1450244228.0,
+        "URL": "http://www.wired.com/2015/12/sec-approves-plan-to-issue-company-stock-via-the-bitcoin-blockchain/"
+    },
+    {
+        "ID": "1_26",
+        "Title": "Overstock.com S-3 Filing Details up to $500 million of Digital Securities on the Bitcoin Blockchain",
+        "Upvotes": 6,
+        "Comments": 0,
+        "Date": 1449863248.0,
+        "URL": "https://bitcoinmagazine.com/articles/overstock-com-s-filing-details-up-to-million-of-digital-securities-on-the-bitcoin-blockchain-1449857339"
+    },
+    {
+        "ID": "1_27",
+        "Title": "SEC Approves Overstock.com S-3 Filing to Issue Shares Using Bitcoin Blockchain",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1449587231.0,
+        "URL": "https://bitcoinmagazine.com/articles/sec-approves-overstock-com-s-filing-to-issue-shares-using-bitcoin-blockchain-1449539558"
+    },
+    {
+        "ID": "1_28",
+        "Title": "Why Visa Europe is Testing Remittances on the Bitcoin Blockchain",
+        "Upvotes": 5,
+        "Comments": 0,
+        "Date": 1448465241.0,
+        "URL": "http://www.coindesk.com/visa-europe-remittances-bitcoin-blockchain/"
+    },
+    {
+        "ID": "1_29",
+        "Title": "Nine of world\u2019s biggest banks join to form blockchain partnership",
+        "Upvotes": 36,
+        "Comments": 1,
+        "Date": 1445641621.0,
+        "URL": "http://www.money-marketuk.com/Business-and-Finance/5300-nine-of-world-s-biggest-banks-join-to-form-blockchain-partnership.html"
+    },
+    {
+        "ID": "1_30",
+        "Title": "Nine of the world's biggest banks join to form blockchain partnership",
+        "Upvotes": 20,
+        "Comments": 3,
+        "Date": 1442568057.0,
+        "URL": "http://www.reuters.com/article/idUSKCN0RF24M20150915"
+    },
+    {
+        "ID": "1_31",
+        "Title": "Nine of the World\u2019s Biggest Banks Form Blockchain Partnership",
+        "Upvotes": 79,
+        "Comments": 17,
+        "Date": 1442348437.0,
+        "URL": "https://recode.net/2015/09/15/nine-of-the-worlds-biggest-banks-form-blockchain-partnership/"
+    },
+    {
+        "ID": "1_32",
+        "Title": "Nine of world's biggest banks join to form blockchain partnership",
+        "Upvotes": 8,
+        "Comments": 10,
+        "Date": 1442336629.0,
+        "URL": "https://news.fidelity.com/news/news.jhtml?articleid=201509151241RTRSNEWSCOMBINED_L5N11L33H_1&IMG=N"
+    },
+    {
+        "ID": "1_33",
+        "Title": "After Barclays and Bank of America, Citigroup has blockchain in sight",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1441113271.0,
+        "URL": "http://economictimes.indiatimes.com/industry/banking/finance/banking/after-barclays-and-bank-of-america-citigroup-has-blockchain-in-sight/articleshow/48753482.cms"
+    },
+    {
+        "ID": "1_34",
+        "Title": "Isle of Man Trials First Government-Run Blockchain Project",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1431001797.0,
+        "URL": "http://www.coindesk.com/isle-of-man-trials-first-government-run-blockchain-project/"
+    },
+    {
+        "ID": "1_35",
+        "Title": "The Intercept\u2019s SecureDrop installation is now the third Tor hidden service to receive a browser-trusted HTTPS certificate, following Facebook and the Bitcoin website Blockchain.info",
+        "Upvotes": 13,
+        "Comments": 0,
+        "Date": 1428570433.0,
+        "URL": "https://firstlook.org/theintercept/2015/04/08/securedrop-tor-hidden-service-now-uses-https/"
+    },
+    {
+        "ID": "1_36",
+        "Title": "Swiss banking giant UBS is to open a technology lab in London to investigate how blockchain technology can be used in financial services.",
+        "Upvotes": 9,
+        "Comments": 2,
+        "Date": 1427953264.0,
+        "URL": "http://www.efinancialnews.com/story/2015-04-02/ubs-opens-london-technology-lab-blockchain-bitcoin?mod=rss-home"
+    },
+    {
+        "ID": "2_1",
+        "Title": "Russia\u2019s Digital Ruble Won\u2019t Help It Evade Sanctions Anytime Soon: Fears Russia could use its new blockchain-based currency to avoid sanctions are overblown, experts say",
+        "Upvotes": 85,
+        "Comments": 5,
+        "Date": 1690998922.0,
+        "URL": "https://www.themoscowtimes.com/2023/08/01/russias-digital-ruble-wont-help-it-evade-sanctions-anytime-soon-a82024"
+    },
+    {
+        "ID": "2_2",
+        "Title": "India to Use Blockchain to Monitor Financial Instruments",
+        "Upvotes": 25,
+        "Comments": 1,
+        "Date": 1630415562.0,
+        "URL": "https://dailycoin.com/india-to-use-blockchain-to-monitor-financial-instruments/"
+    },
+    {
+        "ID": "2_3",
+        "Title": "Hong Kong's Apple Daily to live on in blockchain, free of censors",
+        "Upvotes": 30,
+        "Comments": 2,
+        "Date": 1624516166.0,
+        "URL": "https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-live-blockchain-free-censors-2021-06-24/"
+    },
+    {
+        "ID": "2_4",
+        "Title": "British hospitals use blockchain to track COVID-19 vaccines",
+        "Upvotes": 9,
+        "Comments": 5,
+        "Date": 1611059905.0,
+        "URL": "https://www.reuters.com/article/us-health-coronavirus-blockchain/british-hospitals-use-blockchain-to-track-covid-19-vaccines-idUSKBN29O0RJ"
+    },
+    {
+        "ID": "2_5",
+        "Title": "China throws its weight behind A.I. and blockchain as it aims to be the world\u2019s tech leader",
+        "Upvotes": 24,
+        "Comments": 13,
+        "Date": 1573790382.0,
+        "URL": "https://www.cnbc.com/2019/11/15/china-technology-trends-from-blockchain-to-ai-and-fintech.html"
+    },
+    {
+        "ID": "2_6",
+        "Title": "China launches blockchain-based identification system for smart cities",
+        "Upvotes": 8,
+        "Comments": 1,
+        "Date": 1572884443.0,
+        "URL": "https://cryptopurview.com/china-launches-blockchain-based-identification-system/"
+    },
+    {
+        "ID": "2_7",
+        "Title": "Chinese investors told to 'stay rational' after Xi Jinping's blockchain embrace causes stock rush",
+        "Upvotes": 12,
+        "Comments": 1,
+        "Date": 1572495535.0,
+        "URL": "https://www.cnn.com/2019/10/30/tech/china-xi-jinping-blockchain-intl-hnk/index.html"
+    },
+    {
+        "ID": "2_8",
+        "Title": "China bans anti-blockchain sentiment as it prepares for launch of state cryptocurrency",
+        "Upvotes": 22,
+        "Comments": 7,
+        "Date": 1572438553.0,
+        "URL": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/china-cryptocurrency-blockchain-bitcoin-a9176636.html"
+    },
+    {
+        "ID": "2_9",
+        "Title": "Bitcoin Price Surges as Chinese President Xi Jinping Embraces Blockchain Technology",
+        "Upvotes": 15,
+        "Comments": 15,
+        "Date": 1572145497.0,
+        "URL": "https://www.newsweek.com/bitcoin-china-xi-jinping-1467983"
+    },
+    {
+        "ID": "2_10",
+        "Title": "Former Hacking Team Members Are Now Spying on the Blockchain for Coinbase: 'The Hacking Team, a controversial Italian surveillance vendor was caught several times selling spyware to governments with dubious human rights records, such as Ethiopia, Saudi Arabia, and Sudan.'",
+        "Upvotes": 9,
+        "Comments": 1,
+        "Date": 1551233806.0,
+        "URL": "https://motherboard.vice.com/en_us/article/a3bn5e/coinbase-neutrino-former-hacking-team-members"
+    },
+    {
+        "ID": "2_11",
+        "Title": "India houses the second largest pool of blockchain developers in the world",
+        "Upvotes": 5,
+        "Comments": 0,
+        "Date": 1542692773.0,
+        "URL": "https://www.moneycontrol.com/news/technology/data-story-india-houses-the-second-largest-pool-of-blockchain-developers-in-the-world-3102901.html/amp"
+    },
+    {
+        "ID": "2_12",
+        "Title": "How to Market Your Blockchain Project Without Social Media [Internet/marketing]",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1536633664.0,
+        "URL": "http://blog.ebulkemailmarketing.com/how-to-market-your-blockchain-project-without-social-media/"
+    },
+    {
+        "ID": "2_13",
+        "Title": "The city of Tsukuba in Japan is rolling out a new online blockchain voting system",
+        "Upvotes": 13,
+        "Comments": 3,
+        "Date": 1536283258.0,
+        "URL": "https://ban.cr/Tsukuba"
+    },
+    {
+        "ID": "2_14",
+        "Title": "Australian Securities Exchange (ASX) Postpones Blockchain Launch Date to 2021",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1536070721.0,
+        "URL": "https://www.livebitcoinnews.com/australian-securities-exchange-asx-postpones-blockchain-launch-date-to-2021/"
+    },
+    {
+        "ID": "2_15",
+        "Title": "N. Korea to host int'l blockchain conference in October",
+        "Upvotes": 12,
+        "Comments": 1,
+        "Date": 1535216095.0,
+        "URL": "http://english.yonhapnews.co.kr/northkorea/2018/08/25/0401000000AEN20180825000800320.html"
+    },
+    {
+        "ID": "2_16",
+        "Title": "North Korea to host international blockchain conference in October: Report",
+        "Upvotes": 6,
+        "Comments": 1,
+        "Date": 1535205808.0,
+        "URL": "https://www.straitstimes.com/asia/east-asia/north-korea-to-host-international-blockchain-conference-in-october-report"
+    },
+    {
+        "ID": "2_17",
+        "Title": "Blockchain company Soluna to build a 900 MW wind farm in Morocco-administered Western Sahara to power its blockchain facility. Construction will start in 2019.",
+        "Upvotes": 4,
+        "Comments": 4,
+        "Date": 1533928213.0,
+        "URL": "https://www.cnet.com/news/soluna-to-build-wind-farm-in-the-sahara-to-power-its-blockchain-facility/"
+    },
+    {
+        "ID": "2_18",
+        "Title": "IBM signs $1 Billion contract with Australian govt. to develop blockchain",
+        "Upvotes": 10,
+        "Comments": 5,
+        "Date": 1530865204.0,
+        "URL": "https://www.chepicap.com/en/news/1927/.html"
+    },
+    {
+        "ID": "2_19",
+        "Title": "Worlds First Korean-Government-backed Blockchain Research Institute partners with Korean Standards Agency to promote the Industry 4.0 revolution",
+        "Upvotes": 20,
+        "Comments": 2,
+        "Date": 1529142701.0,
+        "URL": "http://www.newsis.com/view/?id=NISX20180611_0000332623"
+    },
+    {
+        "ID": "2_20",
+        "Title": "China's Huobi Group to invest $100 million in new public blockchain",
+        "Upvotes": 5,
+        "Comments": 0,
+        "Date": 1528293044.0,
+        "URL": "https://www.reuters.com/article/us-huobi-blockchain-investment/chinas-huobi-group-to-invest-100-million-in-new-public-blockchain-idUSKCN1J21M2?il=0"
+    },
+    {
+        "ID": "2_21",
+        "Title": "President of China endorses blockchain technology",
+        "Upvotes": 21,
+        "Comments": 8,
+        "Date": 1527707066.0,
+        "URL": "https://thenextweb.com/hardfork/2018/05/30/president-of-china-endorses-blockchain-technology/"
+    },
+    {
+        "ID": "2_22",
+        "Title": "China Mao impersonator at blockchain conference causes furore",
+        "Upvotes": 7,
+        "Comments": 2,
+        "Date": 1527561286.0,
+        "URL": "http://www.bbc.com/news/world-asia-china-44282556"
+    },
+    {
+        "ID": "2_23",
+        "Title": "Chairman Mao stunt backfires at blockchain conference in China",
+        "Upvotes": 6,
+        "Comments": 2,
+        "Date": 1527515794.0,
+        "URL": "https://www.reuters.com/article/us-china-bitcoin-mao/chairman-mao-stunt-backfires-at-blockchain-conference-in-china-idUSKCN1IT0WU"
+    },
+    {
+        "ID": "2_24",
+        "Title": "EU Parliament: \u201cWe aspire to make the EU the leading player in Blockchain\u201d - Temporal Eternity",
+        "Upvotes": 1,
+        "Comments": 6,
+        "Date": 1527000765.0,
+        "URL": "https://temporaleternity.com/2018/05/22/eu-parliament-we-aspire-to-make-the-eu-the-leading-player-in-blockchain/"
+    },
+    {
+        "ID": "2_25",
+        "Title": "Blockchain\u2019s Potential Applications Span Multiple Sectors [Infographic] [Internet/marketing]",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1526123302.0,
+        "URL": "http://blog.ebulkemailmarketing.com/blockchains-potential-applications-span-multiple-sectors-infographic/"
+    },
+    {
+        "ID": "2_26",
+        "Title": "China Seeks To Set Up National Standards For Blockchain",
+        "Upvotes": 1,
+        "Comments": 3,
+        "Date": 1526028050.0,
+        "URL": "https://www.cryptoshorts.co/news/china-seeks-to-set-up-national-standards-for-blockchain"
+    },
+    {
+        "ID": "2_27",
+        "Title": "NASA awards new research grant for blockchain-powered autonomous spacecraft",
+        "Upvotes": 3,
+        "Comments": 10,
+        "Date": 1524204970.0,
+        "URL": "https://www.coininsider.com/nasa-blockchain-powered-autonomous-spacecraft/"
+    },
+    {
+        "ID": "2_28",
+        "Title": "Samsung Jumps on the Blockchain Bandwagon to manage supply chain",
+        "Upvotes": 5,
+        "Comments": 0,
+        "Date": 1523992503.0,
+        "URL": "https://www.bloomberg.com/news/articles/2018-04-15/samsung-jumps-on-blockchain-bandwagon-to-manage-its-supply-chain"
+    },
+    {
+        "ID": "2_29",
+        "Title": "German researchers have discovered unknown persons are using bitcoin\u2019s blockchain to store and link to child abuse imagery, potentially putting the cryptocurrency in jeopardy...making possession of it potentially unlawful in many countries.",
+        "Upvotes": 414,
+        "Comments": 188,
+        "Date": 1521550609.0,
+        "URL": "https://www.theguardian.com/technology/2018/mar/20/child-abuse-imagery-bitcoin-blockchain-illegal-content"
+    },
+    {
+        "ID": "2_30",
+        "Title": "Sierra Leone just ran the first blockchain-based election",
+        "Upvotes": 58,
+        "Comments": 17,
+        "Date": 1521395889.0,
+        "URL": "https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/"
+    },
+    {
+        "ID": "2_31",
+        "Title": "Coca-Cola and the U.S. State Department along with two other companies said on Friday they are launching a project using blockchain\u2019s digital ledger technology to create a secure registry for workers that will help fight the use of forced labor worldwide.",
+        "Upvotes": 5,
+        "Comments": 2,
+        "Date": 1521338573.0,
+        "URL": "http://www.newsweek.com/cocal-cola-and-state-department-are-using-blockchain-combat-slave-labor-850079"
+    },
+    {
+        "ID": "2_32",
+        "Title": "Sierra Leone just became the first country in the world to let its citizens vote using blockchain",
+        "Upvotes": 1214,
+        "Comments": 113,
+        "Date": 1520988556.0,
+        "URL": "http://www.businessinsider.com/sierra-leone-blockchain-elections-2018-3"
+    },
+    {
+        "ID": "2_33",
+        "Title": "Chilean National Energy Commission (CNE) says it will begin to use Blockchain technology in its national grid system. This is the government\u2019s first move toward using this type of system to track its digital movements.",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1520223556.0,
+        "URL": "https://www.telesurtv.net/english/news/Chile-Adopts-Blockchain-Solutions-for-National-Energy-Grid-20180304-0022.html"
+    },
+    {
+        "ID": "2_34",
+        "Title": "Kenyan Government Plans to Use Blockchain Technology to Reduce Fraud in the Land Registry",
+        "Upvotes": 33,
+        "Comments": 2,
+        "Date": 1519909671.0,
+        "URL": "https://www.standardmedia.co.ke/business/article/2001271535/land-register-to-use-bitcoin-technology"
+    },
+    {
+        "ID": "2_35",
+        "Title": "Chinese Universities Are Patenting Blockchain Technology",
+        "Upvotes": 11,
+        "Comments": 2,
+        "Date": 1519853677.0,
+        "URL": "https://the-blockchain-journal.com/2018/02/28/chinese-universities-are-patenting-blockchain-technology/"
+    },
+    {
+        "ID": "2_36",
+        "Title": "Chinese Retailer JD.com Launches Blockchain Accelerator",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1519786805.0,
+        "URL": "https://www.forbes.com/sites/emmasandler/2018/02/27/chinese-retailer-jd-com-launches-blockchain-accelerator/#41c869745516"
+    },
+    {
+        "ID": "2_37",
+        "Title": "Spanish Party Weighs Tax Incentives to Lure Blockchain Firms",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1518789309.0,
+        "URL": "https://www.bloomberg.com/news/articles/2018-02-15/rajoy-s-party-weighs-tax-breaks-for-spanish-blockchain-companies"
+    },
+    {
+        "ID": "2_38",
+        "Title": "BlockChain in Retail : How Blockchain Will Change the Consumer Goods Supply?",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1518178837.0,
+        "URL": "http://www.redappletech.com/blockchain-retail-industry/"
+    },
+    {
+        "ID": "2_39",
+        "Title": "UN Women, The Blockchain, And The Future of Humanitarianism",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1517870063.0,
+        "URL": "https://www.ethnews.com/un-women-the-blockchain-and-the-future-of-humanitarianism"
+    },
+    {
+        "ID": "2_40",
+        "Title": "India to Curb Cryptocurrency Use While Embracing Blockchain",
+        "Upvotes": 9,
+        "Comments": 2,
+        "Date": 1517486540.0,
+        "URL": "https://in.investing.com/news/cryptocurrency-news/india-to-curb-cryptocurrency-use-while-embracing-blockchain-995016"
+    },
+    {
+        "ID": "2_41",
+        "Title": "Stealth Ethereum Blockchain Company Buys $1 Billion Worth of Land Next to Tesla and Google",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1517252005.0,
+        "URL": "https://www.trustnodes.com/2018/01/26/stealth-ethereum-blockchain-company-buys-1-billion-worth-land-next-tesla-google"
+    },
+    {
+        "ID": "2_42",
+        "Title": "The Ex White House Deputy Press Secretary on a mission to teach us about Blockchain",
+        "Upvotes": 6,
+        "Comments": 0,
+        "Date": 1516917864.0,
+        "URL": "http://www.bbc.co.uk/news/business-42808321"
+    },
+    {
+        "ID": "2_43",
+        "Title": "The US and China Use Blockchain to Trade Soybeans",
+        "Upvotes": 2,
+        "Comments": 3,
+        "Date": 1516781158.0,
+        "URL": "http://www.coinnewsline.com/2018/01/24/the-us-and-china-use-blockchain-to-trade-soybeans/"
+    },
+    {
+        "ID": "2_44",
+        "Title": "Canada trialing use of Ethereum blockchain to enhance transparency in govt funding",
+        "Upvotes": 20,
+        "Comments": 0,
+        "Date": 1516623637.0,
+        "URL": "https://globalnews.ca/news/3977745/ethereum-blockchain-canada-nrc/"
+    },
+    {
+        "ID": "2_45",
+        "Title": "The Internet of Things and blockchain tech are made for each other",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1515756444.0,
+        "URL": "http://blog.ebulkemailmarketing.com/the-internet-of-things-and-blockchain-tech-are-made-for-each-other/"
+    },
+    {
+        "ID": "2_46",
+        "Title": "Tron cryptocoins' app wins Chinese govt. award and approval: Tron is a new cryptocoin having been released just last September. Tron intends to build a worldwide free content entertainment system using both blockchain technology and distributed storage technology.",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1515586228.0,
+        "URL": "http://www.digitaljournal.com/tech-and-science/technology/tron-cryptocoins-app-wins-chinese-govt-award-and-approval/article/511681"
+    },
+    {
+        "ID": "2_47",
+        "Title": "Exmo Bitcoin exchange manager kidnapped in Kiev - Mr Lerner is a prominent Russian blockchain expert and the news of his kidnapping has stunned many in the international cryptocurrency community.",
+        "Upvotes": 511,
+        "Comments": 132,
+        "Date": 1514517880.0,
+        "URL": "http://www.bbc.com/news/business-42505261"
+    },
+    {
+        "ID": "2_48",
+        "Title": "Dragon corp. bets on blockchain to cut costs for Asia's gambling business",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1513343042.0,
+        "URL": "https://www.reuters.com/article/us-bitcoin-macau-ico/dragon-bets-on-blockchain-to-cut-costs-for-asias-gambling-business-idUSKBN1E10DO"
+    },
+    {
+        "ID": "2_49",
+        "Title": "Australian stock exchange to move to blockchain - Australia's main stock exchange has said it will become the first global market to use the technology behind Bitcoin to clear and settle trades.",
+        "Upvotes": 1322,
+        "Comments": 187,
+        "Date": 1512642300.0,
+        "URL": "http://www.bbc.com/news/business-42261456"
+    },
+    {
+        "ID": "2_50",
+        "Title": "Amex launches blockchain-based business payments using Ripple",
+        "Upvotes": 32,
+        "Comments": 4,
+        "Date": 1510862198.0,
+        "URL": "http://www.reuters.com/article/us-blockchain-amex-ripple/amex-launches-blockchain-based-business-payments-using-ripple-idUSKBN1DG1SX"
+    },
+    {
+        "ID": "2_51",
+        "Title": "Moldova eyes blockchain to end child trafficking",
+        "Upvotes": 5,
+        "Comments": 1,
+        "Date": 1510819503.0,
+        "URL": "https://www.reuters.com/article/us-moldova-blockchain-child-trafficking/moldova-eyes-blockchain-to-end-child-trafficking-idUSKBN1DF2GQ"
+    },
+    {
+        "ID": "2_52",
+        "Title": "Russia may soon issue its own official blockchain-based currency, the CryptoRuble",
+        "Upvotes": 28,
+        "Comments": 14,
+        "Date": 1508096163.0,
+        "URL": "https://techcrunch.com/2017/10/15/russia-may-soon-issue-its-own-official-blockchain-based-currency-the-cryptoruble/"
+    },
+    {
+        "ID": "2_53",
+        "Title": "It looks like China is shutting down its blockchain economy",
+        "Upvotes": 15,
+        "Comments": 0,
+        "Date": 1505516210.0,
+        "URL": "https://arstechnica.com/tech-policy/2017/09/china-may-be-getting-ready-to-ban-bitcoin/"
+    },
+    {
+        "ID": "2_54",
+        "Title": "Japanese Government to use Blockchain technology to secure information and cut costs",
+        "Upvotes": 11,
+        "Comments": 3,
+        "Date": 1499094925.0,
+        "URL": "http://www.newsbtc.com/2017/07/03/japan-government-use-blockchain-secure-information/"
+    },
+    {
+        "ID": "2_55",
+        "Title": "Russia Will Introduce Blockchain Regulations in 2019",
+        "Upvotes": 4,
+        "Comments": 1,
+        "Date": 1494688191.0,
+        "URL": "http://crypto-insider.com/russia-will-introduce-blockchain-regulations-in-2019/"
+    },
+    {
+        "ID": "2_56",
+        "Title": "Someone Put the Tiananmen Square \u2018Tank Man\u2019 Image in the Bitcoin Blockchain to Troll China",
+        "Upvotes": 108,
+        "Comments": 41,
+        "Date": 1490290363.0,
+        "URL": "https://motherboard.vice.com/en_us/article/someone-put-the-tiananmen-square-tank-man-image-in-the-bitcoin-blockchain-to-troll-china"
+    },
+    {
+        "ID": "2_57",
+        "Title": "The First Government To Secure Land Titles On The Bitcoin Blockchain Expands Project",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1486524283.0,
+        "URL": "http://www.forbes.com/sites/laurashin/2017/02/07/the-first-government-to-secure-land-titles-on-the-bitcoin-blockchain-expands-project/#2b0eff0348b2"
+    },
+    {
+        "ID": "2_58",
+        "Title": "Reserve Bank of India says it's time to embrace blockchain and adopt a digital currency for the country",
+        "Upvotes": 9,
+        "Comments": 5,
+        "Date": 1484273555.0,
+        "URL": "http://www.moneycontrol.com/news/economy/rbi-bullishblockchain-embracesideadigital-rupee_8251321.html"
+    },
+    {
+        "ID": "2_59",
+        "Title": "Julian Assange Just Used the Bitcoin Blockchain to Prove He Is Alive",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1484176847.0,
+        "URL": "https://news.bitcoin.com/did-julian-assange-just-use-the-bitcoin-blockchain-to-prove-he-is-alive/?utm_source=dlvr.it&utm_medium=twitter"
+    },
+    {
+        "ID": "2_60",
+        "Title": "German Central Bank testing blockchain technology",
+        "Upvotes": 12,
+        "Comments": 2,
+        "Date": 1480722590.0,
+        "URL": "http://bravenewcoin.com/news/german-central-bank-testing-blockchain-technology/"
+    },
+    {
+        "ID": "2_61",
+        "Title": "European Commission's New Boost for Bitcoin and Blockchain Startups",
+        "Upvotes": 10,
+        "Comments": 0,
+        "Date": 1480005421.0,
+        "URL": "https://news.bitcoin.com/european-boost-blockchain-startups/"
+    },
+    {
+        "ID": "2_62",
+        "Title": "Over 100 migrant workers test Blockchain Remittance in Thailand",
+        "Upvotes": 33,
+        "Comments": 2,
+        "Date": 1479246886.0,
+        "URL": "https://medium.com/everex/over-100-migrant-workers-test-blockchain-remittance-in-thailand-19d49505d732#.ws8fbnh0r"
+    },
+    {
+        "ID": "2_63",
+        "Title": "Chinese Government Hosts Blockchain Conference",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1478199944.0,
+        "URL": "https://news.bitcoin.com/chinese-govt-blockchain-conference/"
+    },
+    {
+        "ID": "2_64",
+        "Title": "The Royal Bank of Scotland could be soon using the public Ethereum blockchain to support a national domestic payment system",
+        "Upvotes": 8,
+        "Comments": 0,
+        "Date": 1474643425.0,
+        "URL": "https://www.finextra.com/newsarticle/29486/rbs-tests-demonstrate-ability-of-ethereum-to-support-a-national-domestic-payments-system"
+    },
+    {
+        "ID": "2_65",
+        "Title": "Visa Testing Blockchain Technology in Europe",
+        "Upvotes": 5,
+        "Comments": 0,
+        "Date": 1473291058.0,
+        "URL": "https://finance.yahoo.com/news/visa-testing-blockchain-technology-europe-231347102.html"
+    },
+    {
+        "ID": "2_66",
+        "Title": "Bank of England and PricewaterhouseCoopers partner to explore putting fiat currency on a blockchain",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1466277615.0,
+        "URL": "http://bravenewcoin.com/news/bank-of-england-and-pricewaterhousecoopers-partner-to-explore-putting-fiat-currency-on-a-blockchain/"
+    },
+    {
+        "ID": "2_67",
+        "Title": "World\u2019s First Virtual Nation Constitution Released on Ethereum\u2019s Blockchain",
+        "Upvotes": 30,
+        "Comments": 5,
+        "Date": 1464529335.0,
+        "URL": "https://news.bitcoin.com/worlds-first-virtual-nation-constitution-released-ethereums-blockchain/"
+    },
+    {
+        "ID": "2_68",
+        "Title": "UK looking at Blockchain for tracking taxpayer money, says minister",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1461700504.0,
+        "URL": "https://www.theguardian.com/technology/2016/apr/26/bitcoin-blockchain-tracking-taxpayer-money-minister"
+    },
+    {
+        "ID": "2_69",
+        "Title": "Commonwealth Bank of Australia tests blockchain trading with 10 global banks",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1453348341.0,
+        "URL": "http://www.smh.com.au/business/banking-and-finance/commonwealth-bank-of-australia-tests-blockchain-trading-with-10-global-banks-20160120-gmalvp.html"
+    },
+    {
+        "ID": "2_70",
+        "Title": "SEC Approves Plan to Issue Stock Via Bitcoin\u2019s Blockchain",
+        "Upvotes": 10,
+        "Comments": 0,
+        "Date": 1450324581.0,
+        "URL": "http://www.wired.com/2015/12/sec-approves-plan-to-issue-company-stock-via-the-bitcoin-blockchain/"
+    },
+    {
+        "ID": "2_71",
+        "Title": "Russia\u2019s Biggest Bank Considers Implementation of the Blockchain Technology",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1449761459.0,
+        "URL": "http://forklog.net/russias-biggest-bank-considers-implementation-of-the-blockchain-technology/"
+    },
+    {
+        "ID": "2_72",
+        "Title": "Nine of the World\u2019s Biggest Banks Form Blockchain Partnership",
+        "Upvotes": 1,
+        "Comments": 3,
+        "Date": 1442352635.0,
+        "URL": "https://recode.net/2015/09/15/nine-of-the-worlds-biggest-banks-form-blockchain-partnership/"
+    },
+    {
+        "ID": "2_73",
+        "Title": "Kim Dotcom Has Big Plans For the Blockchain Technology",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1425249349.0,
+        "URL": "http://www.btcfeed.net/news/bitcoin-kim-dotcom-big-plans-future/"
+    },
+    {
+        "ID": "2_74",
+        "Title": "Edward Snowden Talks Blockchain\u2019s Role in Curbing Mass Surveillance",
+        "Upvotes": 12,
+        "Comments": 2,
+        "Date": 1422340624.0,
+        "URL": "http://insidebitcoins.com/news/edward-snowden-talks-blockchains-role-in-curbing-mass-surveillance/29247"
+    },
+    {
+        "ID": "3_1",
+        "Title": "Reddit is killing blockchain-based Community Points",
+        "Upvotes": 1185,
+        "Comments": 153,
+        "Date": 1697827606.0,
+        "URL": "https://techcrunch.com/2023/10/17/reddit-is-phasing-out-community-points-blockchain-rewards/"
+    },
+    {
+        "ID": "3_2",
+        "Title": "Reddit\u2019s blockchain-based \u201cCommunity Points\u201d rewards crash after sunsetting",
+        "Upvotes": 1043,
+        "Comments": 63,
+        "Date": 1697657091.0,
+        "URL": "https://arstechnica.com/gadgets/2023/10/reddits-blockchain-based-community-points-rewards-crash-after-sunsetting/"
+    },
+    {
+        "ID": "3_3",
+        "Title": "Exploring new avenues of blockchain innovation: As a part of ongoing research, Visa proposes account abstraction for recurring auto payments",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1671510463.0,
+        "URL": "https://usa.visa.com/visa-everywhere/blog/bdp/2022/12/16/exploring-new-avenues-1671230603572.html"
+    },
+    {
+        "ID": "3_4",
+        "Title": "Australian stock exchange defends A$255 million failed blockchain project in parliament (4 Dec 2022)",
+        "Upvotes": 20,
+        "Comments": 4,
+        "Date": 1670542576.0,
+        "URL": "https://thestarphoenix.com/pmn/business-pmn/australian-stock-exchange-defends-failed-blockchain-project-in-parliament"
+    },
+    {
+        "ID": "3_5",
+        "Title": "IBM and Maersk to shut down TradeLens supply chain platform - Project with shipping giant was once floated as ideal blockchain use case \u2013 but industry didn't buy in",
+        "Upvotes": 123,
+        "Comments": 48,
+        "Date": 1669821094.0,
+        "URL": "https://www.theregister.com/2022/11/30/ibm_and_maersk_tradelens_shutdown/"
+    },
+    {
+        "ID": "3_6",
+        "Title": "AWS and Blockchain",
+        "Upvotes": 0,
+        "Comments": 11,
+        "Date": 1669071059.0,
+        "URL": "https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain"
+    },
+    {
+        "ID": "3_7",
+        "Title": "Sega announces partnership for its first blockchain game",
+        "Upvotes": 0,
+        "Comments": 7,
+        "Date": 1664468103.0,
+        "URL": "https://www.nme.com/news/gaming-news/sega-announces-partnership-for-its-first-blockchain-game-3319677"
+    },
+    {
+        "ID": "3_8",
+        "Title": "Starbucks details its blockchain-based loyalty platform and NFT community, Starbucks Odyssey",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1663713824.0,
+        "URL": "https://techcrunch.com/2022/09/12/starbucks-unveils-its-blockchain-based-loyalty-platform-and-nft-community-starbucks-odyssey/"
+    },
+    {
+        "ID": "3_9",
+        "Title": "Reddit\u2019s CEO explains why he\u2019s still big on the blockchain",
+        "Upvotes": 1536,
+        "Comments": 589,
+        "Date": 1661562024.0,
+        "URL": "https://www.theverge.com/23323098/reddit-steve-huffman-interview-blockchain-avatars"
+    },
+    {
+        "ID": "3_10",
+        "Title": "Mojang Bans All Blockchain Tech (And NFTs) From Minecraft",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1658399483.0,
+        "URL": "https://kotaku.com/minecraft-nft-blockchain-mojang-microsoft-ban-scam-1849234967"
+    },
+    {
+        "ID": "3_11",
+        "Title": "Pentagon finds concerning vulnerabilities on blockchain",
+        "Upvotes": 25296,
+        "Comments": 2429,
+        "Date": 1656585869.0,
+        "URL": "https://www.techrepublic.com/article/pentagon-finds-concerning-vulnerabilities-on-blockchain/"
+    },
+    {
+        "ID": "3_12",
+        "Title": "Hackers swipe $100 million in cryptocurrency from blockchain bridge Harmony",
+        "Upvotes": 28,
+        "Comments": 11,
+        "Date": 1656097611.0,
+        "URL": "https://www.cbsnews.com/news/harmony-horizon-cryptocurrency-theft-100-million-blockchain-bridge/"
+    },
+    {
+        "ID": "3_13",
+        "Title": "SEGAs current plans for blockchain explained",
+        "Upvotes": 5,
+        "Comments": 3,
+        "Date": 1655765984.0,
+        "URL": "https://www.finder.com.au/sega-nfts-metaverse-guide"
+    },
+    {
+        "ID": "3_14",
+        "Title": "Can blockchain help build a non-toxic version of Facebook?",
+        "Upvotes": 0,
+        "Comments": 159,
+        "Date": 1654195966.0,
+        "URL": "https://www.protocol.com/fintech/mccourt-wood-democracy-blockchain"
+    },
+    {
+        "ID": "3_15",
+        "Title": "Ethereum's co-founder thinks the blockchain can fix social media",
+        "Upvotes": 84,
+        "Comments": 254,
+        "Date": 1653405327.0,
+        "URL": "https://www.protocol.com/policy/mccourt-wood-decentralized-social-media"
+    },
+    {
+        "ID": "3_16",
+        "Title": "As per Blockchain Data, The Ronin Exploit Has Generated $10 Million In Ether",
+        "Upvotes": 3,
+        "Comments": 5,
+        "Date": 1653176710.0,
+        "URL": "https://www.thecoinrepublic.com/2022/05/20/as-per-blockchain-data-the-ronin-exploit-has-generated-10-million-in-ether/"
+    },
+    {
+        "ID": "3_17",
+        "Title": "China has been quietly building a blockchain platform. Here\u2019s what we know",
+        "Upvotes": 2697,
+        "Comments": 378,
+        "Date": 1652663016.0,
+        "URL": "https://www.cnbc.com/2022/05/16/china-blockchain-explainer-what-is-bsn-.html"
+    },
+    {
+        "ID": "3_18",
+        "Title": "Terraform Again Halts Blockchain Behind UST Stablecoin, Luna",
+        "Upvotes": 87,
+        "Comments": 35,
+        "Date": 1652413270.0,
+        "URL": "https://www.bloomberg.com/news/articles/2022-05-13/terraform-again-halts-blockchain-behind-ust-stablecoin-luna?srnd=premium"
+    },
+    {
+        "ID": "3_19",
+        "Title": "Reggie Fils-Aim\u00e9 thinks Animal Crossing could make a good blockchain game",
+        "Upvotes": 442,
+        "Comments": 447,
+        "Date": 1651412527.0,
+        "URL": "https://www.videogameschronicle.com/news/reggie-fils-aime-thinks-animal-crossing-could-make-a-good-blockchain-game/"
+    },
+    {
+        "ID": "3_20",
+        "Title": "Nokia Bell Labs Partners With Equideum Health For Cognitive Augmentation Using Blockchain",
+        "Upvotes": 8,
+        "Comments": 1,
+        "Date": 1649871374.0,
+        "URL": "https://www.ledgerinsights.com/nokia-bell-labs-partners-equideum-health-for-cognitive-augmentation-using-blockchain/"
+    },
+    {
+        "ID": "3_21",
+        "Title": "Nokia Data Marketplace Paves Way for Blockchain-Based Monetization of Health Data",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1649248873.0,
+        "URL": "https://www.thefastmode.com/expert-opinion/24064-nokia-data-marketplace-paves-way-for-blockchain-based-monetization-of-health-data"
+    },
+    {
+        "ID": "3_22",
+        "Title": "A Brief Introduction to the Phonon Protocol",
+        "Upvotes": 29,
+        "Comments": 13,
+        "Date": 1648478362.0,
+        "URL": "https://www.reddit.com/r/technology/comments/tqary3/a_brief_introduction_to_the_phonon_protocol/"
+    },
+    {
+        "ID": "3_23",
+        "Title": "Blockchain is a terrible idea for elections, actually",
+        "Upvotes": 222,
+        "Comments": 153,
+        "Date": 1648147443.0,
+        "URL": "https://www.protocol.com/bulletins/blockchain-voting-report"
+    },
+    {
+        "ID": "3_24",
+        "Title": "Octave Ventures makes 1st India Investment in Hyderabad-based blockchain tech co",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1644318472.0,
+        "URL": "https://www.livemint.com/companies/news/usbased-octave-ventures-makes-its-first-india-investment-in-hyderabad-based-blockchain-tech-firm-11644314870346.html"
+    },
+    {
+        "ID": "3_25",
+        "Title": "Google CEO Weighs In on Web3, Says He\u2019s \u2018Looking at Blockchain\u2019",
+        "Upvotes": 4,
+        "Comments": 11,
+        "Date": 1643809123.0,
+        "URL": "https://www.bloomberg.com/news/articles/2022-02-02/google-ceo-weighs-in-on-web3-says-he-s-looking-at-blockchain"
+    },
+    {
+        "ID": "3_26",
+        "Title": "How AI, VR, AR, 5G, and blockchain may converge to power the metaverse",
+        "Upvotes": 0,
+        "Comments": 22,
+        "Date": 1643533505.0,
+        "URL": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/"
+    },
+    {
+        "ID": "3_27",
+        "Title": "Game Developers Conference report: most developers frown on blockchain games",
+        "Upvotes": 1601,
+        "Comments": 547,
+        "Date": 1642726509.0,
+        "URL": "https://www.techspot.com/news/93075-game-developers-conference-report-indicates-most-developer-frown.html"
+    },
+    {
+        "ID": "3_28",
+        "Title": "Will blockchain fulfil its democratic promise or will it become a tool of big tech?",
+        "Upvotes": 209,
+        "Comments": 215,
+        "Date": 1642305678.0,
+        "URL": "https://www.theguardian.com/commentisfree/2022/jan/15/will-blockchain-fulfil-its-democratic-promise-or-will-it-become-a-tool-of-big-tech"
+    },
+    {
+        "ID": "3_29",
+        "Title": "People Building \u2018Blockchain City\u2019 in Wyoming Scammed by Hackers",
+        "Upvotes": 103,
+        "Comments": 81,
+        "Date": 1642131791.0,
+        "URL": "https://www.vice.com/en/article/k7w3am/people-building-blockchain-city-in-wyoming-scammed-by-hackers"
+    },
+    {
+        "ID": "3_30",
+        "Title": "How Walmart Canada Uses Blockchain to Solve Supply-Chain Challenges",
+        "Upvotes": 12,
+        "Comments": 4,
+        "Date": 1641475541.0,
+        "URL": "https://hbr.org/2022/01/how-walmart-canada-uses-blockchain-to-solve-supply-chain-challenges"
+    },
+    {
+        "ID": "3_31",
+        "Title": "CCP Games CEO voices support for NFTs and play-to-earn schemes but won\u2019t link EVE Online to a blockchain",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1640275175.0,
+        "URL": "https://massivelyop.com/2021/12/23/ccp-games-ceo-voices-support-for-nfts-and-play-to-earn-schemes-but-wont-link-eve-online-to-a-blockchain/"
+    },
+    {
+        "ID": "3_32",
+        "Title": "The US Postal Service secretly tested a blockchain mobile voting system",
+        "Upvotes": 93,
+        "Comments": 32,
+        "Date": 1639523706.0,
+        "URL": "https://www.engadget.com/us-postal-service-blockchain-mobile-voting-test-160914015.html"
+    },
+    {
+        "ID": "3_33",
+        "Title": "Peter Molyneux's Next Game Is a Blockchain-Powered Business Sim",
+        "Upvotes": 0,
+        "Comments": 2,
+        "Date": 1639439411.0,
+        "URL": "https://www.ign.com/articles/peter-molyneuxs-next-game-blockchain-powered-business-sim"
+    },
+    {
+        "ID": "3_34",
+        "Title": "How Cybercriminals Are Using Bitcoin's Blockchain to Make Botnets Stronger Than Ever",
+        "Upvotes": 12,
+        "Comments": 4,
+        "Date": 1639419245.0,
+        "URL": "https://gizmodo.com/how-cybercriminals-are-using-bitcoins-blockchain-to-mak-1848189767"
+    },
+    {
+        "ID": "3_35",
+        "Title": "Nokia Gets Blockchain DNS Patent",
+        "Upvotes": 7,
+        "Comments": 2,
+        "Date": 1639064442.0,
+        "URL": "https://domainnamewire.com/2021/12/07/nokia-gets-blockchain-dns-patent/"
+    },
+    {
+        "ID": "3_36",
+        "Title": "Kickstarter Will Move Its Crowdfunding Platform to Blockchain",
+        "Upvotes": 9,
+        "Comments": 9,
+        "Date": 1639008047.0,
+        "URL": "https://www.bloomberg.com/news/articles/2021-12-08/kickstarter-blockchain-will-combine-crowdfunding-with-crypto"
+    },
+    {
+        "ID": "3_37",
+        "Title": "Vietnam blockchain game hub Whydah nets US$25m fundraise",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1638972164.0,
+        "URL": "https://www.techinasia.com/vietnamese-blockchain-gaming-hub-raises-us25m"
+    },
+    {
+        "ID": "3_38",
+        "Title": "Ubisoft Announces Quartz, a Blockchain-Powered NFT Cosmetics System",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1638903787.0,
+        "URL": "https://www.ign.com/articles/ubisoft-quartz-announced-blockchain-nfts-digits-cosmetics"
+    },
+    {
+        "ID": "3_39",
+        "Title": "It's long past time for cost-benefit analysis on blockchain",
+        "Upvotes": 22,
+        "Comments": 4,
+        "Date": 1638821817.0,
+        "URL": "https://www.theregister.com/2021/12/06/the_dark_equation_of_harm/"
+    },
+    {
+        "ID": "3_40",
+        "Title": "The co-founder of Reddit to partner on $100 million investment to build social media on the solana blockchain",
+        "Upvotes": 50,
+        "Comments": 89,
+        "Date": 1636474493.0,
+        "URL": "https://markets.businessinsider.com/news/currencies/reddit-cofounder-ohanian-invests-100-million-social-media-solana-blockchain-2021-11"
+    },
+    {
+        "ID": "3_41",
+        "Title": "Ubisoft plans to develop blockchain-based play-to-earn NFT games",
+        "Upvotes": 0,
+        "Comments": 5,
+        "Date": 1636048896.0,
+        "URL": "https://www.notebookcheck.net/Ubisoft-plans-to-develop-blockchain-based-play-to-earn-NFT-games.577154.0.html"
+    },
+    {
+        "ID": "3_42",
+        "Title": "29 blockchain game studios and groups blast Valve for NFT games ban",
+        "Upvotes": 7,
+        "Comments": 33,
+        "Date": 1635291240.0,
+        "URL": "https://venturebeat.com/2021/10/26/29-blockchain-game-studios-and-groups-blast-valve-for-nft-games-ban/"
+    },
+    {
+        "ID": "3_43",
+        "Title": "Epic says it\u2019s \u2018open\u2019 to blockchain games after Steam bans them",
+        "Upvotes": 25,
+        "Comments": 20,
+        "Date": 1634395730.0,
+        "URL": "https://www.theverge.com/2021/10/15/22729050/epic-game-store-open-to-blockchain-cryptocurrency-nft-games"
+    },
+    {
+        "ID": "3_44",
+        "Title": "Valve banned all blockchain/NFT games from Steam",
+        "Upvotes": 818,
+        "Comments": 278,
+        "Date": 1634325899.0,
+        "URL": "https://www.resetera.com/threads/valve-banned-all-blockchain-nft-games-from-steam.500760/"
+    },
+    {
+        "ID": "3_45",
+        "Title": "Session Is a Blockchain-Based Private Messenger That Uses Decentralised Server Nodes To Ensure Anonymity",
+        "Upvotes": 12,
+        "Comments": 14,
+        "Date": 1633778369.0,
+        "URL": "https://gadgets.ndtv.com/cryptocurrency/news/session-private-blockchain-messenger-decentralised-nodes-2568208"
+    },
+    {
+        "ID": "3_46",
+        "Title": "Mastercard makes a big bet on crypto, buying blockchain analytics start-up CipherTrace",
+        "Upvotes": 18,
+        "Comments": 4,
+        "Date": 1631298379.0,
+        "URL": "https://www.cnbc.com/2021/09/09/mastercard-to-buy-blockchain-analytics-start-up-ciphertrace.html"
+    },
+    {
+        "ID": "3_47",
+        "Title": "The Future of Fintech: AI & Blockchain",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1631172355.0,
+        "URL": "http://businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain"
+    },
+    {
+        "ID": "3_48",
+        "Title": "New job posting shows Amazon seeking a digital currency and blockchain expert",
+        "Upvotes": 24,
+        "Comments": 0,
+        "Date": 1627140945.0,
+        "URL": "https://www.theverge.com/2021/7/24/22591754/amazon-hiring-cryptocurrency-aws-payments-jassy"
+    },
+    {
+        "ID": "3_49",
+        "Title": "Blockchain will be \u2018hugely disruptive' to finance: Franklin Templeton CEO",
+        "Upvotes": 2,
+        "Comments": 8,
+        "Date": 1626461842.0,
+        "URL": "https://finance.yahoo.com/news/blockchain-will-be-hugely-disruptive-to-finance-franklin-templeton-ceo-153618862.html"
+    },
+    {
+        "ID": "3_50",
+        "Title": "Energy Harbor Partners with Standard Power to Provide Carbon-Free Nuclear Power to New Ohio Bitcoin Blockchain Mining Center",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1626254202.0,
+        "URL": "https://www.prnewswire.com/news-releases/energy-harbor-partners-with-standard-power-to-provide-carbon-free-nuclear-power-to-new-ohio-bitcoin-blockchain-mining-center-301331473.html"
+    },
+    {
+        "ID": "3_51",
+        "Title": "Yanis Varoufakis Trashes Bitcoin But Lauds Blockchain",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1626218888.0,
+        "URL": "https://greekreporter.com/2021/06/27/bitcoin-varoufakis-blockchain-crypto/"
+    },
+    {
+        "ID": "3_52",
+        "Title": "Insider trading charges filed over Long Island Iced Tea's blockchain 'pivot'",
+        "Upvotes": 15,
+        "Comments": 1,
+        "Date": 1625953034.0,
+        "URL": "https://www.cnn.com/2021/07/10/investing/blockchain-long-island-insider-trading/index.html"
+    },
+    {
+        "ID": "3_53",
+        "Title": "Why Nobody Can Hack a Blockchain",
+        "Upvotes": 0,
+        "Comments": 9,
+        "Date": 1625029924.0,
+        "URL": "https://coinmarketcap.com/alexandria/article/why-nobody-can-hack-a-blockchain"
+    },
+    {
+        "ID": "3_54",
+        "Title": "Hong Kong's Apple Daily to live on in blockchain, free of censors",
+        "Upvotes": 50,
+        "Comments": 4,
+        "Date": 1624581148.0,
+        "URL": "https://www.reuters.com/article/us-hongkong-security-apple-daily-blockch-idCAKCN2E00JP"
+    },
+    {
+        "ID": "3_55",
+        "Title": "Blockchain.com will let people use human-readable usernames in blockchain transactions",
+        "Upvotes": 17,
+        "Comments": 2,
+        "Date": 1624540478.0,
+        "URL": "https://venturebeat.com/2021/06/24/blockchain-com-will-let-people-use-human-readable-usernames-in-blockchain-transactions/"
+    },
+    {
+        "ID": "3_56",
+        "Title": "Bitcoin is worth zero and there is no evidence that blockchain is a useful technology, Black Swan author Nassim Taleb says",
+        "Upvotes": 230,
+        "Comments": 236,
+        "Date": 1624413691.0,
+        "URL": "https://www.businessinsider.com/bitcoin-price-worth-zero-black-swan-author-nassim-taleb-blockchain-2021-6"
+    },
+    {
+        "ID": "3_57",
+        "Title": "Today's blockchain use cases and industry applications",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1623852137.0,
+        "URL": "https://searchcio.techtarget.com/feature/Todays-blockchain-use-cases-and-industry-applications"
+    },
+    {
+        "ID": "3_58",
+        "Title": "Disney Patents Blockchain-Based Movie Distribution System to Stop Pirates",
+        "Upvotes": 56,
+        "Comments": 25,
+        "Date": 1620872014.0,
+        "URL": "https://torrentfreak.com/disney-patents-blockchain-based-movie-distribution-system-to-stop-pirates-210512/"
+    },
+    {
+        "ID": "3_59",
+        "Title": "LVMH, Richemont and Prada unite behind a blockchain consortium.",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1619058589.0,
+        "URL": "https://www.nytimes.com/2021/04/20/business/lvmh-richemont-prada-blockchain.html"
+    },
+    {
+        "ID": "3_60",
+        "Title": "NDIS gets a government app with blockchain but no ethics",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1618345394.0,
+        "URL": "https://www.zdnet.com/article/ndis-gets-a-government-app-with-blockchain-but-no-ethics/"
+    },
+    {
+        "ID": "3_61",
+        "Title": "China is leading global blockchain adoption for digital transformation",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1617038009.0,
+        "URL": "https://www.zdnet.com/article/china-is-leading-global-blockchain-adoption-for-digital-transformation/"
+    },
+    {
+        "ID": "3_62",
+        "Title": "A blockchain tweak could fix crypto\u2019s colossal energy problem",
+        "Upvotes": 18,
+        "Comments": 12,
+        "Date": 1616521784.0,
+        "URL": "https://www.wired.co.uk/article/blockchain-cryptocurrency-energy-use"
+    },
+    {
+        "ID": "3_63",
+        "Title": "What Are NFTs, Anyway? One Just Sold for $69 Million \u2014 \u201cNonfungible tokens\u201d and blockchain technology are taking the mainstream art world by storm, fetching huge prices. We explain, or try to.",
+        "Upvotes": 12,
+        "Comments": 20,
+        "Date": 1615521833.0,
+        "URL": "https://www.nytimes.com/2021/03/11/arts/design/what-is-an-nft.html"
+    },
+    {
+        "ID": "3_64",
+        "Title": "Nevada Governor Lays Out Plans for a City Built on Blockchain",
+        "Upvotes": 0,
+        "Comments": 4,
+        "Date": 1614529114.0,
+        "URL": "https://www.wsj.com/articles/nevada-governor-lays-out-plans-for-a-city-built-on-blockchain-11614389992?mod=trending_now_news_4"
+    },
+    {
+        "ID": "3_65",
+        "Title": "This botnet is abusing Bitcoin blockchains to stay in the shadows",
+        "Upvotes": 9,
+        "Comments": 0,
+        "Date": 1614280600.0,
+        "URL": "https://www.zdnet.com/article/this-botnet-is-abusing-bitcoin-blockchains-to-stay-in-the-shadows/"
+    },
+    {
+        "ID": "3_66",
+        "Title": "SEC halts trading of Iced Tea company that pivoted to Blockchain",
+        "Upvotes": 14,
+        "Comments": 3,
+        "Date": 1614106607.0,
+        "URL": "https://arstechnica.com/tech-policy/2021/02/sec-halts-trading-of-iced-tea-company-that-pivoted-to-blockchain/"
+    },
+    {
+        "ID": "3_67",
+        "Title": "The bitcoin blockchain is helping keep a botnet from being taken down",
+        "Upvotes": 18,
+        "Comments": 4,
+        "Date": 1614089918.0,
+        "URL": "https://arstechnica.com/information-technology/2021/02/crooks-use-the-bitcoin-blockchain-to-protect-their-botnets-from-takedown/"
+    },
+    {
+        "ID": "3_68",
+        "Title": "2021 Technology trend review [] : Blockchain, Cloud, Open Source",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1610396199.0,
+        "URL": "https://www.zdnet.com/article/2021-technology-trend-review-part-1-blockchain-cloud-open-source/"
+    },
+    {
+        "ID": "3_69",
+        "Title": "Crypto Markets Jump on OCC Approval for Banks to Use Blockchains",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1609825944.0,
+        "URL": "https://www.coindesk.com/cryptocurrency-markets-react-occ-banks-blockchains-price"
+    },
+    {
+        "ID": "3_70",
+        "Title": "Blockchain firm Ripple plans to fight approaching U.S. SEC lawsuit",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1608751917.0,
+        "URL": "https://www.reuters.com/article/ripple-regulator-idUSL4N2J21MW"
+    },
+    {
+        "ID": "3_71",
+        "Title": "Disrupting Finance: How Blockchain Can Streamline Capital Markets",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1608618450.0,
+        "URL": "https://blog.fasset.com/disrupting-finance-blockchain-streamline-capital-markets/"
+    },
+    {
+        "ID": "3_72",
+        "Title": "Don\u2019t Sleep on China\u2019s New Blockchain Internet",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1605028337.0,
+        "URL": "https://www.lawfareblog.com/dont-sleep-chinas-new-blockchain-internet"
+    },
+    {
+        "ID": "3_73",
+        "Title": "Could blockchain help us design digital voting systems?",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1604614710.0,
+        "URL": "https://www.reddit.com/r/technology/comments/josfr7/could_blockchain_help_us_design_digital_voting/"
+    },
+    {
+        "ID": "3_74",
+        "Title": "Homeland Security Funds 5 New Projects Exploring Blockchain Technology",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1602623429.0,
+        "URL": "https://www.nextgov.com/emerging-tech/2020/10/homeland-security-funds-5-new-projects-exploring-blockchain-technology/169205/"
+    },
+    {
+        "ID": "3_75",
+        "Title": "House Lawmakers Re-Introduce Bill to Provide Legal Backing for Blockchain Records",
+        "Upvotes": 6,
+        "Comments": 0,
+        "Date": 1602183558.0,
+        "URL": "https://www.nextgov.com/emerging-tech/2020/10/house-lawmakers-re-introduce-bill-provide-legal-backing-blockchain-records/169122/"
+    },
+    {
+        "ID": "3_76",
+        "Title": "The IRS Wants to Buy Tools to Trace Privacy-Focused Cryptocurrency Monero - The IRS is now offering up to $625,000 for new tools to track down criminals using the privacy-focused Monero cryptocurrency and new blockchain technology such as the Bitcoin Lightning Network",
+        "Upvotes": 21,
+        "Comments": 12,
+        "Date": 1599875724.0,
+        "URL": "https://www.vice.com/en_us/article/wxq9xx/the-irs-wants-to-buy-tools-to-trace-privacy-focused-cryptocurrency-monero"
+    },
+    {
+        "ID": "3_77",
+        "Title": "There's No Good Reason to Trust Blockchain Technology",
+        "Upvotes": 54,
+        "Comments": 30,
+        "Date": 1598194539.0,
+        "URL": "https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/"
+    },
+    {
+        "ID": "3_78",
+        "Title": "The U.S. Election System Is Not Ready for Blockchain Technology \u2026 Yet- Nextgov",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1597336694.0,
+        "URL": "https://www.nextgov.com/ideas/2020/08/us-election-system-not-ready-blockchain-technology-yet/167609/"
+    },
+    {
+        "ID": "3_79",
+        "Title": "No to Blockchain Credentials of COVID-19 Test Results for Entry to Public Spaces",
+        "Upvotes": 14,
+        "Comments": 0,
+        "Date": 1596744129.0,
+        "URL": "https://www.eff.org/deeplinks/2020/08/no-blockchain-credentials-covid-19-test-results-entry-public-spaces"
+    },
+    {
+        "ID": "3_80",
+        "Title": "Self-Sovereign Identity in the Blockchain Age",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1596554065.0,
+        "URL": "https://www.libertarianism.org/articles/self-sovereign-identity-blockchain-age"
+    },
+    {
+        "ID": "3_81",
+        "Title": "Twitter hacking megathread",
+        "Upvotes": 2894,
+        "Comments": 1062,
+        "Date": 1594849605.0,
+        "URL": "https://www.reddit.com/r/technology/comments/hrwv2q/twitter_hacking_megathread/"
+    },
+    {
+        "ID": "3_82",
+        "Title": "Telegram Ditches $1.7Bln Blockchain Launch - The Moscow Times",
+        "Upvotes": 5,
+        "Comments": 10,
+        "Date": 1589439940.0,
+        "URL": "https://www.themoscowtimes.com/2020/05/12/telegram-ditches-17bln-blockchain-launch-a70252"
+    },
+    {
+        "ID": "3_83",
+        "Title": "Reddit launches Community Points tokens on the Ethereum blockchain",
+        "Upvotes": 8,
+        "Comments": 1,
+        "Date": 1589410478.0,
+        "URL": "https://old.reddit.com/r/CryptoCurrency/comments/gj96lb/introducing_rcryptocurrency_moons/"
+    },
+    {
+        "ID": "3_84",
+        "Title": "HTC\u2019s blockchain phone takes over a century to mine enough crypto to pay for itself",
+        "Upvotes": 40,
+        "Comments": 5,
+        "Date": 1588298973.0,
+        "URL": "https://www.theverge.com/2020/4/28/21239866/htc-exoudus-1s-monero-mining-cryptocurrency-blockchain-phone"
+    },
+    {
+        "ID": "3_85",
+        "Title": "Chinese giants Huawei and Tencent join national group on blockchain after Xi\u2019s backing for the tech",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1586935194.0,
+        "URL": "https://www.cnbc.com/2020/04/15/huawei-tencent-on-china-blockchain-national-committee.html"
+    },
+    {
+        "ID": "3_86",
+        "Title": "Hired: AR/VR engineers replace blockchain programmers as hottest commodity",
+        "Upvotes": 5,
+        "Comments": 6,
+        "Date": 1581504831.0,
+        "URL": "https://venturebeat.com/2020/02/11/hired-ar-vr-engineers-replace-blockchain-programmers-as-a-hot-commodity/amp/"
+    },
+    {
+        "ID": "3_87",
+        "Title": "Trust No One. Not Even a Blockchain.",
+        "Upvotes": 3,
+        "Comments": 3,
+        "Date": 1580138944.0,
+        "URL": "https://slate.com/technology/2020/01/blockchain-trust-response-essay.html"
+    },
+    {
+        "ID": "3_88",
+        "Title": "AI, Blockchain technology to rescue modern slaves: For years people have been knowingly or unknowingly consuming goods made by millions of forced workers worldwide. Now, technology is forcing them to reflect on their choices by exposing their complicity in slavery",
+        "Upvotes": 6,
+        "Comments": 3,
+        "Date": 1579882021.0,
+        "URL": "https://www.dw.com/en/ai-blockchain-technology-to-rescue-modern-slaves/a-52137018"
+    },
+    {
+        "ID": "3_89",
+        "Title": "How blockchain will kill fake news (and four other predictions for 2020)",
+        "Upvotes": 0,
+        "Comments": 9,
+        "Date": 1575473995.0,
+        "URL": "https://www.computerworld.com/article/3481633/how-blockchain-will-kill-fake-news-and-four-other-predictions-for-2020.html"
+    },
+    {
+        "ID": "3_90",
+        "Title": "Blockchain Developer Gets Busted After Talk in North Korea",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1575421092.0,
+        "URL": "https://www.wired.com/story/blockchain-developer-gets-busted-after-talk-in-north-korea/"
+    },
+    {
+        "ID": "3_91",
+        "Title": "Walmart launches \u2018world\u2019s largest\u2019 blockchain-based freight-and-payment network",
+        "Upvotes": 9,
+        "Comments": 2,
+        "Date": 1574406841.0,
+        "URL": "https://www.computerworld.com/article/3454336/walmart-launches-world-s-largest-blockchain-based-freight-and-payment-network.html"
+    },
+    {
+        "ID": "3_92",
+        "Title": "China throws its weight behind A.I. and blockchain as it aims to be the world\u2019s tech leader",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1573790277.0,
+        "URL": "https://www.cnbc.com/2019/11/15/china-technology-trends-from-blockchain-to-ai-and-fintech.html"
+    },
+    {
+        "ID": "3_93",
+        "Title": "China\u2019s leaders have embraced blockchains (er, minus the decentralized bit) - MIT Technology Review",
+        "Upvotes": 4,
+        "Comments": 1,
+        "Date": 1572338768.0,
+        "URL": "https://www.technologyreview.com/f/614639/chinas-leaders-have-embraced-blockchains-erm-minus-the-decentralized-bit/"
+    },
+    {
+        "ID": "3_94",
+        "Title": "Zamna raises $5M to automate airport security checks between agencies using blockchain",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1572254894.0,
+        "URL": "https://techcrunch.com/2019/10/26/zamna-raises-5m-to-automate-airport-security-checks-between-agencies-using-blockchain/"
+    },
+    {
+        "ID": "3_95",
+        "Title": "Blockchain offers numerous applications well beyond Bitcoin, but faces its own limitations",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1571246987.0,
+        "URL": "https://www.pnas.org/content/116/42/20800"
+    },
+    {
+        "ID": "3_96",
+        "Title": "How a blockchain-based digital ID system could help tackle human trafficking",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1571054793.0,
+        "URL": "https://thenextweb.com/hardfork/2019/10/14/how-a-blockchain-based-digital-id-system-could-help-tackle-human-trafficking-edited/"
+    },
+    {
+        "ID": "3_97",
+        "Title": "New blockchain-based music streaming service Audius is a copyright nightmare",
+        "Upvotes": 4,
+        "Comments": 3,
+        "Date": 1570721525.0,
+        "URL": "https://www.theverge.com/2019/10/9/20905384/audius-blockchain-music-streaming-service-copyright-infringement-piracy"
+    },
+    {
+        "ID": "3_98",
+        "Title": "IKEA just allowed an invoice to be paid via the Ethereum blockchain",
+        "Upvotes": 21,
+        "Comments": 1,
+        "Date": 1570038716.0,
+        "URL": "https://thenextweb.com/hardfork/2019/10/02/ikea-iceland-smart-contracts-ethereum-tradeshift-monerium-invoice-nordic-store/"
+    },
+    {
+        "ID": "3_99",
+        "Title": "It's official folks, Blockchain and crypto has arrived.",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1566892803.0,
+        "URL": "https://www.forbes.com/sites/billybambrough/2019/08/26/bitcoin-and-blockchain-are-now-a-big-2020-us-presidential-election-issue/#36d2a5ca1abc"
+    },
+    {
+        "ID": "3_100",
+        "Title": "Moscow's blockchain voting system cracked a month before election",
+        "Upvotes": 287,
+        "Comments": 86,
+        "Date": 1566376446.0,
+        "URL": "https://www.zdnet.com/article/moscows-blockchain-voting-system-cracked-a-month-before-election/"
+    },
+    {
+        "ID": "3_101",
+        "Title": "Cryptocracy: A Discussion of how Crypto Could Affect Governance",
+        "Upvotes": 0,
+        "Comments": 5,
+        "Date": 1563275972.0,
+        "URL": "https://www.reddit.com/r/technology/comments/cdvp5k/cryptocracy_a_discussion_of_how_crypto_could/"
+    },
+    {
+        "ID": "3_102",
+        "Title": "How important will blockchain be to the world's economy?",
+        "Upvotes": 0,
+        "Comments": 10,
+        "Date": 1562172658.0,
+        "URL": "https://www.bbc.com/news/business-48526666"
+    },
+    {
+        "ID": "3_103",
+        "Title": "Uber, MasterCard, Visa and other big companies have reportedly signed on to Facebook's blockchain efforts",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1560615371.0,
+        "URL": "https://www.businessinsider.fr/us/facebook-enlists-uber-mastercard-visa-back-cryptocurrency-2019-6"
+    },
+    {
+        "ID": "3_104",
+        "Title": "The Blockchain Explosion Already Underway In South Korea",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1560526000.0,
+        "URL": "https://www.entrepreneur.com/article/333140"
+    },
+    {
+        "ID": "3_105",
+        "Title": "IBM, Walmart, Merck in blockchain collaboration with FDA",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1560436419.0,
+        "URL": "https://www.reuters.com/article/us-fda-blockchain/ibm-walmart-merck-in-blockchain-collaboration-with-fda-idUSKCN1TE1SA"
+    },
+    {
+        "ID": "3_106",
+        "Title": "New SEC lawsuit could decide the fate of dozens of blockchain projects",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1559844244.0,
+        "URL": "https://arstechnica.com/tech-policy/2019/06/new-sec-lawsuit-could-decide-the-fate-of-dozens-of-blockchain-projects/"
+    },
+    {
+        "ID": "3_107",
+        "Title": "How Vodafone Idea, Jio, Airtel & BSNL executing world's largest blockchain use case to curb pesky calls, SMS",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1558901357.0,
+        "URL": "https://telecom.economictimes.indiatimes.com/news/how-vodafone-idea-jio-airtel-bsnl-executing-worlds-largest-blockchain-use-case-to-curb-pesky-calls-sms/69506143"
+    },
+    {
+        "ID": "3_108",
+        "Title": "Big Tech leapt on the blockchain bandwagon but its applications are stuck in cryptocurrency",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1557975628.0,
+        "URL": "https://www.theregister.co.uk/2019/05/15/inflated_expectations_for_blockchain/"
+    },
+    {
+        "ID": "3_109",
+        "Title": "Facebook stops blocking some blockchain ads",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1557342981.0,
+        "URL": "https://techcrunch.com/2019/05/08/facebook-blockchain-ad-ban/"
+    },
+    {
+        "ID": "3_110",
+        "Title": "Microsoft is partnering with JPMorgan Chase on its blockchain product",
+        "Upvotes": 5,
+        "Comments": 3,
+        "Date": 1556835673.0,
+        "URL": "https://www.businessinsider.com/microsoft-blockchain-partnership-jpmorgan-chase-2019-5"
+    },
+    {
+        "ID": "3_111",
+        "Title": "Nike\u2019s \u2018cryptokicks\u2019 trademark application hints at its new blockchain ambitions",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1556212907.0,
+        "URL": "https://thenextweb.com/blockchain/2019/04/25/nikes-cryptokicks-trademark-application-hints-at-its-new-blockchain-ambitions/"
+    },
+    {
+        "ID": "3_112",
+        "Title": "A 'Blockchain Bandit' Is Guessing Private Keys and Scoring Millions",
+        "Upvotes": 160,
+        "Comments": 42,
+        "Date": 1556019014.0,
+        "URL": "https://www.wired.com/story/blockchain-bandit-ethereum-weak-private-keys/"
+    },
+    {
+        "ID": "3_113",
+        "Title": "West Virginia will allow \u201cblockchain voting\u201d in the 2020 election. That\u2019s a risky idea.",
+        "Upvotes": 19,
+        "Comments": 61,
+        "Date": 1555679711.0,
+        "URL": "https://www.technologyreview.com/the-download/613358/west-virginia-will-allow-blockchain-voting-in-the-2020-election-thats-a-risky/"
+    },
+    {
+        "ID": "3_114",
+        "Title": "Blockchain defies critics, enters mainstream",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1552428548.0,
+        "URL": "https://www.asiatimes.com/2019/03/article/blockchain-defies-critics-enters-mainstream/"
+    },
+    {
+        "ID": "3_115",
+        "Title": "China: Internet users turn to the blockchain to fight govt censorship",
+        "Upvotes": 20,
+        "Comments": 1,
+        "Date": 1551602656.0,
+        "URL": "https://asiancorrespondent.com/2019/02/china-internet-users-turn-to-the-blockchain-to-fight-govt-censorship/"
+    },
+    {
+        "ID": "3_116",
+        "Title": "Chinese internet users turn to the blockchain to fight against government censorship",
+        "Upvotes": 67,
+        "Comments": 3,
+        "Date": 1551098175.0,
+        "URL": "http://theconversation.com/chinese-internet-users-turn-to-the-blockchain-to-fight-against-government-censorship-111795"
+    },
+    {
+        "ID": "3_117",
+        "Title": "Once hailed as unhackable, blockchains are now getting hacked",
+        "Upvotes": 10,
+        "Comments": 26,
+        "Date": 1550978115.0,
+        "URL": "https://www.technologyreview.com/s/612974/once-hailed-as-unhackable-blockchains-are-now-getting-hacked/"
+    },
+    {
+        "ID": "3_118",
+        "Title": "Once hailed as unhackable, blockchains are now getting hacked",
+        "Upvotes": 8,
+        "Comments": 7,
+        "Date": 1550758845.0,
+        "URL": "https://www.technologyreview.com/s/612974/once-hailed-as-unhackable-blockchains-are-now-getting-hacked/"
+    },
+    {
+        "ID": "3_119",
+        "Title": "Once hailed as unhackable, blockchains are now getting hacked",
+        "Upvotes": 32,
+        "Comments": 27,
+        "Date": 1550746253.0,
+        "URL": "https://www.technologyreview.com/s/612974/once-hailed-as-unhackable-blockchains-are-now-getting-hacked/?utm_campaign=site_visitor.unpaid.engagement&utm_source=linkedin&utm_medium=add_this&utm_content=2019-02-21"
+    },
+    {
+        "ID": "3_120",
+        "Title": "Mark Zuckerberg has considered putting Facebook login on the blockchain",
+        "Upvotes": 1,
+        "Comments": 3,
+        "Date": 1550695749.0,
+        "URL": "https://www.theverge.com/2019/2/20/18233338/facebook-login-blockchain-mark-zuckerberg"
+    },
+    {
+        "ID": "3_121",
+        "Title": "Mark Zuckerberg has considered putting Facebook login on the blockchain",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1550688173.0,
+        "URL": "https://www.theverge.com/2019/2/20/18233338/facebook-login-blockchain-mark-zuckerberg"
+    },
+    {
+        "ID": "3_122",
+        "Title": "Blockchain can now be hacked",
+        "Upvotes": 4,
+        "Comments": 3,
+        "Date": 1550578016.0,
+        "URL": "https://www.technologyreview.com/s/612974/once-hailed-as-unhackable-blockchains-are-now-getting-hacked/"
+    },
+    {
+        "ID": "3_123",
+        "Title": "Akamai and MUFG to roll out blockchain-based payment network in 2020",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1550058349.0,
+        "URL": "https://www.finextra.com/newsarticle/33379/akamai-and-mufg-to-roll-out-blockchain-based-payment-network-in-2020"
+    },
+    {
+        "ID": "3_124",
+        "Title": "Google aims to revolutionize blockchain",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1550049031.0,
+        "URL": "https://www.asiatimes.com/2019/02/article/google-aims-to-revolutionize-blockchain/"
+    },
+    {
+        "ID": "3_125",
+        "Title": "Plunge in crypto sets stage for Facebook and other tech giants to hire blockchain experts",
+        "Upvotes": 5,
+        "Comments": 2,
+        "Date": 1549916893.0,
+        "URL": "https://www.cnbc.com/2019/02/11/plunge-in-crypto-sets-stage-for-facebook-and-other-tech-giants-to-hire-blockchain-experts.html"
+    },
+    {
+        "ID": "3_126",
+        "Title": "There's No Good Reason to Trust Blockchain Technology",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1549585946.0,
+        "URL": "https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/"
+    },
+    {
+        "ID": "3_127",
+        "Title": "There's No Good Reason to Trust Blockchain Technology",
+        "Upvotes": 37,
+        "Comments": 40,
+        "Date": 1549496058.0,
+        "URL": "https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/"
+    },
+    {
+        "ID": "3_128",
+        "Title": "Blockchain Smart Contracts Aren't Smart And Aren't Contracts",
+        "Upvotes": 7,
+        "Comments": 2,
+        "Date": 1549376678.0,
+        "URL": "https://www.forbes.com/sites/davidblack/2019/02/04/blockchain-smart-contracts-arent-smart-and-arent-contracts/#3799ffc71e6a"
+    },
+    {
+        "ID": "3_129",
+        "Title": "People don't trust blockchain systems \u2013 is regulation a way to help?",
+        "Upvotes": 0,
+        "Comments": 4,
+        "Date": 1549373803.0,
+        "URL": "http://theconversation.com/people-dont-trust-blockchain-systems-is-regulation-a-way-to-help-110007"
+    },
+    {
+        "ID": "3_130",
+        "Title": "Blockchain Startups Showed No \u201cSigns Of Life\u201d In 2018",
+        "Upvotes": 5,
+        "Comments": 3,
+        "Date": 1548941103.0,
+        "URL": "https://www.forbes.com/sites/oliversmith/2019/01/31/blockchain-startups-showed-no-signs-of-life-in-2018/"
+    },
+    {
+        "ID": "3_131",
+        "Title": "Trump\u2019s industry-friendly interior secretary has pivoted to blockchain",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1548876847.0,
+        "URL": "https://arstechnica.com/tech-policy/2019/01/ryan-zinke-goes-from-interior-secretary-to-blockchain-booster/"
+    },
+    {
+        "ID": "3_132",
+        "Title": "Blockchain: The complete guide",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1548846948.0,
+        "URL": "https://www.computerworld.com/article/3191077/security/blockchain-the-complete-guide.html"
+    },
+    {
+        "ID": "3_133",
+        "Title": "IBM, Aetna, Anthem & Others Announce Collab to Create a Blockchain Network for Healthcare",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1548422595.0,
+        "URL": "https://www.hcanews.com/news/major-health-companies-announce-collab-to-create-a-blockchain-network-"
+    },
+    {
+        "ID": "3_134",
+        "Title": "The 4 Phases of the Gartner Blockchain Spectrum",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1548228137.0,
+        "URL": "https://www.gartner.com/smarterwithgartner/the-4-phases-of-the-gartner-blockchain-spectrum/"
+    },
+    {
+        "ID": "3_135",
+        "Title": "Tron's 28-year-old CEO wants to use blockchain games and BitTorrent to decentralize the internet",
+        "Upvotes": 0,
+        "Comments": 6,
+        "Date": 1547940383.0,
+        "URL": "https://venturebeat.com/2019/01/19/trons-28-year-old-ceo-wants-to-use-blockchain-games-and-bittorrent-to-decentralize-the-internet/"
+    },
+    {
+        "ID": "3_136",
+        "Title": "How blockchain could undermine censorship - forever",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1547844434.0,
+        "URL": "http://sea-globe.com/how-blockchain-could-undermine-censorship-forever/"
+    },
+    {
+        "ID": "3_137",
+        "Title": "Blockchain\u2019s Occam problem",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1547463801.0,
+        "URL": "https://www.mckinsey.com/industries/financial-services/our-insights/blockchains-occam-problem?cid=other-eml-nsl-mip-mck&hlkid=87d6eb5836364cbf94419c9121e01664&hctky=1602922&hdpid=7222d727-e2da-4c04-9730-b4982cb5b53f"
+    },
+    {
+        "ID": "3_138",
+        "Title": "Almost $500,000 in Ethereum Classic coin stolen by forking its blockchain",
+        "Upvotes": 41,
+        "Comments": 19,
+        "Date": 1547041251.0,
+        "URL": "https://arstechnica.com/information-technology/2019/01/almost-500000-in-ethereum-coin-stolen-by-forking-its-blockchain/"
+    },
+    {
+        "ID": "3_139",
+        "Title": "Almost $500,000 in Ethereum Classic coin stolen by forking its blockchain",
+        "Upvotes": 80,
+        "Comments": 61,
+        "Date": 1546919768.0,
+        "URL": "https://arstechnica.com/information-technology/2019/01/almost-500000-in-ethereum-coin-stolen-by-forking-its-blockchain/"
+    },
+    {
+        "ID": "3_140",
+        "Title": "Blockchain study finds 0.00% success rate and vendors don't call back when asked for evidence",
+        "Upvotes": 1141,
+        "Comments": 406,
+        "Date": 1543581254.0,
+        "URL": "https://www.theregister.co.uk/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/"
+    },
+    {
+        "ID": "3_141",
+        "Title": "AWS launches a managed blockchain service \u2013 TechCrunch",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1543428096.0,
+        "URL": "https://techcrunch.com/2018/11/28/aws-launches-a-managed-blockchain-service/"
+    },
+    {
+        "ID": "3_142",
+        "Title": "1 Edward Snowden explains blockchain to his lawyer \u2014 and the rest of us",
+        "Upvotes": 441,
+        "Comments": 41,
+        "Date": 1543004106.0,
+        "URL": "https://www.aclu.org/blog/privacy-technology/internet-privacy/edward-snowden-explains-blockchain-his-lawyer-and-rest-us"
+    },
+    {
+        "ID": "3_143",
+        "Title": "Blockchain isn't about democracy and decentralisation \u2013 it's about greed",
+        "Upvotes": 31,
+        "Comments": 74,
+        "Date": 1542884150.0,
+        "URL": "https://www.theguardian.com/technology/2018/oct/15/blockchain-democracy-decentralisation-bitcoin-price-cryptocurrencies"
+    },
+    {
+        "ID": "3_144",
+        "Title": "Quantum computers put blockchain security at risk - Bitcoin and other cryptocurrencies will founder unless they integrate quantum technologies",
+        "Upvotes": 34,
+        "Comments": 35,
+        "Date": 1542631373.0,
+        "URL": "https://www.nature.com/articles/d41586-018-07449-z"
+    },
+    {
+        "ID": "3_145",
+        "Title": "Blockchain Voting: Solves None Of The Actual Problems Of Online Voting; Leverages None Of The Benefits Of Blockchain",
+        "Upvotes": 31,
+        "Comments": 20,
+        "Date": 1542426767.0,
+        "URL": "https://www.techdirt.com/articles/20181110/01030941012/blockchain-voting-solves-none-actual-problems-online-voting-leverages-none-benefits-blockchain.shtml"
+    },
+    {
+        "ID": "3_146",
+        "Title": "Blockchain\u2019s Hype is Dying According to Corporate America\u2019s S&P 500 Earnings calls & Citations",
+        "Upvotes": 8,
+        "Comments": 1,
+        "Date": 1542226336.0,
+        "URL": "https://medium.com/utopiapress/blockchains-hype-is-dying-according-to-corporate-america-s-s-p-500-earnings-calls-citations-56b97771ce58"
+    },
+    {
+        "ID": "3_147",
+        "Title": "How West Virginia brought blockchain-secured voting to Election Day",
+        "Upvotes": 4,
+        "Comments": 1,
+        "Date": 1542215840.0,
+        "URL": "https://gcn.com/articles/2018/11/07/west-virginia-mobile-blockchain-voting.aspx"
+    },
+    {
+        "ID": "3_148",
+        "Title": "J.P. Morgan sees three potential long-term stock winners from blockchain",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1541697181.0,
+        "URL": "https://www.cnbc.com/2018/11/08/jp-morgans-three-potential-winners-in-blockchain.html"
+    },
+    {
+        "ID": "3_149",
+        "Title": "How blockchain could actually damage voting security",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1540272638.0,
+        "URL": "http://www.atimes.com/article/how-blockchain-could-actually-damage-voting-security/"
+    },
+    {
+        "ID": "3_150",
+        "Title": "How the Blockchain Could Break Big Tech\u2019s Hold on A.I.",
+        "Upvotes": 0,
+        "Comments": 2,
+        "Date": 1540071468.0,
+        "URL": "https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html"
+    },
+    {
+        "ID": "3_151",
+        "Title": "Blockchain in retail: fewer counterfeits, faster product recalls",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1539861855.0,
+        "URL": "http://mightyviral.com/blockchain-in-retail-fewer-counterfeits-faster-product-recalls/"
+    },
+    {
+        "ID": "3_152",
+        "Title": "Blockchain Technology Overview",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1538761195.0,
+        "URL": "https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf"
+    },
+    {
+        "ID": "3_153",
+        "Title": "Five things that must happen for blockchain to see widespread adoption, according to Deloitte",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1538399259.0,
+        "URL": "https://www.cnbc.com/2018/10/01/five-crucial-challenges-for-blockchain-to-overcome-deloitte.html"
+    },
+    {
+        "ID": "3_154",
+        "Title": "Walmart is betting on the blockchain to improve food safety",
+        "Upvotes": 0,
+        "Comments": 2,
+        "Date": 1538269013.0,
+        "URL": "https://techcrunch.com/2018/09/24/walmart-is-betting-on-the-blockchain-to-improve-food-safety/"
+    },
+    {
+        "ID": "3_155",
+        "Title": "Walmart\u2019s Veggie-Tracking B.L.T.: Blockchain Lettuce Technology",
+        "Upvotes": 21,
+        "Comments": 10,
+        "Date": 1537883119.0,
+        "URL": "https://www.nytimes.com/2018/09/24/business/walmart-blockchain-lettuce.html"
+    },
+    {
+        "ID": "3_156",
+        "Title": "Blockchain is 'not ready yet' to fully support the global supply chain, CEO says",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1537352598.0,
+        "URL": "https://www.cnbc.com/2018/09/19/wef-tianjin-tradeshift-ceo-talked-about-blockchain-in-the-supply-chain.html"
+    },
+    {
+        "ID": "3_157",
+        "Title": "Inside a Reddit Sockpuppet Operation - According to multiple Reddit moderators, someone called \"Aaron\" has approached them to be part of a spam marketing campaign, with a particular focus on cryptocurrency and blockchain-linked projects.",
+        "Upvotes": 19,
+        "Comments": 2,
+        "Date": 1537192078.0,
+        "URL": "https://motherboard.vice.com/en_us/article/438v7j/inside-a-reddit-sockpuppet-operation-spam-upvote-shadowbanned"
+    },
+    {
+        "ID": "3_158",
+        "Title": "Aussie blockchain delegation heads to Shanghai",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1536680310.0,
+        "URL": "http://www.atimes.com/article/aussie-blockchain-delegation-heads-to-shanghai/"
+    },
+    {
+        "ID": "3_159",
+        "Title": "How a new class of startups use blockchain to tackle the Web's dark side, like bots and fake news",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1536430470.0,
+        "URL": "https://www.cnbc.com/2018/09/08/media-meets-crypto-how-blockchain-based-media-is-compensating-users.html"
+    },
+    {
+        "ID": "3_160",
+        "Title": "Blockchains not safe for voting, concludes NAP report",
+        "Upvotes": 53,
+        "Comments": 16,
+        "Date": 1536263179.0,
+        "URL": "https://www.nytimes.com/aponline/2018/09/06/technology/ap-us-tec-election-security-reform-report.html"
+    },
+    {
+        "ID": "3_161",
+        "Title": "China clamps down on cryptocurrency speculation, but not blockchain development",
+        "Upvotes": 6,
+        "Comments": 3,
+        "Date": 1535961801.0,
+        "URL": "https://www.cnbc.com/2018/09/03/china-clamps-down-on-cryptocurrency-speculation.html"
+    },
+    {
+        "ID": "3_162",
+        "Title": "Blockchain, IOT and Robotics - the tech future of travel",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1535796398.0,
+        "URL": "https://digitalinasia.com/2018/08/30/blockchain-iot-and-robotics-the-tech-future-of-travel/"
+    },
+    {
+        "ID": "3_163",
+        "Title": "How the world is experimenting with blockchain",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1535522485.0,
+        "URL": "https://www.cnbc.com/2018/08/29/bitcoin-world-is-experimenting-with-blockchain.html"
+    },
+    {
+        "ID": "3_164",
+        "Title": "North Korea to host international blockchain conference in October: Report",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1535206138.0,
+        "URL": "https://www.straitstimes.com/asia/east-asia/north-korea-to-host-international-blockchain-conference-in-october-report"
+    },
+    {
+        "ID": "3_165",
+        "Title": "Blockchain won\u2019t solve all of Kenya\u2019s elections problems",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1534961602.0,
+        "URL": "https://qz.com/africa/1366383/blockchain-technology-wont-solve-kenyas-elections-problems-just-yet/"
+    },
+    {
+        "ID": "3_166",
+        "Title": "Is Blockchain Technology the Future of Voting?",
+        "Upvotes": 0,
+        "Comments": 8,
+        "Date": 1534016837.0,
+        "URL": "https://www.bloomberg.com/news/articles/2018-08-10/is-blockchain-technology-the-future-of-voting"
+    },
+    {
+        "ID": "3_167",
+        "Title": "Why security experts hate that \u201cblockchain voting\u201d will be used in the midterm elections - It\u2019s too dangerous to conduct elections over the internet, they say, and West Virginia\u2019s new plan to put votes on a blockchain doesn\u2019t fix that.",
+        "Upvotes": 113,
+        "Comments": 45,
+        "Date": 1533907104.0,
+        "URL": "https://www.technologyreview.com/s/611850/why-security-experts-hate-that-blockchain-voting-will-be-used-in-the-midterm-elections/"
+    },
+    {
+        "ID": "3_168",
+        "Title": "The World Bank is preparing for the world's first blockchain bond",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1533881747.0,
+        "URL": "https://www.cnbc.com/2018/08/10/world-bank-picks-commonwealth-bank-for-worlds-first-blockchain-bond.html"
+    },
+    {
+        "ID": "3_169",
+        "Title": "IBM trials blockchain platform aimed at banks",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1533218617.0,
+        "URL": "https://www.cnbc.com/2018/07/30/ibm-trials-blockchain-platform-aimed-at-banks.html"
+    },
+    {
+        "ID": "3_170",
+        "Title": "Blockchain, Once Seen as a Corporate Cure-All, Suffers Slowdown",
+        "Upvotes": 1,
+        "Comments": 5,
+        "Date": 1533150130.0,
+        "URL": "https://www.bloomberg.com/news/articles/2018-07-31/blockchain-once-seen-as-a-corporate-cure-all-suffers-slowdown"
+    },
+    {
+        "ID": "3_171",
+        "Title": "Blockchain Could Be the Savior of Free Speech",
+        "Upvotes": 0,
+        "Comments": 5,
+        "Date": 1532641242.0,
+        "URL": "http://fortune.com/2018/07/26/blockchain-technology-cryptocurrency-ethereum-censorship-free-speech/"
+    },
+    {
+        "ID": "3_172",
+        "Title": "IBM Partners With Saudi Capital for Blockchain-Based Government Applications",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1532633826.0,
+        "URL": "https://www.nasdaq.com/article/ibm-partners-with-saudi-capital-for-blockchain-based-government-applications-cm997445"
+    },
+    {
+        "ID": "3_173",
+        "Title": "China\u2019s netizens use blockchain to spread censored news",
+        "Upvotes": 7,
+        "Comments": 1,
+        "Date": 1532582791.0,
+        "URL": "https://www.abacusnews.com/future-tech/chinas-netizens-use-blockchain-spread-censored-news/article/2156580"
+    },
+    {
+        "ID": "3_174",
+        "Title": "The Race to Build the Best Blockchain",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1532532441.0,
+        "URL": "https://mashable.com/2018/07/25/best-blockchain-race/?utm_cid=hp-n-1#CK6OBtk9FmqK"
+    },
+    {
+        "ID": "3_175",
+        "Title": "Blockchain company Tron buys BitTorrent",
+        "Upvotes": 38,
+        "Comments": 23,
+        "Date": 1532522924.0,
+        "URL": "https://www.techradar.com/news/blockchain-company-tron-buys-bittorrent"
+    },
+    {
+        "ID": "3_176",
+        "Title": "First 10 Cryptocurrencies which were launched after Bitcoin.",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1531550944.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8yrf64/first_10_cryptocurrencies_which_were_launched/"
+    },
+    {
+        "ID": "3_177",
+        "Title": "How to buy bitcoins in Australia?",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1531370337.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8y6pm9/how_to_buy_bitcoins_in_australia/"
+    },
+    {
+        "ID": "3_178",
+        "Title": "Sergey Brin says Google 'failed to be on the bleeding edge' of blockchain",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1531153328.0,
+        "URL": "https://www.cnbc.com/2018/07/09/brin-says-google-failed-the-bleeding-edge-blockchain.html"
+    },
+    {
+        "ID": "3_179",
+        "Title": "What can blockchain be used for?",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1531117697.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8x8ydf/what_can_blockchain_be_used_for/"
+    },
+    {
+        "ID": "3_180",
+        "Title": "Blockonix to launch in mid July \u2013 Decentralized cryptocurrency exchange",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1530770710.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8w864a/blockonix_to_launch_in_mid_july_decentralized/"
+    },
+    {
+        "ID": "3_181",
+        "Title": "The difference between a cryptocurrency coin and a protocol token",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1530189109.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8uiy09/the_difference_between_a_cryptocurrency_coin_and/"
+    },
+    {
+        "ID": "3_182",
+        "Title": "Join the Bitcoin HODL gang, why you should HODL your Bitcoins and not sell them",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1530015906.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8tzkti/join_the_bitcoin_hodl_gang_why_you_should_hodl/"
+    },
+    {
+        "ID": "3_183",
+        "Title": "What is the real value of Bitcoin? Expert take",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1529991070.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8txh47/what_is_the_real_value_of_bitcoin_expert_take/"
+    },
+    {
+        "ID": "3_184",
+        "Title": "How to access an ICO perfectly",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1529918213.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8tp3bj/how_to_access_an_ico_perfectly/"
+    },
+    {
+        "ID": "3_185",
+        "Title": "Top 10 American entrepreneurs in Blockchain industry",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1529777094.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8tbqq8/top_10_american_entrepreneurs_in_blockchain/"
+    },
+    {
+        "ID": "3_186",
+        "Title": "Insights on BitTorrent acquisition by TRON",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1529752242.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8t99f9/insights_on_bittorrent_acquisition_by_tron/"
+    },
+    {
+        "ID": "3_187",
+        "Title": "15 insights on Hashix mining",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1529660333.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8t01fi/15_insights_on_hashix_mining/"
+    },
+    {
+        "ID": "3_188",
+        "Title": "Top 10 cryptocurrency mining companies",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1529651063.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8szbsa/top_10_cryptocurrency_mining_companies/"
+    },
+    {
+        "ID": "3_189",
+        "Title": "Binance completes its 1 year, here are 15 things you should know",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1529599918.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8sth4k/binance_completes_its_1_year_here_are_15_things/"
+    },
+    {
+        "ID": "3_190",
+        "Title": "New ambitious blockchain project launched by Microsoft to help creators get paid",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1529579953.0,
+        "URL": "https://thenextweb.com/hardfork/2018/06/21/microsoft-and-ey-launch-blockchain-for-copyrights-and-royalties/"
+    },
+    {
+        "ID": "3_191",
+        "Title": "10 steps on how to start trading on Binance",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1529555582.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8sp0gp/10_steps_on_how_to_start_trading_on_binance/"
+    },
+    {
+        "ID": "3_192",
+        "Title": "How to make an account on Blockchain.info",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1529496619.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8shslu/how_to_make_an_account_on_blockchaininfo/"
+    },
+    {
+        "ID": "3_193",
+        "Title": "DHS Wants to Use Blockchain to Secure Border Data",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1529421408.0,
+        "URL": "https://www.nextgov.com/emerging-tech/2018/06/dhs-funded-company-wants-use-blockchain-border/149104/"
+    },
+    {
+        "ID": "3_194",
+        "Title": "Origin of Bitcoin Whitepaper",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1528987950.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8r2gkr/origin_of_bitcoin_whitepaper/"
+    },
+    {
+        "ID": "3_195",
+        "Title": "Mysterious blockchain and Redwerk\u2019s practical experience with it",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1528971223.0,
+        "URL": "https://redwerk.com/blog/mysterious-blockchain-and-redwerks-practical-experience-with-it"
+    },
+    {
+        "ID": "3_196",
+        "Title": "Adblock Plus creator hopes Ethereum blockchain will help spot fake news",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1528922992.0,
+        "URL": "https://www.engadget.com/2018/06/13/adblock-plus-creator-uses-blockchain-to-spot-fake-news/"
+    },
+    {
+        "ID": "3_197",
+        "Title": "Why Blockchain is Hard",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1528732437.0,
+        "URL": "https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c"
+    },
+    {
+        "ID": "3_198",
+        "Title": "187 Things the Blockchain Is Supposed to Fix",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1527248726.0,
+        "URL": "https://www.wired.com/story/187-things-the-blockchain-is-supposed-to-fix/"
+    },
+    {
+        "ID": "3_199",
+        "Title": "The HTC Exodus will be a super-secure smartphone based on blockchain",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1526476544.0,
+        "URL": "https://newatlas.com/htc-exodus-blockchain-phone/54633/"
+    },
+    {
+        "ID": "3_200",
+        "Title": "CMOs Can Construct A More Effective Strategy With Blockchain",
+        "Upvotes": 23,
+        "Comments": 5,
+        "Date": 1526396206.0,
+        "URL": "https://www.forbes.com/sites/steveolenski/2018/05/09/cmos-can-construct-a-more-effective-strategy-with-blockchain/#579587d73979"
+    },
+    {
+        "ID": "3_201",
+        "Title": "Blockchain-Based Voter System Developer and Congressional Candidate Michael Allman AMA is now live! [X-post]",
+        "Upvotes": 59,
+        "Comments": 20,
+        "Date": 1525884583.0,
+        "URL": "https://www.reddit.com/r/IAmA/comments/8i7frm/i_am_the_first_congressional_candidate_to_use/"
+    },
+    {
+        "ID": "3_202",
+        "Title": "Inside the Jordan refugee camp that runs on blockchain",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1525830307.0,
+        "URL": "https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/"
+    },
+    {
+        "ID": "3_203",
+        "Title": "Facebook creates group dedicated to studying blockchain",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1525825589.0,
+        "URL": "https://www.engadget.com/2018/05/08/facebook-creates-blockchain-group/"
+    },
+    {
+        "ID": "3_204",
+        "Title": "Facebook is launching a new team dedicated to the blockchain",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1525821255.0,
+        "URL": "https://www.recode.net/2018/5/8/17329696/facebook-blockchain-crypocurrency-david-marcus-crypto-messenger-app"
+    },
+    {
+        "ID": "3_205",
+        "Title": "Breaking News: Facebook To Launch A Team Dedicated To Blockchain Technology",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1525816282.0,
+        "URL": "https://www.bitmoneynews.com/news/facebook-launch-team-dedicated-blockchain-technology/"
+    },
+    {
+        "ID": "3_206",
+        "Title": "California 52nd Congressional Candidate, Michael Allman, Direct Democracy AMA May 9th @ 10am PST",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1525711705.0,
+        "URL": "https://www.reddit.com/r/technology/comments/8hoyod/california_52nd_congressional_candidate_michael/"
+    },
+    {
+        "ID": "3_207",
+        "Title": "If quantum computers threaten blockchains, quantum blockchains could be the defense",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1525201545.0,
+        "URL": "https://www.technologyreview.com/s/611022/if-quantum-computers-threaten-blockchains-quantum-blockchains-could-be-the-defense/"
+    },
+    {
+        "ID": "3_208",
+        "Title": "Blockchain Will Be Theirs, Russian Spy Boasted at Conference",
+        "Upvotes": 17,
+        "Comments": 3,
+        "Date": 1525099592.0,
+        "URL": "https://www.nytimes.com/2018/04/29/technology/blockchain-iso-russian-spies.html"
+    },
+    {
+        "ID": "3_209",
+        "Title": "Amazon\u2019s new blockchain service competes with similar products from Oracle and IBM",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1524496122.0,
+        "URL": "https://techcrunch.com/2018/04/22/amazons-new-blockchain-service-competes-with-similar-products-from-oracle-and-ibm/"
+    },
+    {
+        "ID": "3_210",
+        "Title": "Do you need a blockchain?",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1524312516.0,
+        "URL": "https://techcrunch.com/2018/04/19/do-you-need-a-blockchain/amp/"
+    },
+    {
+        "ID": "3_211",
+        "Title": "Samsung Jumps on the Blockchain Bandwagon",
+        "Upvotes": 1,
+        "Comments": 5,
+        "Date": 1523835969.0,
+        "URL": "https://www.bloomberg.com/news/articles/2018-04-15/samsung-jumps-on-blockchain-bandwagon-to-manage-its-supply-chain"
+    },
+    {
+        "ID": "3_212",
+        "Title": "The city of Austin is piloting a new blockchain platform to improve identity services for its homeless population",
+        "Upvotes": 0,
+        "Comments": 2,
+        "Date": 1523727092.0,
+        "URL": "https://techcrunch.com/2018/04/14/austin-is-piloting-blockchain-to-improve-homeless-services/"
+    },
+    {
+        "ID": "3_213",
+        "Title": "Inside the Jordan refugee camp that runs on blockchain",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1523588725.0,
+        "URL": "https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain/"
+    },
+    {
+        "ID": "3_214",
+        "Title": "Nasdaq To Delist Long Blockchain as Pivot From Tea Fizzles - MoneyBeat",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1523463766.0,
+        "URL": "https://blogs.wsj.com/moneybeat/2018/04/11/nasdaq-to-delist-long-blockchain-as-pivot-from-tea-fizzles/"
+    },
+    {
+        "ID": "3_215",
+        "Title": "Is blockchain becoming a Web 3.0? What do you think?",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1523372383.0,
+        "URL": "https://news.icostream.org/is-the-blockchain-a-new-internet-3-0/"
+    },
+    {
+        "ID": "3_216",
+        "Title": "YouTube and Facebook Are Losing Creators to Blockchain-Powered Rivals",
+        "Upvotes": 2,
+        "Comments": 3,
+        "Date": 1523358198.0,
+        "URL": "https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals"
+    },
+    {
+        "ID": "3_217",
+        "Title": "Blockchain is not only crappy technology but a bad vision for the future",
+        "Upvotes": 39,
+        "Comments": 37,
+        "Date": 1523220088.0,
+        "URL": "https://medium.com/@kaistinchcombe/decentralized-and-trustless-crypto-paradise-is-actually-a-medieval-hellhole-c1ca122efdec"
+    },
+    {
+        "ID": "3_218",
+        "Title": "A mysterious blockchain and Redwerk\u2019s practical experience with it",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1522765436.0,
+        "URL": "https://redwerk.com/blog/mysterious-blockchain-and-redwerks-practical-experience-with-it"
+    },
+    {
+        "ID": "3_219",
+        "Title": "Polish bank begins using a blockchain-based document management system",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1522341577.0,
+        "URL": "https://techcrunch.com/2018/03/29/polish-bank-begins-using-a-blockchain-based-document-management-system/"
+    },
+    {
+        "ID": "3_220",
+        "Title": "Dethroning the Titans: Can Blockchain Prevent another \u2018Facebook-Cambridge\u2019 Incident?",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1522337008.0,
+        "URL": "https://medium.com/orbs-network/dethroning-the-titans-can-blockchain-create-a-new-deal-on-data-to-prevent-another-a720c13ca0a5"
+    },
+    {
+        "ID": "3_221",
+        "Title": "IBM launches starter plan for start-ups to build Blockchain projects",
+        "Upvotes": 57,
+        "Comments": 10,
+        "Date": 1521935362.0,
+        "URL": "https://thehodl.life/ibm-launches-starter-plan-for-start-ups-to-build-blockchain-projects/"
+    },
+    {
+        "ID": "3_222",
+        "Title": "Computer scientist uses bitcoin blockchain technology to trace ransomware payments over a two-year period",
+        "Upvotes": 15,
+        "Comments": 1,
+        "Date": 1521819335.0,
+        "URL": "http://engineering.nyu.edu/press-releases/2018/03/23/exposed-path-ransomware-payments"
+    },
+    {
+        "ID": "3_223",
+        "Title": "Blockchain engineers are in demand",
+        "Upvotes": 6,
+        "Comments": 6,
+        "Date": 1521802028.0,
+        "URL": "https://techcrunch.com/2018/02/14/blockchain-engineers-are-in-demand/"
+    },
+    {
+        "ID": "3_224",
+        "Title": "Google Is Working on Its Own Blockchain-Related Technology",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1521781516.0,
+        "URL": "https://finance.yahoo.com/news/google-working-own-blockchain-related-194920123.html"
+    },
+    {
+        "ID": "3_225",
+        "Title": "X-Post /r/IAmA I'm Kathryn Harrison, Director of Global Offering Management for IBM Blockchain answering questions LIVE from Think 2018, Ask Me Anything about blockchain and crypto!",
+        "Upvotes": 22,
+        "Comments": 1,
+        "Date": 1521582020.0,
+        "URL": "https://www.reddit.com/r/technology/comments/85wnad/xpost_riama_im_kathryn_harrison_director_of/"
+    },
+    {
+        "ID": "3_226",
+        "Title": "Child abuse imagery found within bitcoin's blockchain",
+        "Upvotes": 13,
+        "Comments": 19,
+        "Date": 1521557145.0,
+        "URL": "https://www.theguardian.com/technology/2018/mar/20/child-abuse-imagery-bitcoin-blockchain-illegal-content"
+    },
+    {
+        "ID": "3_227",
+        "Title": "Identity-as-a-Service in 2018: What's New? | Between GDPR, biometrics and the blockchain, 2018 promises to be a big year for identity.",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1521478189.0,
+        "URL": "https://auth0.com/blog/identity-as-a-service-in-2018/"
+    },
+    {
+        "ID": "3_228",
+        "Title": "Why Blockchain Will Survive, Even If Bitcoin Doesn\u2019t",
+        "Upvotes": 1,
+        "Comments": 14,
+        "Date": 1520792842.0,
+        "URL": "https://www.wsj.com/articles/why-blockchain-will-survive-even-if-bitcoin-doesnt-1520769600"
+    },
+    {
+        "ID": "3_229",
+        "Title": "Bitcoin is ridiculous. Blockchain is dangerous. \"The true believers won\u2019t stop until they\u2019ve remade the world. Some of it will be thrilling. Some of it will keep us up at night.\"",
+        "Upvotes": 2,
+        "Comments": 9,
+        "Date": 1520612669.0,
+        "URL": "https://www.bloomberg.com/news/features/2018-03-09/bitcoin-is-ridiculous-blockchain-is-dangerous-paul-ford"
+    },
+    {
+        "ID": "3_230",
+        "Title": "No you probably don't need a blockchain",
+        "Upvotes": 5,
+        "Comments": 10,
+        "Date": 1520537831.0,
+        "URL": "http://ashtonkemerling.com/blog/2018/02/21/no-you-probably-dont-need-a-blockchain/"
+    },
+    {
+        "ID": "3_231",
+        "Title": "Auctus is bringing blockchain tech to the $36 trillion retirement plan market",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1519050276.0,
+        "URL": "https://venturebeat.com/2018/02/19/auctus-is-bringing-blockchain-tech-to-the-36-trillion-retirement-plan-market/"
+    },
+    {
+        "ID": "3_232",
+        "Title": "Microsoft wants to use blockchain to secure your identity",
+        "Upvotes": 37,
+        "Comments": 9,
+        "Date": 1518699769.0,
+        "URL": "https://www.computerworld.com/article/3254774/security/microsoft-wants-to-use-blockchain-to-secure-your-identity.html?google_editors_picks=true"
+    },
+    {
+        "ID": "3_233",
+        "Title": "Decentralized Digital Identities and Blockchain \u2013 The Future as We See It.",
+        "Upvotes": 4,
+        "Comments": 5,
+        "Date": 1518459299.0,
+        "URL": "https://cloudblogs.microsoft.com/enterprisemobility/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/"
+    },
+    {
+        "ID": "3_234",
+        "Title": "This new company wants to sequence your genome and let you share it on a blockchain",
+        "Upvotes": 1,
+        "Comments": 3,
+        "Date": 1518051553.0,
+        "URL": "https://www.technologyreview.com/s/610221/this-new-company-wants-to-sequence-your-genome-and-let-you-share-it-on-a-blockchain/"
+    },
+    {
+        "ID": "3_235",
+        "Title": "NIST Report on Blockchain Technology Aims to Go Beyond the Hype",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1517831509.0,
+        "URL": "https://www.nist.gov/news-events/news/2018/01/nist-report-blockchain-technology-aims-go-beyond-hype"
+    },
+    {
+        "ID": "3_236",
+        "Title": "IBM, Maersk Announce Global Blockchain Shipping Venture",
+        "Upvotes": 17,
+        "Comments": 0,
+        "Date": 1516714038.0,
+        "URL": "https://www.linuxinsider.com/story/85071.html#sthash.BLgcscJ3.sfju"
+    },
+    {
+        "ID": "3_237",
+        "Title": "Canada trialing use of Ethereum blockchain to enhance transparency in govt funding",
+        "Upvotes": 57,
+        "Comments": 10,
+        "Date": 1516614817.0,
+        "URL": "https://globalnews.ca/news/3977745/ethereum-blockchain-canada-nrc/"
+    },
+    {
+        "ID": "3_238",
+        "Title": "Rave culture is making its move onto the blockchain",
+        "Upvotes": 10,
+        "Comments": 2,
+        "Date": 1516574072.0,
+        "URL": "https://www.wired.co.uk/article/rave-culture-on-the-blockchain"
+    },
+    {
+        "ID": "3_239",
+        "Title": "LightChain Ushers Blockchain into the Millisecond Transaction Era",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1516163287.0,
+        "URL": "https://bitcoinist.com/lightchain-ushers-blockchain-into-the-millisecond-transaction-era/"
+    },
+    {
+        "ID": "4_1",
+        "Title": "Stables Off Ramp\u2026 and more.",
+        "Upvotes": 1,
+        "Comments": 8,
+        "Date": 1700172742.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/17wz0vl/stables_off_ramp_and_more/"
+    },
+    {
+        "ID": "4_2",
+        "Title": "Vulnerability Assessment of Blockchain Systems",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1699886245.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/17uc089/vulnerability_assessment_of_blockchain_systems/"
+    },
+    {
+        "ID": "4_3",
+        "Title": "How to stop fancy tech jargons in crypto industry? I\u2019m a mathematician",
+        "Upvotes": 16,
+        "Comments": 25,
+        "Date": 1699609759.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/17s0nok/how_to_stop_fancy_tech_jargons_in_crypto_industry/"
+    },
+    {
+        "ID": "4_4",
+        "Title": "Blockchain as a Datastructure",
+        "Upvotes": 3,
+        "Comments": 9,
+        "Date": 1699470031.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/17qssrl/blockchain_as_a_datastructure/"
+    },
+    {
+        "ID": "4_5",
+        "Title": "Which should we work on as the unsolved problems in cryptocurrency and why?",
+        "Upvotes": 9,
+        "Comments": 49,
+        "Date": 1699114602.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/17np31a/which_should_we_work_on_as_the_unsolved_problems/"
+    },
+    {
+        "ID": "4_6",
+        "Title": "Solution that leverage compute over blockchain",
+        "Upvotes": 3,
+        "Comments": 6,
+        "Date": 1698420825.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/17hq83q/solution_that_leverage_compute_over_blockchain/"
+    },
+    {
+        "ID": "4_7",
+        "Title": "Blockchain projects that aim to make a positive impact on society",
+        "Upvotes": 19,
+        "Comments": 45,
+        "Date": 1696448365.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/16zwh2r/blockchain_projects_that_aim_to_make_a_positive/"
+    },
+    {
+        "ID": "4_8",
+        "Title": "Welcome to r/CryptoTechnology\u2014 read for post guidelines and rules!",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1695633214.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/16rn2c0/welcome_to_rcryptotechnology_read_for_post/"
+    },
+    {
+        "ID": "4_9",
+        "Title": "Blockchains & UX: friendly or not ?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1693298061.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/164cp4z/blockchains_ux_friendly_or_not/"
+    },
+    {
+        "ID": "4_10",
+        "Title": "Understanding real TPS of popular blockchains",
+        "Upvotes": 0,
+        "Comments": 31,
+        "Date": 1693202307.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/163drmq/understanding_real_tps_of_popular_blockchains/"
+    },
+    {
+        "ID": "4_11",
+        "Title": "[Request for comment] Evaluating blockchains from the end user perspective",
+        "Upvotes": 7,
+        "Comments": 21,
+        "Date": 1690324446.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/159nfh8/request_for_comment_evaluating_blockchains_from/"
+    },
+    {
+        "ID": "4_12",
+        "Title": "[Request for comment] A framework to understand blockchains",
+        "Upvotes": 11,
+        "Comments": 10,
+        "Date": 1687906140.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/14ks6bs/request_for_comment_a_framework_to_understand/"
+    },
+    {
+        "ID": "4_13",
+        "Title": "Child porn NFTs on Bitcoin network?",
+        "Upvotes": 38,
+        "Comments": 63,
+        "Date": 1687500075.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/14gqfve/child_porn_nfts_on_bitcoin_network/"
+    },
+    {
+        "ID": "4_14",
+        "Title": "Partially solving the 50%+1 problem of POW decentralized consensus",
+        "Upvotes": 10,
+        "Comments": 43,
+        "Date": 1687443188.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/14g4nk5/partially_solving_the_501_problem_of_pow/"
+    },
+    {
+        "ID": "4_15",
+        "Title": "Exploring Gas-Free Transfers in Crypto Wallets: A Look at Coinbase Wallet and Guild Wallet",
+        "Upvotes": 28,
+        "Comments": 35,
+        "Date": 1686899617.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/14apy70/exploring_gasfree_transfers_in_crypto_wallets_a/"
+    },
+    {
+        "ID": "4_16",
+        "Title": "Poverty-Reducing Economy via Bitcoin and One-Dollar-Store Model",
+        "Upvotes": 12,
+        "Comments": 5,
+        "Date": 1686639845.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/1488zfp/povertyreducing_economy_via_bitcoin_and/"
+    },
+    {
+        "ID": "4_17",
+        "Title": "Interchain Security and Eigen Layer: comparing the anatomy of two systems of shared security",
+        "Upvotes": 14,
+        "Comments": 13,
+        "Date": 1685322006.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/13ugj0l/interchain_security_and_eigen_layer_comparing_the/"
+    },
+    {
+        "ID": "4_18",
+        "Title": "I am interested in printing of a series of documents with a unique id to prove ownership if needed.",
+        "Upvotes": 18,
+        "Comments": 20,
+        "Date": 1685152274.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/13suwjm/i_am_interested_in_printing_of_a_series_of/"
+    },
+    {
+        "ID": "4_19",
+        "Title": "How much of an impact have smart contracts made on the world?",
+        "Upvotes": 89,
+        "Comments": 74,
+        "Date": 1685032006.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/13rm8oz/how_much_of_an_impact_have_smart_contracts_made/"
+    },
+    {
+        "ID": "4_20",
+        "Title": "DAOs may not quite be as decentralized as we thought. Research paper linked below.",
+        "Upvotes": 42,
+        "Comments": 19,
+        "Date": 1682888441.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/1342vka/daos_may_not_quite_be_as_decentralized_as_we/"
+    },
+    {
+        "ID": "4_21",
+        "Title": "Resources for L1 blockchains analysis and comparison",
+        "Upvotes": 18,
+        "Comments": 16,
+        "Date": 1682322551.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12x7tdn/resources_for_l1_blockchains_analysis_and/"
+    },
+    {
+        "ID": "4_22",
+        "Title": "IC3 released a research post, where once again privacy is secured by TEEs",
+        "Upvotes": 11,
+        "Comments": 4,
+        "Date": 1682292757.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12wumqy/ic3_released_a_research_post_where_once_again/"
+    },
+    {
+        "ID": "4_23",
+        "Title": "Exploring Oasis Network's Latest Blog Post: 4 Ways to Compare Trusted Execution Environments and Zero-Knowledge Proofs",
+        "Upvotes": 23,
+        "Comments": 39,
+        "Date": 1681146268.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12hoyet/exploring_oasis_networks_latest_blog_post_4_ways/"
+    },
+    {
+        "ID": "4_24",
+        "Title": "I made a new faucet design which helps avoid \"faucet addiction\"",
+        "Upvotes": 11,
+        "Comments": 5,
+        "Date": 1680950853.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12fia9t/i_made_a_new_faucet_design_which_helps_avoid/"
+    },
+    {
+        "ID": "4_25",
+        "Title": "Shiku Metaverse",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1680895809.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12ewfy9/shiku_metaverse/"
+    },
+    {
+        "ID": "4_26",
+        "Title": "Oasis Network - Advancing Blockchain Technology",
+        "Upvotes": 12,
+        "Comments": 29,
+        "Date": 1680685886.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12ce6wi/oasis_network_advancing_blockchain_technology/"
+    },
+    {
+        "ID": "4_27",
+        "Title": "A Problem in Search of a Solution: Seeking a novel, blockchain-based idea for a group of grad students to implement",
+        "Upvotes": 22,
+        "Comments": 38,
+        "Date": 1680649791.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12c05y6/a_problem_in_search_of_a_solution_seeking_a_novel/"
+    },
+    {
+        "ID": "4_28",
+        "Title": "Your blockchain data is public.",
+        "Upvotes": 80,
+        "Comments": 97,
+        "Date": 1680601355.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12bdwmt/your_blockchain_data_is_public/"
+    },
+    {
+        "ID": "4_29",
+        "Title": "Saito being Sybil Attack proof explained",
+        "Upvotes": 5,
+        "Comments": 0,
+        "Date": 1680588151.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12baixh/saito_being_sybil_attack_proof_explained/"
+    },
+    {
+        "ID": "4_30",
+        "Title": "What actually is Arbitrum?",
+        "Upvotes": 12,
+        "Comments": 26,
+        "Date": 1680582308.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/12b8vdz/what_actually_is_arbitrum/"
+    },
+    {
+        "ID": "4_31",
+        "Title": "Crypto Privacy Solutions",
+        "Upvotes": 64,
+        "Comments": 36,
+        "Date": 1679913732.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/123j1z1/crypto_privacy_solutions/"
+    },
+    {
+        "ID": "4_32",
+        "Title": "How to learn blockchain programming/coding without any knowledge?",
+        "Upvotes": 55,
+        "Comments": 69,
+        "Date": 1679669174.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/120mj02/how_to_learn_blockchain_programmingcoding_without/"
+    },
+    {
+        "ID": "4_33",
+        "Title": "A Monetary Blockchain is Less Secure",
+        "Upvotes": 0,
+        "Comments": 9,
+        "Date": 1679514321.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11yu9op/a_monetary_blockchain_is_less_secure/"
+    },
+    {
+        "ID": "4_34",
+        "Title": "ZKPs and Private Ethereum Transactions",
+        "Upvotes": 41,
+        "Comments": 21,
+        "Date": 1679324096.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11wkwff/zkps_and_private_ethereum_transactions/"
+    },
+    {
+        "ID": "4_35",
+        "Title": "Blockchain passport",
+        "Upvotes": 28,
+        "Comments": 10,
+        "Date": 1678940852.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11sk2rb/blockchain_passport/"
+    },
+    {
+        "ID": "4_36",
+        "Title": "Data Availability",
+        "Upvotes": 16,
+        "Comments": 17,
+        "Date": 1678808981.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11r9rpc/data_availability/"
+    },
+    {
+        "ID": "4_37",
+        "Title": "CEX Payments Infrastructure",
+        "Upvotes": 29,
+        "Comments": 6,
+        "Date": 1678712488.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11q92oh/cex_payments_infrastructure/"
+    },
+    {
+        "ID": "4_38",
+        "Title": "Can blockchain technology be used to empower small businesses with efficient and secure supply chain management solutions?",
+        "Upvotes": 28,
+        "Comments": 31,
+        "Date": 1678348473.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11mmevi/can_blockchain_technology_be_used_to_empower/"
+    },
+    {
+        "ID": "4_39",
+        "Title": "Is Bitcoin DeFi becoming more mainstream finally?",
+        "Upvotes": 46,
+        "Comments": 37,
+        "Date": 1678203184.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11l2f4x/is_bitcoin_defi_becoming_more_mainstream_finally/"
+    },
+    {
+        "ID": "4_40",
+        "Title": "Saving data with relation?",
+        "Upvotes": 6,
+        "Comments": 6,
+        "Date": 1678109522.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11jz1q0/saving_data_with_relation/"
+    },
+    {
+        "ID": "4_41",
+        "Title": "Best blockchain/DLT for MMORPGs in terms of scalability, security, and large user base?",
+        "Upvotes": 18,
+        "Comments": 36,
+        "Date": 1678017335.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11ivdmh/best_blockchaindlt_for_mmorpgs_in_terms_of/"
+    },
+    {
+        "ID": "4_42",
+        "Title": "Is Staking With a Validator to secure a blockchain going to be banned in the US for violating regulations on security laws?",
+        "Upvotes": 13,
+        "Comments": 12,
+        "Date": 1677281803.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11b5oys/is_staking_with_a_validator_to_secure_a/"
+    },
+    {
+        "ID": "4_43",
+        "Title": "Does anybody else think blockchain as a technology will have good use cases in the future, but only if they don't have a coin associated with them?",
+        "Upvotes": 42,
+        "Comments": 42,
+        "Date": 1677211135.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/11ahvnd/does_anybody_else_think_blockchain_as_a/"
+    },
+    {
+        "ID": "4_44",
+        "Title": "What are your thoughts on the IC3? (Initiative for CryptoCurrency & Contracts)",
+        "Upvotes": 23,
+        "Comments": 23,
+        "Date": 1675433150.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/10sl4ka/what_are_your_thoughts_on_the_ic3_initiative_for/"
+    },
+    {
+        "ID": "4_45",
+        "Title": "China's Surprising Role in Blockchain Adoption",
+        "Upvotes": 47,
+        "Comments": 44,
+        "Date": 1675347384.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/10rqume/chinas_surprising_role_in_blockchain_adoption/"
+    },
+    {
+        "ID": "4_46",
+        "Title": "Choosing a blockchain based on gas fees. How to find more information?",
+        "Upvotes": 22,
+        "Comments": 81,
+        "Date": 1674526367.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/10juhn3/choosing_a_blockchain_based_on_gas_fees_how_to/"
+    },
+    {
+        "ID": "4_47",
+        "Title": "Some views on the Network of Momentum and how its solving fundamental problems of decentralized networks.",
+        "Upvotes": 2,
+        "Comments": 8,
+        "Date": 1674517499.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/10jrd8q/some_views_on_the_network_of_momentum_and_how_its/"
+    },
+    {
+        "ID": "4_48",
+        "Title": "What language is used for Solana?",
+        "Upvotes": 20,
+        "Comments": 34,
+        "Date": 1674267203.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/10hg353/what_language_is_used_for_solana/"
+    },
+    {
+        "ID": "4_49",
+        "Title": "Flash Consensus algorithm",
+        "Upvotes": 6,
+        "Comments": 14,
+        "Date": 1673583644.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/10aky8n/flash_consensus_algorithm/"
+    },
+    {
+        "ID": "4_50",
+        "Title": "Idea for new blockchain concept.",
+        "Upvotes": 14,
+        "Comments": 29,
+        "Date": 1673558169.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/10aaylr/idea_for_new_blockchain_concept/"
+    },
+    {
+        "ID": "4_51",
+        "Title": "Overview of Cardano\u2019s Hydra and Scalability: Simply Explained",
+        "Upvotes": 4,
+        "Comments": 10,
+        "Date": 1672613706.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/100w1fw/overview_of_cardanos_hydra_and_scalability_simply/"
+    },
+    {
+        "ID": "4_52",
+        "Title": "Continuing the Thought experiment of Governance in Blockchain. Dual Chain and Token Governance Model (Rough concept, Rough draft)",
+        "Upvotes": 18,
+        "Comments": 14,
+        "Date": 1672438401.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/zzd5qx/continuing_the_thought_experiment_of_governance/"
+    },
+    {
+        "ID": "4_53",
+        "Title": "Happy Cakeday, r/CryptoTechnology! Today you're 5",
+        "Upvotes": 44,
+        "Comments": 6,
+        "Date": 1671777012.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/zt8f3d/happy_cakeday_rcryptotechnology_today_youre_5/"
+    },
+    {
+        "ID": "4_54",
+        "Title": "The Surging Need to reduce Identity Theft and Data Breaches On The Blockchain",
+        "Upvotes": 43,
+        "Comments": 18,
+        "Date": 1671436857.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/zploab/the_surging_need_to_reduce_identity_theft_and/"
+    },
+    {
+        "ID": "4_55",
+        "Title": "Why are there so many blockchain hacks?",
+        "Upvotes": 19,
+        "Comments": 62,
+        "Date": 1671178544.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/zn9obm/why_are_there_so_many_blockchain_hacks/"
+    },
+    {
+        "ID": "4_56",
+        "Title": "Developing something on Web3(crypto wallets and NFT), have some questions",
+        "Upvotes": 3,
+        "Comments": 30,
+        "Date": 1671125914.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/zmr1i7/developing_something_on_web3crypto_wallets_and/"
+    },
+    {
+        "ID": "4_57",
+        "Title": "Is there any reason why so many dApps have their own token?",
+        "Upvotes": 42,
+        "Comments": 32,
+        "Date": 1671032069.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/zlu293/is_there_any_reason_why_so_many_dapps_have_their/"
+    },
+    {
+        "ID": "4_58",
+        "Title": "Cosmos/IBC blockchains are making waves in Governance, it\u2019s fascinating",
+        "Upvotes": 17,
+        "Comments": 17,
+        "Date": 1669841624.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/z92wfa/cosmosibc_blockchains_are_making_waves_in/"
+    },
+    {
+        "ID": "4_59",
+        "Title": "Looking for insight into a course project i have for my strategic technologies course in regards to blockchain",
+        "Upvotes": 27,
+        "Comments": 14,
+        "Date": 1669681114.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/z7dpll/looking_for_insight_into_a_course_project_i_have/"
+    },
+    {
+        "ID": "4_60",
+        "Title": "All the transactions are saved on the blockchain, but what is happening when your data is linked to a certain invoice?",
+        "Upvotes": 57,
+        "Comments": 54,
+        "Date": 1669371989.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/z4a338/all_the_transactions_are_saved_on_the_blockchain/"
+    },
+    {
+        "ID": "4_61",
+        "Title": "My state is exploring blockchain voting and I'm offered to give proof-of-concept",
+        "Upvotes": 106,
+        "Comments": 93,
+        "Date": 1669211587.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/z2pp39/my_state_is_exploring_blockchain_voting_and_im/"
+    },
+    {
+        "ID": "4_62",
+        "Title": "The best PoS consensus protocol, what blockchain should I trust?",
+        "Upvotes": 69,
+        "Comments": 130,
+        "Date": 1669124241.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/z1tsj6/the_best_pos_consensus_protocol_what_blockchain/"
+    },
+    {
+        "ID": "4_63",
+        "Title": "Do all smartcontracts make query to oracle providers respectively or does one of the smartcontracts query to them and share the returned data with the other nodes?",
+        "Upvotes": 10,
+        "Comments": 9,
+        "Date": 1668980640.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/z0g9av/do_all_smartcontracts_make_query_to_oracle/"
+    },
+    {
+        "ID": "4_64",
+        "Title": "The Need for Privacy on the Blockchain",
+        "Upvotes": 62,
+        "Comments": 37,
+        "Date": 1668638316.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yx8m70/the_need_for_privacy_on_the_blockchain/"
+    },
+    {
+        "ID": "4_65",
+        "Title": "(TOPIC: MULTICHAIN) Hi, Does anyone see any improvements that can be made to these?",
+        "Upvotes": 0,
+        "Comments": 12,
+        "Date": 1668114057.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yrrp4k/topic_multichain_hi_does_anyone_see_any/"
+    },
+    {
+        "ID": "4_66",
+        "Title": "Trying to build DNS servers that validate records with blockchain!",
+        "Upvotes": 20,
+        "Comments": 18,
+        "Date": 1667933698.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ypv3kl/trying_to_build_dns_servers_that_validate_records/"
+    },
+    {
+        "ID": "4_67",
+        "Title": "Blockchain-Based Security Enterprises",
+        "Upvotes": 5,
+        "Comments": 7,
+        "Date": 1667835101.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yoqf13/blockchainbased_security_enterprises/"
+    },
+    {
+        "ID": "4_68",
+        "Title": "Do you think that new projects can succeed solely off of technology or does the community also need to lend a helping hand?",
+        "Upvotes": 63,
+        "Comments": 50,
+        "Date": 1667833149.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yopfx4/do_you_think_that_new_projects_can_succeed_solely/"
+    },
+    {
+        "ID": "4_69",
+        "Title": "Your opinion on NEAR Protocol",
+        "Upvotes": 11,
+        "Comments": 19,
+        "Date": 1667483606.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yl3g6d/your_opinion_on_near_protocol/"
+    },
+    {
+        "ID": "4_70",
+        "Title": "Sharding on paper looks great but it\u2019s not a panacea if we all want to solve the trilemma with a perfect blockchain",
+        "Upvotes": 36,
+        "Comments": 49,
+        "Date": 1667466475.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ykww6i/sharding_on_paper_looks_great_but_its_not_a/"
+    },
+    {
+        "ID": "4_71",
+        "Title": "Are there projects focusing on simplifying the blockchain for regular users?",
+        "Upvotes": 46,
+        "Comments": 94,
+        "Date": 1666891212.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yexrjb/are_there_projects_focusing_on_simplifying_the/"
+    },
+    {
+        "ID": "4_72",
+        "Title": "How do I choose a blockchain layer and/or protocol for my new dApp?",
+        "Upvotes": 3,
+        "Comments": 32,
+        "Date": 1666883447.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yeugxq/how_do_i_choose_a_blockchain_layer_andor_protocol/"
+    },
+    {
+        "ID": "4_73",
+        "Title": "What crypto topics will take me from zero to hero?",
+        "Upvotes": 1,
+        "Comments": 53,
+        "Date": 1666847187.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yej58c/what_crypto_topics_will_take_me_from_zero_to_hero/"
+    },
+    {
+        "ID": "4_74",
+        "Title": "One personal idea for a new type of mainnet",
+        "Upvotes": 11,
+        "Comments": 63,
+        "Date": 1666551227.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ybprk9/one_personal_idea_for_a_new_type_of_mainnet/"
+    },
+    {
+        "ID": "4_75",
+        "Title": "How do you feel about current social media and do you see a future for decentralized social platforms?",
+        "Upvotes": 25,
+        "Comments": 76,
+        "Date": 1666474827.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yazggd/how_do_you_feel_about_current_social_media_and_do/"
+    },
+    {
+        "ID": "4_76",
+        "Title": "How ambitious is forking Ethereum to make your own cryptocurrency?",
+        "Upvotes": 16,
+        "Comments": 49,
+        "Date": 1666414258.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/yaefo8/how_ambitious_is_forking_ethereum_to_make_your/"
+    },
+    {
+        "ID": "4_77",
+        "Title": "Do you think blockchain technology will stand the test of time?",
+        "Upvotes": 53,
+        "Comments": 92,
+        "Date": 1666363879.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/y9vq0m/do_you_think_blockchain_technology_will_stand_the/"
+    },
+    {
+        "ID": "4_78",
+        "Title": "NFT acting as wallets",
+        "Upvotes": 14,
+        "Comments": 33,
+        "Date": 1665798479.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/y4beru/nft_acting_as_wallets/"
+    },
+    {
+        "ID": "4_79",
+        "Title": "What Exactly is the VASIL Hard Fork: In Simple Terms (Part 2 of 2)",
+        "Upvotes": 5,
+        "Comments": 18,
+        "Date": 1665009673.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xwoply/what_exactly_is_the_vasil_hard_fork_in_simple/"
+    },
+    {
+        "ID": "4_80",
+        "Title": "Will Blockchain Account Systems Remain the Same or Evolve With Technology?",
+        "Upvotes": 88,
+        "Comments": 43,
+        "Date": 1664840678.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xuz97e/will_blockchain_account_systems_remain_the_same/"
+    },
+    {
+        "ID": "4_81",
+        "Title": "Safe Lightning Transactions Without The Need for Watch Towers or Continuous Network Connectivity",
+        "Upvotes": 31,
+        "Comments": 27,
+        "Date": 1664554566.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xs5g76/safe_lightning_transactions_without_the_need_for/"
+    },
+    {
+        "ID": "4_82",
+        "Title": "Request Guidance For Community Voting System",
+        "Upvotes": 19,
+        "Comments": 39,
+        "Date": 1664494977.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xrmj6p/request_guidance_for_community_voting_system/"
+    },
+    {
+        "ID": "4_83",
+        "Title": "Why do we need crypto technology rather than financial instruments?",
+        "Upvotes": 62,
+        "Comments": 92,
+        "Date": 1664439415.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xr22bw/why_do_we_need_crypto_technology_rather_than/"
+    },
+    {
+        "ID": "4_84",
+        "Title": "Are PoW and PoS the Only Consensus Protocols to Look At?",
+        "Upvotes": 102,
+        "Comments": 81,
+        "Date": 1664382653.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xqhbzz/are_pow_and_pos_the_only_consensus_protocols_to/"
+    },
+    {
+        "ID": "4_85",
+        "Title": "Twitter Poll: Have you ever lost your private keys?",
+        "Upvotes": 2,
+        "Comments": 22,
+        "Date": 1663593201.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xibozs/twitter_poll_have_you_ever_lost_your_private_keys/"
+    },
+    {
+        "ID": "4_86",
+        "Title": "Web 2.0 vs Web 3.0: The Difference Revealed",
+        "Upvotes": 71,
+        "Comments": 44,
+        "Date": 1663588701.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xi9yb0/web_20_vs_web_30_the_difference_revealed/"
+    },
+    {
+        "ID": "4_87",
+        "Title": "Developing an Ethereum Based Blockchain Camera",
+        "Upvotes": 32,
+        "Comments": 49,
+        "Date": 1663454415.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xgzuu2/developing_an_ethereum_based_blockchain_camera/"
+    },
+    {
+        "ID": "4_88",
+        "Title": "Wallet seed + secret phrase",
+        "Upvotes": 4,
+        "Comments": 24,
+        "Date": 1663285663.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xfbp9m/wallet_seed_secret_phrase/"
+    },
+    {
+        "ID": "4_89",
+        "Title": "Has anyone tried develop a crypto that allows stocks to be used as a currency?",
+        "Upvotes": 25,
+        "Comments": 54,
+        "Date": 1663280636.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xf9v4i/has_anyone_tried_develop_a_crypto_that_allows/"
+    },
+    {
+        "ID": "4_90",
+        "Title": "What is DeSci (Decentralized Science)? And what\u2019s the reason behind this initiative?",
+        "Upvotes": 3,
+        "Comments": 22,
+        "Date": 1663260709.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xf1q95/what_is_desci_decentralized_science_and_whats_the/"
+    },
+    {
+        "ID": "4_91",
+        "Title": "Digital Ruble is now a thing",
+        "Upvotes": 39,
+        "Comments": 36,
+        "Date": 1662833412.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xavyip/digital_ruble_is_now_a_thing/"
+    },
+    {
+        "ID": "4_92",
+        "Title": "How do multi-coin wallets work?",
+        "Upvotes": 30,
+        "Comments": 26,
+        "Date": 1662798360.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/xajy8z/how_do_multicoin_wallets_work/"
+    },
+    {
+        "ID": "4_93",
+        "Title": "Are there any money-ready cryptocurrencies or platforms? What would it take to make an economic-grade cryptocurrency?",
+        "Upvotes": 10,
+        "Comments": 52,
+        "Date": 1662678133.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/x9en59/are_there_any_moneyready_cryptocurrencies_or/"
+    },
+    {
+        "ID": "4_94",
+        "Title": "Crypto industry operations in the US use about as much electricity as all of the nation\u2019s home computers combined, according to a report released today by the White House Office of Science and Technology Policy.",
+        "Upvotes": 7,
+        "Comments": 42,
+        "Date": 1662650317.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/x936dp/crypto_industry_operations_in_the_us_use_about_as/"
+    },
+    {
+        "ID": "4_95",
+        "Title": "Crypto Mixers: What Are They & How Do They Work?",
+        "Upvotes": 35,
+        "Comments": 29,
+        "Date": 1662641095.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/x8zkuk/crypto_mixers_what_are_they_how_do_they_work/"
+    },
+    {
+        "ID": "4_96",
+        "Title": "Tornado Cash and the regulation of smart contracts",
+        "Upvotes": 35,
+        "Comments": 36,
+        "Date": 1662520044.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/x7tyvv/tornado_cash_and_the_regulation_of_smart_contracts/"
+    },
+    {
+        "ID": "4_97",
+        "Title": "Does Making an NFT consume energy until the last random node that know it gets unplugged (which is an unlikely situation)?",
+        "Upvotes": 22,
+        "Comments": 41,
+        "Date": 1662408768.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/x6q0h6/does_making_an_nft_consume_energy_until_the_last/"
+    },
+    {
+        "ID": "4_98",
+        "Title": "Adoption and partnerships. 2 words that lost all meaning in crypto made me rethink the way I research crypto",
+        "Upvotes": 11,
+        "Comments": 36,
+        "Date": 1662302407.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/x5ok8a/adoption_and_partnerships_2_words_that_lost_all/"
+    },
+    {
+        "ID": "4_99",
+        "Title": "Storage and Web3",
+        "Upvotes": 44,
+        "Comments": 69,
+        "Date": 1662302116.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/x5og9o/storage_and_web3/"
+    },
+    {
+        "ID": "4_100",
+        "Title": "New application for blockchain technology in IoT and Edge",
+        "Upvotes": 27,
+        "Comments": 43,
+        "Date": 1661970399.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/x2ktoj/new_application_for_blockchain_technology_in_iot/"
+    },
+    {
+        "ID": "4_101",
+        "Title": "Hello there, /r/CryptoTechnology moderator team!",
+        "Upvotes": 33,
+        "Comments": 44,
+        "Date": 1661558485.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wyo70p/hello_there_rcryptotechnology_moderator_team/"
+    },
+    {
+        "ID": "4_102",
+        "Title": "New and interested in the tech",
+        "Upvotes": 24,
+        "Comments": 52,
+        "Date": 1661265807.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wvqn7q/new_and_interested_in_the_tech/"
+    },
+    {
+        "ID": "4_103",
+        "Title": "PoW vs POS consensus ? Why not the best of both world - PoP (proof of power)",
+        "Upvotes": 0,
+        "Comments": 48,
+        "Date": 1660714810.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wqgre1/pow_vs_pos_consensus_why_not_the_best_of_both/"
+    },
+    {
+        "ID": "4_104",
+        "Title": "EVM Sidechains - Cardano and Ethereum",
+        "Upvotes": 2,
+        "Comments": 30,
+        "Date": 1660703013.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wqcwjv/evm_sidechains_cardano_and_ethereum/"
+    },
+    {
+        "ID": "4_105",
+        "Title": "Types of Blockchains",
+        "Upvotes": 7,
+        "Comments": 22,
+        "Date": 1660228816.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wlt1di/types_of_blockchains/"
+    },
+    {
+        "ID": "4_106",
+        "Title": "Question about proof of stake in ETH2.0",
+        "Upvotes": 8,
+        "Comments": 23,
+        "Date": 1660160999.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wl6xcq/question_about_proof_of_stake_in_eth20/"
+    },
+    {
+        "ID": "4_107",
+        "Title": "Best Consensus algorithm for the future of crypto?",
+        "Upvotes": 29,
+        "Comments": 107,
+        "Date": 1660060025.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wk6omd/best_consensus_algorithm_for_the_future_of_crypto/"
+    },
+    {
+        "ID": "4_108",
+        "Title": "Merged Mining, is it the only way to sustain BTC long-term?",
+        "Upvotes": 36,
+        "Comments": 45,
+        "Date": 1659642526.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wgaf9q/merged_mining_is_it_the_only_way_to_sustain_btc/"
+    },
+    {
+        "ID": "4_109",
+        "Title": "Are there any multi-blockchain explorers?",
+        "Upvotes": 20,
+        "Comments": 50,
+        "Date": 1659497884.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wevvlp/are_there_any_multiblockchain_explorers/"
+    },
+    {
+        "ID": "4_110",
+        "Title": "Nodes and Masternodes: What's the Difference?",
+        "Upvotes": 26,
+        "Comments": 26,
+        "Date": 1659442292.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wea22w/nodes_and_masternodes_whats_the_difference/"
+    },
+    {
+        "ID": "4_111",
+        "Title": "How do cryptocurrencies compare to GNU Taler? Why do you stay with crypto?",
+        "Upvotes": 1,
+        "Comments": 17,
+        "Date": 1659206288.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/wc489r/how_do_cryptocurrencies_compare_to_gnu_taler_why/"
+    },
+    {
+        "ID": "4_112",
+        "Title": "Looking for books to read on blockchain technology",
+        "Upvotes": 45,
+        "Comments": 39,
+        "Date": 1658840553.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/w8j93z/looking_for_books_to_read_on_blockchain_technology/"
+    },
+    {
+        "ID": "4_113",
+        "Title": "New approaches to blockchain interoperability",
+        "Upvotes": 30,
+        "Comments": 34,
+        "Date": 1658695657.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/w75idk/new_approaches_to_blockchain_interoperability/"
+    },
+    {
+        "ID": "4_114",
+        "Title": "A question about the nature of Sybil attacks.",
+        "Upvotes": 5,
+        "Comments": 7,
+        "Date": 1658170935.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/w27a1i/a_question_about_the_nature_of_sybil_attacks/"
+    },
+    {
+        "ID": "4_115",
+        "Title": "Anyone else interested in Multi-Chain Architecture in Crypto?",
+        "Upvotes": 67,
+        "Comments": 42,
+        "Date": 1657577225.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vwuli4/anyone_else_interested_in_multichain_architecture/"
+    },
+    {
+        "ID": "4_116",
+        "Title": "How to validate blockchain app nodes?",
+        "Upvotes": 8,
+        "Comments": 15,
+        "Date": 1657562754.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vwotjq/how_to_validate_blockchain_app_nodes/"
+    },
+    {
+        "ID": "4_117",
+        "Title": "NFT Tickets over e-tickets ?",
+        "Upvotes": 19,
+        "Comments": 35,
+        "Date": 1657397042.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vv9vvr/nft_tickets_over_etickets/"
+    },
+    {
+        "ID": "4_118",
+        "Title": "Best resources for learning about how blockchain works",
+        "Upvotes": 57,
+        "Comments": 27,
+        "Date": 1656423229.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vmneu1/best_resources_for_learning_about_how_blockchain/"
+    },
+    {
+        "ID": "4_119",
+        "Title": "NFTs to prove vasectomy?",
+        "Upvotes": 0,
+        "Comments": 17,
+        "Date": 1656302623.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vlmjbr/nfts_to_prove_vasectomy/"
+    },
+    {
+        "ID": "4_120",
+        "Title": "Playing media directly off the blockchain, big deal or not?",
+        "Upvotes": 30,
+        "Comments": 27,
+        "Date": 1656185493.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vkmhzi/playing_media_directly_off_the_blockchain_big/"
+    },
+    {
+        "ID": "4_121",
+        "Title": "Security vs decentralization in blockchains",
+        "Upvotes": 16,
+        "Comments": 17,
+        "Date": 1656184571.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vkm6sf/security_vs_decentralization_in_blockchains/"
+    },
+    {
+        "ID": "4_122",
+        "Title": "Syscoin Blockchain - What's your opinion?",
+        "Upvotes": 1,
+        "Comments": 17,
+        "Date": 1656037103.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vjdgqx/syscoin_blockchain_whats_your_opinion/"
+    },
+    {
+        "ID": "4_123",
+        "Title": "Indian banks develop a blockchain based program to prevent loan fraud",
+        "Upvotes": 21,
+        "Comments": 9,
+        "Date": 1656023823.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vj94r8/indian_banks_develop_a_blockchain_based_program/"
+    },
+    {
+        "ID": "4_124",
+        "Title": "Has anybody looked into Kaspa? It's a very new blockDAG that appears to be fully community-driven.",
+        "Upvotes": 8,
+        "Comments": 29,
+        "Date": 1656012794.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vj52mw/has_anybody_looked_into_kaspa_its_a_very_new/"
+    },
+    {
+        "ID": "4_125",
+        "Title": "DEVELOPING NEW TECH / VERY LITTLE HELP",
+        "Upvotes": 0,
+        "Comments": 7,
+        "Date": 1655943767.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vijppg/developing_new_tech_very_little_help/"
+    },
+    {
+        "ID": "4_126",
+        "Title": "Auth0\u2019s Matias Woloski on prioritizing the developer experience",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1655838189.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vhkt10/auth0s_matias_woloski_on_prioritizing_the/"
+    },
+    {
+        "ID": "4_127",
+        "Title": "Everything you need to know about digital asset ownership!",
+        "Upvotes": 24,
+        "Comments": 23,
+        "Date": 1655817337.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vhd3mm/everything_you_need_to_know_about_digital_asset/"
+    },
+    {
+        "ID": "4_128",
+        "Title": "Can this Russian version of SWIFT based on blockchain succeed?",
+        "Upvotes": 27,
+        "Comments": 28,
+        "Date": 1655766318.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vgyhe3/can_this_russian_version_of_swift_based_on/"
+    },
+    {
+        "ID": "4_129",
+        "Title": "The olympics will have blockchain powered tickets to avoid UCL final scenario",
+        "Upvotes": 107,
+        "Comments": 84,
+        "Date": 1655417642.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vdxgi0/the_olympics_will_have_blockchain_powered_tickets/"
+    },
+    {
+        "ID": "4_130",
+        "Title": "[ELI5] Why does \"tokens\" even exist ?",
+        "Upvotes": 19,
+        "Comments": 42,
+        "Date": 1655385877.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vdlyl3/eli5_why_does_tokens_even_exist/"
+    },
+    {
+        "ID": "4_131",
+        "Title": "Is it possible a PoW that runs arbitrary algorithms?",
+        "Upvotes": 37,
+        "Comments": 39,
+        "Date": 1655290547.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/vcrt64/is_it_possible_a_pow_that_runs_arbitrary/"
+    },
+    {
+        "ID": "4_132",
+        "Title": "Validiums vs Sidechains",
+        "Upvotes": 26,
+        "Comments": 11,
+        "Date": 1654954162.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/v9xm5o/validiums_vs_sidechains/"
+    },
+    {
+        "ID": "4_133",
+        "Title": "A question about the protection of NFT authenticity",
+        "Upvotes": 32,
+        "Comments": 38,
+        "Date": 1654804871.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/v8pgyv/a_question_about_the_protection_of_nft/"
+    },
+    {
+        "ID": "4_134",
+        "Title": "Question: How to achieve a USD peg with a token.",
+        "Upvotes": 61,
+        "Comments": 36,
+        "Date": 1654629546.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/v753qg/question_how_to_achieve_a_usd_peg_with_a_token/"
+    },
+    {
+        "ID": "4_135",
+        "Title": "Can blockchain realistically be utilized as a mechanism for voting at elections",
+        "Upvotes": 104,
+        "Comments": 59,
+        "Date": 1654466439.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/v5noxt/can_blockchain_realistically_be_utilized_as_a/"
+    },
+    {
+        "ID": "4_136",
+        "Title": "Heroes of History empowers anyone to protect our history and fight censorship through archiving on blockchain",
+        "Upvotes": 2,
+        "Comments": 3,
+        "Date": 1654110825.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/v2otxz/heroes_of_history_empowers_anyone_to_protect_our/"
+    },
+    {
+        "ID": "4_137",
+        "Title": "Could blockchain technology have prevented the use of fake tickets at the champions league final",
+        "Upvotes": 7,
+        "Comments": 17,
+        "Date": 1654102422.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/v2ljam/could_blockchain_technology_have_prevented_the/"
+    },
+    {
+        "ID": "4_138",
+        "Title": "Blockchain Career: Where can I start? Courses, certification?",
+        "Upvotes": 44,
+        "Comments": 28,
+        "Date": 1654087065.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/v2g1jl/blockchain_career_where_can_i_start_courses/"
+    },
+    {
+        "ID": "4_139",
+        "Title": "Which is the best choice for creating a private document management system?",
+        "Upvotes": 36,
+        "Comments": 35,
+        "Date": 1653820844.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/v08jlp/which_is_the_best_choice_for_creating_a_private/"
+    },
+    {
+        "ID": "4_140",
+        "Title": "The best arguments for or against Proof of Stake",
+        "Upvotes": 67,
+        "Comments": 114,
+        "Date": 1653587049.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uyd52y/the_best_arguments_for_or_against_proof_of_stake/"
+    },
+    {
+        "ID": "4_141",
+        "Title": "Do you know anything about Zetrix?",
+        "Upvotes": 0,
+        "Comments": 11,
+        "Date": 1653496990.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uxlgzg/do_you_know_anything_about_zetrix/"
+    },
+    {
+        "ID": "4_142",
+        "Title": "But will we ever be able to forego our obsessiveness with gold and adapt to any of these new alternatives?",
+        "Upvotes": 26,
+        "Comments": 38,
+        "Date": 1653332605.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uw7n7r/but_will_we_ever_be_able_to_forego_our/"
+    },
+    {
+        "ID": "4_143",
+        "Title": "Do you believe that the telecommunications sector's future is in blockchain ?",
+        "Upvotes": 3,
+        "Comments": 18,
+        "Date": 1653265068.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uvnvvj/do_you_believe_that_the_telecommunications/"
+    },
+    {
+        "ID": "4_144",
+        "Title": "Auditing state on a finite ledger?",
+        "Upvotes": 30,
+        "Comments": 23,
+        "Date": 1653133304.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uuld5e/auditing_state_on_a_finite_ledger/"
+    },
+    {
+        "ID": "4_145",
+        "Title": "Is there something i\u2019m missing about ICP?",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1652921445.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/usrc7w/is_there_something_im_missing_about_icp/"
+    },
+    {
+        "ID": "4_146",
+        "Title": "A word of advice from someone that knows about investing needed",
+        "Upvotes": 18,
+        "Comments": 39,
+        "Date": 1652892393.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ush80h/a_word_of_advice_from_someone_that_knows_about/"
+    },
+    {
+        "ID": "4_147",
+        "Title": "I'm looking for a SSD-cached HDD setup for hosting my own nodes locally - need input",
+        "Upvotes": 43,
+        "Comments": 28,
+        "Date": 1652718848.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ur00rh/im_looking_for_a_ssdcached_hdd_setup_for_hosting/"
+    },
+    {
+        "ID": "4_148",
+        "Title": "Web3: all about the 3rd generation internet, based on the blockchain and the metaverse",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1652542654.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/upjrzt/web3_all_about_the_3rd_generation_internet_based/"
+    },
+    {
+        "ID": "4_149",
+        "Title": "Blockchain and health: How does this technology benefit health ?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1652538440.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/upidk7/blockchain_and_health_how_does_this_technology/"
+    },
+    {
+        "ID": "4_150",
+        "Title": "The blockchains problem of rewarding crypto wallets",
+        "Upvotes": 29,
+        "Comments": 34,
+        "Date": 1652436719.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uoog2b/the_blockchains_problem_of_rewarding_crypto/"
+    },
+    {
+        "ID": "4_151",
+        "Title": "Using the blockchain to create \"unhackable\" leaderboards for games?",
+        "Upvotes": 33,
+        "Comments": 32,
+        "Date": 1652258035.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/un55sq/using_the_blockchain_to_create_unhackable/"
+    },
+    {
+        "ID": "4_152",
+        "Title": "Will we continue to see bigger projects and more demand for web3 development or do you think it is going to die out?",
+        "Upvotes": 5,
+        "Comments": 18,
+        "Date": 1652100356.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ulqfey/will_we_continue_to_see_bigger_projects_and_more/"
+    },
+    {
+        "ID": "4_153",
+        "Title": "Will crypto go green before 2030?",
+        "Upvotes": 0,
+        "Comments": 10,
+        "Date": 1652096791.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ulpd4f/will_crypto_go_green_before_2030/"
+    },
+    {
+        "ID": "4_154",
+        "Title": "When it comes to zero knowledge proofs, how does it practically work in a private chain?",
+        "Upvotes": 29,
+        "Comments": 18,
+        "Date": 1652016906.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ul1utb/when_it_comes_to_zero_knowledge_proofs_how_does/"
+    },
+    {
+        "ID": "4_155",
+        "Title": "\u00bfHow can i use/get Blockchain for a personal project?",
+        "Upvotes": 3,
+        "Comments": 7,
+        "Date": 1651994237.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ukwf74/how_can_i_useget_blockchain_for_a_personal_project/"
+    },
+    {
+        "ID": "4_156",
+        "Title": "What effect do you think the implementation of the crypto technology on a less-developed (Balkan) country will have? Abstract disscusion",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1651961052.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uknjn6/what_effect_do_you_think_the_implementation_of/"
+    },
+    {
+        "ID": "4_157",
+        "Title": "Knowledge to develop a blockchain",
+        "Upvotes": 0,
+        "Comments": 26,
+        "Date": 1651627137.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uhv4wu/knowledge_to_develop_a_blockchain/"
+    },
+    {
+        "ID": "4_158",
+        "Title": "What are the best resources to learn blockchain technology?",
+        "Upvotes": 98,
+        "Comments": 48,
+        "Date": 1651377328.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ufrgd9/what_are_the_best_resources_to_learn_blockchain/"
+    },
+    {
+        "ID": "4_159",
+        "Title": "Do you believe blockchain is the best solution for telecommunications?",
+        "Upvotes": 4,
+        "Comments": 10,
+        "Date": 1651253744.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uer67r/do_you_believe_blockchain_is_the_best_solution/"
+    },
+    {
+        "ID": "4_160",
+        "Title": "High schooler trying to get into Blockchain programming",
+        "Upvotes": 67,
+        "Comments": 47,
+        "Date": 1651109563.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/udjev4/high_schooler_trying_to_get_into_blockchain/"
+    },
+    {
+        "ID": "4_161",
+        "Title": "Is blockchain tech already everything we need it to be?",
+        "Upvotes": 51,
+        "Comments": 51,
+        "Date": 1651052472.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uczpu8/is_blockchain_tech_already_everything_we_need_it/"
+    },
+    {
+        "ID": "4_162",
+        "Title": "I think monolithic chains are technically obsolete, It feels like modular chains are the next step forward as far as blockchain technology.",
+        "Upvotes": 18,
+        "Comments": 33,
+        "Date": 1650887181.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ubj8ed/i_think_monolithic_chains_are_technically/"
+    },
+    {
+        "ID": "4_163",
+        "Title": "True parallelism on-chain?",
+        "Upvotes": 1,
+        "Comments": 22,
+        "Date": 1650748537.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/uaf1be/true_parallelism_onchain/"
+    },
+    {
+        "ID": "4_164",
+        "Title": "Where do you think crypto technology is going to be a couple of years from now? What do you think is going to be the project that really pushes it towards mass adoption?",
+        "Upvotes": 35,
+        "Comments": 69,
+        "Date": 1650369637.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/u73gzg/where_do_you_think_crypto_technology_is_going_to/"
+    },
+    {
+        "ID": "4_165",
+        "Title": "What Blockchain Gaming could look like in the future.",
+        "Upvotes": 9,
+        "Comments": 1,
+        "Date": 1650359601.0,
+        "URL": "/r/Kirin_Official/comments/u6z80i/what_blockchain_gaming_could_look_like_in_the/"
+    },
+    {
+        "ID": "4_166",
+        "Title": "How can we further lower the environmental impact of the blockchain and crypto technology and make it as green as possible?",
+        "Upvotes": 46,
+        "Comments": 91,
+        "Date": 1650283200.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/u6bfxa/how_can_we_further_lower_the_environmental_impact/"
+    },
+    {
+        "ID": "4_167",
+        "Title": "One click real estate buying via blockchain?",
+        "Upvotes": 33,
+        "Comments": 62,
+        "Date": 1650209337.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/u5pd2b/one_click_real_estate_buying_via_blockchain/"
+    },
+    {
+        "ID": "4_168",
+        "Title": "Blockchain Trilemma Questions",
+        "Upvotes": 26,
+        "Comments": 38,
+        "Date": 1650173137.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/u5g7uf/blockchain_trilemma_questions/"
+    },
+    {
+        "ID": "4_169",
+        "Title": "Unless I'm mistaken, ZK is pretty much the future of Ethereum scaling and I think it is the future of the blockchain as a whole.",
+        "Upvotes": 91,
+        "Comments": 94,
+        "Date": 1650115242.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/u4xoht/unless_im_mistaken_zk_is_pretty_much_the_future/"
+    },
+    {
+        "ID": "4_170",
+        "Title": "Opensource web3 communities",
+        "Upvotes": 42,
+        "Comments": 40,
+        "Date": 1650028763.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/u47wmn/opensource_web3_communities/"
+    },
+    {
+        "ID": "4_171",
+        "Title": "Are blockchains/DAGs verified when syncing/downloading?",
+        "Upvotes": 19,
+        "Comments": 24,
+        "Date": 1649659024.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/u11c5a/are_blockchainsdags_verified_when/"
+    },
+    {
+        "ID": "4_172",
+        "Title": "Does nobody own anything or everybody owns everything in a public (and hence permissionless) blockchain network?",
+        "Upvotes": 2,
+        "Comments": 10,
+        "Date": 1649492119.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tzopsy/does_nobody_own_anything_or_everybody_owns/"
+    },
+    {
+        "ID": "4_173",
+        "Title": "Looking for third co-founder",
+        "Upvotes": 1,
+        "Comments": 7,
+        "Date": 1648898955.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tugr34/looking_for_third_cofounder/"
+    },
+    {
+        "ID": "4_174",
+        "Title": "Smart contracts transaction validation",
+        "Upvotes": 1,
+        "Comments": 7,
+        "Date": 1648644554.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ts5p0e/smart_contracts_transaction_validation/"
+    },
+    {
+        "ID": "4_175",
+        "Title": "How to query staked amount in liquidity pool via wallet address?",
+        "Upvotes": 16,
+        "Comments": 24,
+        "Date": 1648639211.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ts45mm/how_to_query_staked_amount_in_liquidity_pool_via/"
+    },
+    {
+        "ID": "4_176",
+        "Title": "Where are stored the Bitcoins displayed in other blockchains? Where are the BTC on Binance Smart chain? Are there more than 21 million BTCs?",
+        "Upvotes": 34,
+        "Comments": 32,
+        "Date": 1648530925.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tqsfvv/where_are_stored_the_bitcoins_displayed_in_other/"
+    },
+    {
+        "ID": "4_177",
+        "Title": "What is more scalable",
+        "Upvotes": 7,
+        "Comments": 17,
+        "Date": 1648474453.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tq9fou/what_is_more_scalable/"
+    },
+    {
+        "ID": "4_178",
+        "Title": "What are the biggest issues blockchain technology creates or faces?",
+        "Upvotes": 15,
+        "Comments": 37,
+        "Date": 1648147863.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tmvet0/what_are_the_biggest_issues_blockchain_technology/"
+    },
+    {
+        "ID": "4_179",
+        "Title": "How's this explanation of how blockchain works?",
+        "Upvotes": 30,
+        "Comments": 48,
+        "Date": 1648073744.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tliicf/hows_this_explanation_of_how_blockchain_works/"
+    },
+    {
+        "ID": "4_180",
+        "Title": "I'm giving a TedTalks presentation on Blockchain!",
+        "Upvotes": 110,
+        "Comments": 88,
+        "Date": 1647896015.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tjlr5e/im_giving_a_tedtalks_presentation_on_blockchain/"
+    },
+    {
+        "ID": "4_181",
+        "Title": "Blockchain for decentralized institutional database",
+        "Upvotes": 23,
+        "Comments": 34,
+        "Date": 1647703653.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/thxk4s/blockchain_for_decentralized_institutional/"
+    },
+    {
+        "ID": "4_182",
+        "Title": "Could this reduce blockchain storage requirements? Storing a 64-bit counter (block height) as one byte.",
+        "Upvotes": 21,
+        "Comments": 37,
+        "Date": 1647619985.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/th4ywr/could_this_reduce_blockchain_storage_requirements/"
+    },
+    {
+        "ID": "4_183",
+        "Title": "Using Blockchain for Better Elections \u2014 How to make voting more equal, more transparent, and less expensive.",
+        "Upvotes": 75,
+        "Comments": 41,
+        "Date": 1647546478.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tgika0/using_blockchain_for_better_elections_how_to_make/"
+    },
+    {
+        "ID": "4_184",
+        "Title": "AMA: We are the Dfinity R&D Team. Ask us about the IC Whitepaper for Geeks!",
+        "Upvotes": 42,
+        "Comments": 10,
+        "Date": 1647405903.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tf9jfq/ama_we_are_the_dfinity_rd_team_ask_us_about_the/"
+    },
+    {
+        "ID": "4_185",
+        "Title": "What's the closest a blockchain can get from being a common/traditional Database?",
+        "Upvotes": 40,
+        "Comments": 59,
+        "Date": 1647275735.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/te1lwc/whats_the_closest_a_blockchain_can_get_from_being/"
+    },
+    {
+        "ID": "4_186",
+        "Title": "Best platform for private transactions ?",
+        "Upvotes": 7,
+        "Comments": 110,
+        "Date": 1647116633.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tcq0dj/best_platform_for_private_transactions/"
+    },
+    {
+        "ID": "4_187",
+        "Title": "Important updates - GetBlock\u2019s Polkadot nodes were updated to the v0.19.187 version!",
+        "Upvotes": 0,
+        "Comments": 12,
+        "Date": 1646926974.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/tb1hj6/important_updates_getblocks_polkadot_nodes_were/"
+    },
+    {
+        "ID": "4_188",
+        "Title": "Are DAPPS really decentralized?",
+        "Upvotes": 52,
+        "Comments": 102,
+        "Date": 1646670814.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/t8t5vo/are_dapps_really_decentralized/"
+    },
+    {
+        "ID": "4_189",
+        "Title": "We\u2019re starting to see some university like MIT teach blockchain technology classes and I\u2019m all in for that.",
+        "Upvotes": 92,
+        "Comments": 39,
+        "Date": 1646616110.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/t8dmxf/were_starting_to_see_some_university_like_mit/"
+    },
+    {
+        "ID": "4_190",
+        "Title": "GetBlock, the blockchain node provider partners with MyWish, the platform for smart contracts creation!",
+        "Upvotes": 2,
+        "Comments": 8,
+        "Date": 1646406718.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/t6l2yb/getblock_the_blockchain_node_provider_partners/"
+    },
+    {
+        "ID": "4_191",
+        "Title": "Would having or using a Blockchain be the perfect way for a charity to be analyzed for transparency and to make sure it's funds are being used properly?",
+        "Upvotes": 116,
+        "Comments": 87,
+        "Date": 1646269372.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/t5f5xy/would_having_or_using_a_blockchain_be_the_perfect/"
+    },
+    {
+        "ID": "4_192",
+        "Title": "Web3 developer roadmap for a web2 developer",
+        "Upvotes": 5,
+        "Comments": 17,
+        "Date": 1646209415.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/t4vjfy/web3_developer_roadmap_for_a_web2_developer/"
+    },
+    {
+        "ID": "4_193",
+        "Title": "The lifecycle of a transaction",
+        "Upvotes": 28,
+        "Comments": 25,
+        "Date": 1646079437.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/t3ot08/the_lifecycle_of_a_transaction/"
+    },
+    {
+        "ID": "4_194",
+        "Title": "Researching the blockchain and it's community effects",
+        "Upvotes": 33,
+        "Comments": 31,
+        "Date": 1645959585.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/t2lvx0/researching_the_blockchain_and_its_community/"
+    },
+    {
+        "ID": "4_195",
+        "Title": "Consensus-free protocols?",
+        "Upvotes": 11,
+        "Comments": 57,
+        "Date": 1645791549.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/t12pi8/consensusfree_protocols/"
+    },
+    {
+        "ID": "4_196",
+        "Title": "Blockchain Frameworks and Development Platforms",
+        "Upvotes": 34,
+        "Comments": 58,
+        "Date": 1645551254.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/syt8yu/blockchain_frameworks_and_development_platforms/"
+    },
+    {
+        "ID": "4_197",
+        "Title": "Privacy in smart contracts and blockchain?",
+        "Upvotes": 37,
+        "Comments": 159,
+        "Date": 1645378212.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/sx6fda/privacy_in_smart_contracts_and_blockchain/"
+    },
+    {
+        "ID": "4_198",
+        "Title": "A question for all the blockchain devs that use a blockchain data indexer (like The Graph)",
+        "Upvotes": 46,
+        "Comments": 45,
+        "Date": 1644768748.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/srm4if/a_question_for_all_the_blockchain_devs_that_use_a/"
+    },
+    {
+        "ID": "4_199",
+        "Title": "Linking the trading of a cryptocurrency to FIAT transactions?",
+        "Upvotes": 17,
+        "Comments": 29,
+        "Date": 1644498316.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/sp66ob/linking_the_trading_of_a_cryptocurrency_to_fiat/"
+    },
+    {
+        "ID": "4_200",
+        "Title": "Can someone help me understand how Solana's Proof-of-History differs from any other major blockchain? Repost from r/cc since responses were brutal",
+        "Upvotes": 74,
+        "Comments": 113,
+        "Date": 1643979118.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/skck87/can_someone_help_me_understand_how_solanas/"
+    },
+    {
+        "ID": "4_201",
+        "Title": "Blockchain Engineering and Blockchain Development",
+        "Upvotes": 59,
+        "Comments": 89,
+        "Date": 1643721433.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/shuq3h/blockchain_engineering_and_blockchain_development/"
+    },
+    {
+        "ID": "4_202",
+        "Title": "Samsung blockchain keystore???",
+        "Upvotes": 42,
+        "Comments": 83,
+        "Date": 1643506776.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/sfxigx/samsung_blockchain_keystore/"
+    },
+    {
+        "ID": "4_203",
+        "Title": "With consumerism shifting more towards online shopping, wouldn\u2019t it make sense to integrate blockchain technology?",
+        "Upvotes": 36,
+        "Comments": 107,
+        "Date": 1643240980.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/sdk43f/with_consumerism_shifting_more_towards_online/"
+    },
+    {
+        "ID": "4_204",
+        "Title": "What is Metaverse? A New Reality Explained",
+        "Upvotes": 25,
+        "Comments": 66,
+        "Date": 1643209504.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/sd80kx/what_is_metaverse_a_new_reality_explained/"
+    },
+    {
+        "ID": "4_205",
+        "Title": "Blockchain in relation to climate change [poll]",
+        "Upvotes": 30,
+        "Comments": 156,
+        "Date": 1643118324.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/sce38i/blockchain_in_relation_to_climate_change_poll/"
+    },
+    {
+        "ID": "4_206",
+        "Title": "Is there a need for a solution like Cartesi?",
+        "Upvotes": 62,
+        "Comments": 129,
+        "Date": 1643017727.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/sbik5s/is_there_a_need_for_a_solution_like_cartesi/"
+    },
+    {
+        "ID": "4_207",
+        "Title": "Are Smart Contracts attached to a Wallet?",
+        "Upvotes": 38,
+        "Comments": 110,
+        "Date": 1642967459.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/sb25dy/are_smart_contracts_attached_to_a_wallet/"
+    },
+    {
+        "ID": "4_208",
+        "Title": "An Interesting Development with Hedera - Hashgraph Patent to be made Open Source",
+        "Upvotes": 79,
+        "Comments": 117,
+        "Date": 1642613930.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/s7vmta/an_interesting_development_with_hedera_hashgraph/"
+    },
+    {
+        "ID": "4_209",
+        "Title": "Would too many blockchains networks hurt the adoption of the technology as a whole?",
+        "Upvotes": 56,
+        "Comments": 159,
+        "Date": 1642470804.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/s6ldvy/would_too_many_blockchains_networks_hurt_the/"
+    },
+    {
+        "ID": "4_210",
+        "Title": "As a software engineer invested in crypto for several years, I don't get the recent NFT / metaverse hype?",
+        "Upvotes": 180,
+        "Comments": 385,
+        "Date": 1642318096.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/s56i2k/as_a_software_engineer_invested_in_crypto_for/"
+    },
+    {
+        "ID": "4_211",
+        "Title": "Detailed Proof of Stake explanation",
+        "Upvotes": 59,
+        "Comments": 178,
+        "Date": 1642264046.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/s4nyts/detailed_proof_of_stake_explanation/"
+    },
+    {
+        "ID": "4_212",
+        "Title": "Digital Will & Last Testament",
+        "Upvotes": 59,
+        "Comments": 153,
+        "Date": 1642209530.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/s483v9/digital_will_last_testament/"
+    },
+    {
+        "ID": "4_213",
+        "Title": "Is it worth trying to learn blockchain development if I have no coding experience?",
+        "Upvotes": 77,
+        "Comments": 194,
+        "Date": 1642101946.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/s37egw/is_it_worth_trying_to_learn_blockchain/"
+    },
+    {
+        "ID": "4_214",
+        "Title": "2 questions about blockchain supply chains?",
+        "Upvotes": 18,
+        "Comments": 113,
+        "Date": 1641897819.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/s1a4s7/2_questions_about_blockchain_supply_chains/"
+    },
+    {
+        "ID": "4_215",
+        "Title": "A blockchain with different use cases!",
+        "Upvotes": 4,
+        "Comments": 114,
+        "Date": 1641790588.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/s0bked/a_blockchain_with_different_use_cases/"
+    },
+    {
+        "ID": "4_216",
+        "Title": "ELI5 Interoperability: cosmos vs polkadot",
+        "Upvotes": 94,
+        "Comments": 194,
+        "Date": 1641720114.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rznvli/eli5_interoperability_cosmos_vs_polkadot/"
+    },
+    {
+        "ID": "4_217",
+        "Title": "Semi-distributed ledgers?",
+        "Upvotes": 3,
+        "Comments": 115,
+        "Date": 1641666677.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rz6fyn/semidistributed_ledgers/"
+    },
+    {
+        "ID": "4_218",
+        "Title": "I don\u2019t know if this is a great question to ask or not, but I would like to know how net neutrality varies, between each type of crypto-blockchain(Bitcoin, Ethereum, IOTA, STELLAR, Cardano, Straitis, Tezos, Sia Blockchain)?",
+        "Upvotes": 29,
+        "Comments": 155,
+        "Date": 1641577802.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/ryd9vx/i_dont_know_if_this_is_a_great_question_to_ask_or/"
+    },
+    {
+        "ID": "4_219",
+        "Title": "WordLines \u2013 A zero-knowledge proof-based blockchain puzzle game",
+        "Upvotes": 64,
+        "Comments": 136,
+        "Date": 1641488268.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rxj7qx/wordlines_a_zeroknowledge_proofbased_blockchain/"
+    },
+    {
+        "ID": "4_220",
+        "Title": "Does 2FA exist for the blockchain?",
+        "Upvotes": 13,
+        "Comments": 136,
+        "Date": 1641412963.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rwvn8s/does_2fa_exist_for_the_blockchain/"
+    },
+    {
+        "ID": "4_221",
+        "Title": "What's the deal with avalanche consensus?",
+        "Upvotes": 55,
+        "Comments": 203,
+        "Date": 1641242802.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rvbl5a/whats_the_deal_with_avalanche_consensus/"
+    },
+    {
+        "ID": "4_222",
+        "Title": "I really want to know about Smart contracts & Blockchain technology",
+        "Upvotes": 91,
+        "Comments": 180,
+        "Date": 1640985344.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rt3h0l/i_really_want_to_know_about_smart_contracts/"
+    },
+    {
+        "ID": "4_223",
+        "Title": "Can NFTs help with fractional real estate investing?",
+        "Upvotes": 6,
+        "Comments": 153,
+        "Date": 1640939983.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rspgt1/can_nfts_help_with_fractional_real_estate/"
+    },
+    {
+        "ID": "4_224",
+        "Title": "A possibly dumb question",
+        "Upvotes": 64,
+        "Comments": 179,
+        "Date": 1640880115.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rs53s5/a_possibly_dumb_question/"
+    },
+    {
+        "ID": "4_225",
+        "Title": "How do wallets actually interact with the blockchain?",
+        "Upvotes": 79,
+        "Comments": 232,
+        "Date": 1640658058.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rq4295/how_do_wallets_actually_interact_with_the/"
+    },
+    {
+        "ID": "4_226",
+        "Title": "How are crypto exchanges built?",
+        "Upvotes": 50,
+        "Comments": 210,
+        "Date": 1640619134.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rppyxn/how_are_crypto_exchanges_built/"
+    },
+    {
+        "ID": "4_227",
+        "Title": "Open source crypto projects to participate",
+        "Upvotes": 29,
+        "Comments": 219,
+        "Date": 1640291705.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rn4oxf/open_source_crypto_projects_to_participate/"
+    },
+    {
+        "ID": "4_228",
+        "Title": "Is there a way to remove a porn that made NFT?",
+        "Upvotes": 65,
+        "Comments": 289,
+        "Date": 1640243825.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rmq088/is_there_a_way_to_remove_a_porn_that_made_nft/"
+    },
+    {
+        "ID": "4_229",
+        "Title": "Happy Cakeday, r/CryptoTechnology! Today you're 4",
+        "Upvotes": 25,
+        "Comments": 159,
+        "Date": 1640241012.0,
+        "URL": "https://www.reddit.com/r/CryptoTechnology/comments/rmp91a/happy_cakeday_rcryptotechnology_today_youre_4/"
+    }
+]

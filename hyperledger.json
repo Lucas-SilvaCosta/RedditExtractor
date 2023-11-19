@@ -1,0 +1,4082 @@
+[
+    {
+        "ID": "1_1",
+        "Title": "Trying to make sure my transactions to the ledger are transaction-safe",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1699942904.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/17uw47f/trying_to_make_sure_my_transactions_to_the_ledger/"
+    },
+    {
+        "ID": "1_2",
+        "Title": "Error: chaincode install failed with status: 500 - failed to invoke backing implementation of 'InstallChaincode'",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1697984722.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/17dugdk/error_chaincode_install_failed_with_status_500/"
+    },
+    {
+        "ID": "1_3",
+        "Title": "openssl s_client connect does not work - unable to get local issuer certificate",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1697223130.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/1775u7p/openssl_s_client_connect_does_not_work_unable_to/"
+    },
+    {
+        "ID": "1_4",
+        "Title": "Registering failed with errors [{'code': 20, 'message': 'Authentication failure'}] - Hyperledger Fabric",
+        "Upvotes": 1,
+        "Comments": 7,
+        "Date": 1697183753.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/176thzl/registering_failed_with_errors_code_20_message/"
+    },
+    {
+        "ID": "1_5",
+        "Title": "Upcoming Hyperledger webinar with KrypC on September 13: Leveraging Hyperledger Fabric for Banking and Financial Services",
+        "Upvotes": 2,
+        "Comments": 4,
+        "Date": 1694122276.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/16cr61r/upcoming_hyperledger_webinar_with_krypc_on/"
+    },
+    {
+        "ID": "1_6",
+        "Title": "I for the life of me can't figure out how to query a private collection from another org, even if i have ' \"memberOnlyRead\": false, in the collection config",
+        "Upvotes": 1,
+        "Comments": 3,
+        "Date": 1694042852.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/16bzpzo/i_for_the_life_of_me_cant_figure_out_how_to_query/"
+    },
+    {
+        "ID": "1_7",
+        "Title": "Upcoming technical sessions about Hyperledger Fabric",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1692719298.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/15y9p77/upcoming_technical_sessions_about_hyperledger/"
+    },
+    {
+        "ID": "1_8",
+        "Title": "Building a new HF blockchain",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1690490432.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/15bcue4/building_a_new_hf_blockchain/"
+    },
+    {
+        "ID": "1_9",
+        "Title": "Oracle Service for Hyperledger Fabric",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1690448124.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/15awjw0/oracle_service_for_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_10",
+        "Title": "What is a good learning resource to learn how to build a blockchain with Hyperledger Fabric?",
+        "Upvotes": 5,
+        "Comments": 1,
+        "Date": 1689878104.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/154z7qr/what_is_a_good_learning_resource_to_learn_how_to/"
+    },
+    {
+        "ID": "1_11",
+        "Title": "Created Timed Document Share in Hyperledger Fabric",
+        "Upvotes": 2,
+        "Comments": 4,
+        "Date": 1689322744.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/14zagks/created_timed_document_share_in_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_12",
+        "Title": "Tokens on Hyperledger Fabric",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1689013025.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/14w1pno/tokens_on_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_13",
+        "Title": "Seeking guidance on testing multiple blockchain network configurations using hyperledger Besu",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1688905259.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/14ux8aj/seeking_guidance_on_testing_multiple_blockchain/"
+    },
+    {
+        "ID": "1_14",
+        "Title": "Starting with Hyperledger Fabric",
+        "Upvotes": 2,
+        "Comments": 5,
+        "Date": 1688702481.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/14svw6y/starting_with_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_15",
+        "Title": "How to check the status of orderers?",
+        "Upvotes": 3,
+        "Comments": 2,
+        "Date": 1687604544.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/14hq4xg/how_to_check_the_status_of_orderers/"
+    },
+    {
+        "ID": "1_16",
+        "Title": "Gossip Protocol: Where Are Messages Received?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1687256793.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/14e7dj8/gossip_protocol_where_are_messages_received/"
+    },
+    {
+        "ID": "1_17",
+        "Title": "How to deploy a Hyperledger fabric network using multiple physical machines?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1686960860.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/14bc8c2/how_to_deploy_a_hyperledger_fabric_network_using/"
+    },
+    {
+        "ID": "1_18",
+        "Title": "Is there any Indexer for Fabric or Besu?",
+        "Upvotes": 3,
+        "Comments": 4,
+        "Date": 1686122538.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/1436d39/is_there_any_indexer_for_fabric_or_besu/"
+    },
+    {
+        "ID": "1_19",
+        "Title": "Hello,all i am newbie in hyperledger.I had explored following till now:- 1. all Fabric samples 2. Created 2 full fledge app using hyperledger. Can anyone give me ideas,what to do next.Like intermediate or more advanced topics if anyone can suggest.Resouces will be much appreciated.",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1685869712.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/1407482/helloall_i_am_newbie_in_hyperledgeri_had_explored/"
+    },
+    {
+        "ID": "1_20",
+        "Title": "Online/Cloud Hyperledger Fabric IDE",
+        "Upvotes": 1,
+        "Comments": 7,
+        "Date": 1685267523.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/13twgax/onlinecloud_hyperledger_fabric_ide/"
+    },
+    {
+        "ID": "1_21",
+        "Title": "Upcoming Hyperledger webinar with Kaleido: Tokenize Assets at Institutional Scale with Kaleido & Hyperledger Technologies",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1684942774.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/13qp276/upcoming_hyperledger_webinar_with_kaleido/"
+    },
+    {
+        "ID": "1_22",
+        "Title": "go: finding module for package github.com/hyperledger/fabric/core/chaincode/shim/ext/statebased chaincode-go imports github.com/hyperledger/fabric/core/chaincode/shim/ext/statebased: module github.com/hyperledger/fabric@latest found (v2.1.1+incompatible), but does not contain package github.",
+        "Upvotes": 0,
+        "Comments": 2,
+        "Date": 1684073056.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/13hd3pg/go_finding_module_for_package/"
+    },
+    {
+        "ID": "1_23",
+        "Title": "Online workshops about deploying Hyperledger Fabric on Kubernetes and Verifiable Credentials",
+        "Upvotes": 8,
+        "Comments": 0,
+        "Date": 1683731178.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/13dte0p/online_workshops_about_deploying_hyperledger/"
+    },
+    {
+        "ID": "1_24",
+        "Title": "Hyperledger Fabric on VS Code in Windows 11?",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1683008613.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/135d5mo/hyperledger_fabric_on_vs_code_in_windows_11/"
+    },
+    {
+        "ID": "1_25",
+        "Title": "Simple Banking App using Hyperledeger",
+        "Upvotes": 7,
+        "Comments": 3,
+        "Date": 1683000473.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/135as7h/simple_banking_app_using_hyperledeger/"
+    },
+    {
+        "ID": "1_26",
+        "Title": "Handshake failed with fatal error SSL_ERROR_SSL: error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed.2023-04-19T23:15:49.100Z - error: [Channel.js]: Error: 14 UNAVAILABLE: failed to connect to all addressesE0420 04:45:49.105900498 17391",
+        "Upvotes": 2,
+        "Comments": 5,
+        "Date": 1681947320.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/12sehbi/handshake_failed_with_fatal_error_ssl_error_ssl/"
+    },
+    {
+        "ID": "1_27",
+        "Title": "Help finding shim,cid,peer packages when i try to deploy the test-network with the asset-transfer-basic chaincode",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1681660512.0,
+        "URL": "https://i.redd.it/g2bnlxihq9ua1.png"
+    },
+    {
+        "ID": "1_28",
+        "Title": "Fabric: Sensory Data Blockchain",
+        "Upvotes": 1,
+        "Comments": 6,
+        "Date": 1679910176.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/123ht1c/fabric_sensory_data_blockchain/"
+    },
+    {
+        "ID": "1_29",
+        "Title": "Drug Counterfeit prevention using Hyperledger Fabric",
+        "Upvotes": 6,
+        "Comments": 7,
+        "Date": 1678096843.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/11juloq/drug_counterfeit_prevention_using_hyperledger/"
+    },
+    {
+        "ID": "1_30",
+        "Title": "What is your preferred platform to launch a private blockchain? HyperLedger Fabric or private Ethereum?",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1677842222.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/11gy5cf/what_is_your_preferred_platform_to_launch_a/"
+    },
+    {
+        "ID": "1_31",
+        "Title": "Feedback Wanted: Check Out Hyperledger Fabric Review and Rating on Scortik and Let Us Know Your Thoughts!",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1677756069.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/11g0c7m/feedback_wanted_check_out_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_32",
+        "Title": "Issue with Hyperledger fabric go build command",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1675609224.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/10uegt7/issue_with_hyperledger_fabric_go_build_command/"
+    },
+    {
+        "ID": "1_33",
+        "Title": "Is Windows Setup for hyperledger Fabric possible?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1673010539.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/104tstr/is_windows_setup_for_hyperledger_fabric_possible/"
+    },
+    {
+        "ID": "1_34",
+        "Title": "Who is using Hyperledger Fabric ?",
+        "Upvotes": 9,
+        "Comments": 7,
+        "Date": 1668270030.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ytbgul/who_is_using_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_35",
+        "Title": "Free virtual with Q & A Thu Nov 17 about modifying Fabric to get multiparty authorization",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1667858293.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/yp1w73/free_virtual_with_q_a_thu_nov_17_about_modifying/"
+    },
+    {
+        "ID": "1_36",
+        "Title": "Best way to start a Hyperledger app?",
+        "Upvotes": 1,
+        "Comments": 3,
+        "Date": 1667319873.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/yjd6za/best_way_to_start_a_hyperledger_app/"
+    },
+    {
+        "ID": "1_37",
+        "Title": "With Mutual TLS I get unknown authority when I try to join the peer to my channel.",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1666958916.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/yfmfu9/with_mutual_tls_i_get_unknown_authority_when_i/"
+    },
+    {
+        "ID": "1_38",
+        "Title": "Guys please suggest some good resource to get start with hyperledger fabric please!!",
+        "Upvotes": 3,
+        "Comments": 2,
+        "Date": 1666893486.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/yeypnp/guys_please_suggest_some_good_resource_to_get/"
+    },
+    {
+        "ID": "1_39",
+        "Title": "Free Hyperledger Blockchain Courses",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1665129955.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/xxt9r1/free_hyperledger_blockchain_courses/"
+    },
+    {
+        "ID": "1_40",
+        "Title": "Why gossip_payload_buffer_size increases?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1665031801.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/xwwhit/why_gossip_payload_buffer_size_increases/"
+    },
+    {
+        "ID": "1_41",
+        "Title": "Totally lost on hyperledger fabric",
+        "Upvotes": 4,
+        "Comments": 16,
+        "Date": 1663303512.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/xfht7g/totally_lost_on_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_42",
+        "Title": "Use hyperledger indy with fabric instead of CAs",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1662957391.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/xc3ekd/use_hyperledger_indy_with_fabric_instead_of_cas/"
+    },
+    {
+        "ID": "1_43",
+        "Title": "Some conceptual clarity on Hyperledger Besu",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1660729220.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/wqknza/some_conceptual_clarity_on_hyperledger_besu/"
+    },
+    {
+        "ID": "1_44",
+        "Title": "Hyperledger network approach",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1660700169.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/wqbw0w/hyperledger_network_approach/"
+    },
+    {
+        "ID": "1_45",
+        "Title": "HLF Operator v1.7.0",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1660031116.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/wjx7nb/hlf_operator_v170/"
+    },
+    {
+        "ID": "1_46",
+        "Title": "Expert advice needed (hyper ledger)",
+        "Upvotes": 5,
+        "Comments": 3,
+        "Date": 1658865981.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/w8tm4w/expert_advice_needed_hyper_ledger/"
+    },
+    {
+        "ID": "1_47",
+        "Title": "Thoughts on Hyperledger Fabric Administrator (CHFA) Certification?",
+        "Upvotes": 2,
+        "Comments": 4,
+        "Date": 1658074044.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/w1assj/thoughts_on_hyperledger_fabric_administrator_chfa/"
+    },
+    {
+        "ID": "1_48",
+        "Title": "Hyperledger blockchain for IoT devices certification on linux",
+        "Upvotes": 5,
+        "Comments": 0,
+        "Date": 1657994030.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/w0mc1x/hyperledger_blockchain_for_iot_devices/"
+    },
+    {
+        "ID": "1_49",
+        "Title": "Hyperledger/Fabric as leadless fault-tolerant system?",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1657368585.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/vv0brf/hyperledgerfabric_as_leadless_faulttolerant_system/"
+    },
+    {
+        "ID": "1_50",
+        "Title": "Suggestion for understating fabric technology",
+        "Upvotes": 3,
+        "Comments": 3,
+        "Date": 1655842431.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/vhmeoq/suggestion_for_understating_fabric_technology/"
+    },
+    {
+        "ID": "1_51",
+        "Title": "Working with fabric API",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1655104514.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/vb6cv9/working_with_fabric_api/"
+    },
+    {
+        "ID": "1_52",
+        "Title": "Implement a software defined network using hyper ledger fabric",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1651688791.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/uid4hq/implement_a_software_defined_network_using_hyper/"
+    },
+    {
+        "ID": "1_53",
+        "Title": "Best Laptop to use",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1651094516.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ude9c9/best_laptop_to_use/"
+    },
+    {
+        "ID": "1_54",
+        "Title": "Kindly help a newbie: Is it possible to run multiple hyperledger fabric network organizations on a single virtual machine?",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1651057337.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ud0w71/kindly_help_a_newbie_is_it_possible_to_run/"
+    },
+    {
+        "ID": "1_55",
+        "Title": "How can we introduce Hyperledger fabric to this use case ?",
+        "Upvotes": 4,
+        "Comments": 1,
+        "Date": 1650809068.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/uavgtp/how_can_we_introduce_hyperledger_fabric_to_this/"
+    },
+    {
+        "ID": "1_56",
+        "Title": "Fabric Capabilities and FabToken Transactions Between Multiple Blockchains",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1650399319.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/u7edzg/fabric_capabilities_and_fabtoken_transactions/"
+    },
+    {
+        "ID": "1_57",
+        "Title": "Bridging Hyperledger to Polkadot Parachain, possible?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1649858755.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/u2r3st/bridging_hyperledger_to_polkadot_parachain/"
+    },
+    {
+        "ID": "1_58",
+        "Title": "Hyperledger Fabric on M1 MacBook?",
+        "Upvotes": 1,
+        "Comments": 9,
+        "Date": 1649483836.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/tzmtk1/hyperledger_fabric_on_m1_macbook/"
+    },
+    {
+        "ID": "1_59",
+        "Title": "Fabric Endorsement and Transaction Process Flow",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1649359873.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/tyks3a/fabric_endorsement_and_transaction_process_flow/"
+    },
+    {
+        "ID": "1_60",
+        "Title": "Looking for Linux Foundation CHFA additional learning materials",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1647245461.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/tdseog/looking_for_linux_foundation_chfa_additional/"
+    },
+    {
+        "ID": "1_61",
+        "Title": "Is There A License/Transaction Cost Involved With Fabric?",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1646944321.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/tb82fo/is_there_a_licensetransaction_cost_involved_with/"
+    },
+    {
+        "ID": "1_62",
+        "Title": "Instantiating chaincode",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1644895946.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/sst9zb/instantiating_chaincode/"
+    },
+    {
+        "ID": "1_63",
+        "Title": "Help for a blockchain newbie",
+        "Upvotes": 3,
+        "Comments": 3,
+        "Date": 1644688310.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/sqx1yo/help_for_a_blockchain_newbie/"
+    },
+    {
+        "ID": "1_64",
+        "Title": "A practical guide to Hyperledger Fabric security - Espeo Blockchain",
+        "Upvotes": 5,
+        "Comments": 1,
+        "Date": 1643436075.0,
+        "URL": "https://espeoblockchain.com/blog/a-practical-guide-to-hyperledger-fabric-security"
+    },
+    {
+        "ID": "1_65",
+        "Title": "Creating a simple-to-network with fabric",
+        "Upvotes": 2,
+        "Comments": 5,
+        "Date": 1643277133.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/sduu7o/creating_a_simpletonetwork_with_fabric/"
+    },
+    {
+        "ID": "1_66",
+        "Title": "Would Fabric be a good platform to simulate a small Vehicular Edge Computing network?",
+        "Upvotes": 2,
+        "Comments": 7,
+        "Date": 1642449687.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/s6daro/would_fabric_be_a_good_platform_to_simulate_a/"
+    },
+    {
+        "ID": "1_67",
+        "Title": "Fabric: Help with Format for Fabric-SDK-Java \"UpdateChannelConfiguration.setUpdateChanneConfiguration\" Configuration Update File parameter",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1641678846.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/rzb3d9/fabric_help_with_format_for_fabricsdkjava/"
+    },
+    {
+        "ID": "1_68",
+        "Title": "Stable version of fabric with documentation",
+        "Upvotes": 2,
+        "Comments": 5,
+        "Date": 1640183344.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/rm6c79/stable_version_of_fabric_with_documentation/"
+    },
+    {
+        "ID": "1_69",
+        "Title": "Hyperledger Fabric with Raft on k8s",
+        "Upvotes": 1,
+        "Comments": 5,
+        "Date": 1638520604.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/r7ujv0/hyperledger_fabric_with_raft_on_k8s/"
+    },
+    {
+        "ID": "1_70",
+        "Title": "What is the use case for Fabric over a standard database in a private environment?",
+        "Upvotes": 7,
+        "Comments": 9,
+        "Date": 1638249638.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/r5foev/what_is_the_use_case_for_fabric_over_a_standard/"
+    },
+    {
+        "ID": "1_71",
+        "Title": "Please take a look at this Hyperledger-Fabric error.",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1637432413.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/qybesp/please_take_a_look_at_this_hyperledgerfabric_error/"
+    },
+    {
+        "ID": "1_72",
+        "Title": "Anyone who has deployed IBM Customer Loyalty Program in hyperledger fabric",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1637341535.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/qxklla/anyone_who_has_deployed_ibm_customer_loyalty/"
+    },
+    {
+        "ID": "1_73",
+        "Title": "Fabric - is there any Python library to call a Fabric Javascript contract directly, instead of using Fabric's CLI?",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1637224987.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/qwlhri/fabric_is_there_any_python_library_to_call_a/"
+    },
+    {
+        "ID": "1_74",
+        "Title": "Fabric - External Client\u2019s Interaction with Endorsement Policy?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1637185103.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/qw9n6v/fabric_external_clients_interaction_with/"
+    },
+    {
+        "ID": "1_75",
+        "Title": "Hyperledger Fabric Question",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1636751135.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/qskupc/hyperledger_fabric_question/"
+    },
+    {
+        "ID": "1_76",
+        "Title": "Anyone with CHFA here?",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1636526337.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/qqo5y2/anyone_with_chfa_here/"
+    },
+    {
+        "ID": "1_77",
+        "Title": "How to set up a Fabric node?",
+        "Upvotes": 3,
+        "Comments": 3,
+        "Date": 1636138803.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/qni2k8/how_to_set_up_a_fabric_node/"
+    },
+    {
+        "ID": "1_78",
+        "Title": "Sample Golang Smart Contract",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1635753300.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/qk94v4/sample_golang_smart_contract/"
+    },
+    {
+        "ID": "1_79",
+        "Title": "What are the differences between PDO and PDC in Hyperledger?",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1634150012.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/q7hil9/what_are_the_differences_between_pdo_and_pdc_in/"
+    },
+    {
+        "ID": "1_80",
+        "Title": "Is it worth learning Hyperledger Fabric?",
+        "Upvotes": 6,
+        "Comments": 4,
+        "Date": 1634058916.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/q6qzkw/is_it_worth_learning_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_81",
+        "Title": "I installed HyperLedger Fabric for a Uni project but I can't find the First-network folder anywhere",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1634006233.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/q6c4y5/i_installed_hyperledger_fabric_for_a_uni_project/"
+    },
+    {
+        "ID": "1_82",
+        "Title": "Using Private Data Objects (PDO) With Fabric [Hyperledger Labs] - Virtual Meetup - Oct 13 @ 12PM CST",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1633712768.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/q42176/using_private_data_objects_pdo_with_fabric/"
+    },
+    {
+        "ID": "1_83",
+        "Title": "Hyperledger Project Ideas",
+        "Upvotes": 4,
+        "Comments": 1,
+        "Date": 1633090514.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/pz6qkm/hyperledger_project_ideas/"
+    },
+    {
+        "ID": "1_84",
+        "Title": "Where can I find a couple of sample chaincode to deploy and understand how it works?",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1631686921.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/pokk0v/where_can_i_find_a_couple_of_sample_chaincode_to/"
+    },
+    {
+        "ID": "1_85",
+        "Title": "Enterprise blockchain in 2021",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1631608101.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/pnyr37/enterprise_blockchain_in_2021/"
+    },
+    {
+        "ID": "1_86",
+        "Title": "Hyperledger v2.2 - Organization Without a Peer",
+        "Upvotes": 1,
+        "Comments": 5,
+        "Date": 1631590803.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/pnv33h/hyperledger_v22_organization_without_a_peer/"
+    },
+    {
+        "ID": "1_87",
+        "Title": "Hyperledger Sawtooth, Ideas around Implementation",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1630689785.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ph9oy1/hyperledger_sawtooth_ideas_around_implementation/"
+    },
+    {
+        "ID": "1_88",
+        "Title": "Some questions about Smart Contract Languages for Masters Thesis",
+        "Upvotes": 6,
+        "Comments": 4,
+        "Date": 1630504019.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/pfu8kp/some_questions_about_smart_contract_languages_for/"
+    },
+    {
+        "ID": "1_89",
+        "Title": "Who are member (Nodes) in IBM Food Trust network ?",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1629713566.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/p9wt3x/who_are_member_nodes_in_ibm_food_trust_network/"
+    },
+    {
+        "ID": "1_90",
+        "Title": "Can someone tell me how I can uninstall hyperledger fabric?",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1628956352.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/p4ai8e/can_someone_tell_me_how_i_can_uninstall/"
+    },
+    {
+        "ID": "1_91",
+        "Title": "Business Network Technical Options",
+        "Upvotes": 1,
+        "Comments": 5,
+        "Date": 1628518727.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/p12d95/business_network_technical_options/"
+    },
+    {
+        "ID": "1_92",
+        "Title": "Hyperledger Fabric Help? ERRO 001 Cannot run peer because error when setting up MSP",
+        "Upvotes": 3,
+        "Comments": 4,
+        "Date": 1628288004.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ozgtud/hyperledger_fabric_help_erro_001_cannot_run_peer/"
+    },
+    {
+        "ID": "1_93",
+        "Title": "Tutorial for hyperledger fabric",
+        "Upvotes": 14,
+        "Comments": 1,
+        "Date": 1625460587.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/oe00u3/tutorial_for_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_94",
+        "Title": "Need help in building app",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1625115261.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/obek9p/need_help_in_building_app/"
+    },
+    {
+        "ID": "1_95",
+        "Title": "Dissertation topic on Hyperledger Fabric",
+        "Upvotes": 5,
+        "Comments": 4,
+        "Date": 1624922701.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/o9w0w3/dissertation_topic_on_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_96",
+        "Title": "Quick poll: Where do you waste time learning/implementing Hyperledger Fabric?",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1624808414.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/o8zh35/quick_poll_where_do_you_waste_time/"
+    },
+    {
+        "ID": "1_97",
+        "Title": "HLF Operator 1.2.1",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1623707566.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/nzy287/hlf_operator_121/"
+    },
+    {
+        "ID": "1_98",
+        "Title": "Peer Command Not Found",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1623661925.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/nzinpo/peer_command_not_found/"
+    },
+    {
+        "ID": "1_99",
+        "Title": "Deploying Orgs on different hosts. Hyperledger Fabric",
+        "Upvotes": 3,
+        "Comments": 2,
+        "Date": 1623228564.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/nvr1yr/deploying_orgs_on_different_hosts_hyperledger/"
+    },
+    {
+        "ID": "1_100",
+        "Title": "Need help deploying HLF on GCP",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1622913869.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/nt0ps3/need_help_deploying_hlf_on_gcp/"
+    },
+    {
+        "ID": "1_101",
+        "Title": "Need help in understanding the Fabric CA",
+        "Upvotes": 6,
+        "Comments": 3,
+        "Date": 1622437453.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/nounkz/need_help_in_understanding_the_fabric_ca/"
+    },
+    {
+        "ID": "1_102",
+        "Title": "Hyperledger Fabric NFT",
+        "Upvotes": 7,
+        "Comments": 6,
+        "Date": 1621538258.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/nh8x41/hyperledger_fabric_nft/"
+    },
+    {
+        "ID": "1_103",
+        "Title": "Deploying HyperLedger using Amazon Lightsail",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1621177284.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ndq695/deploying_hyperledger_using_amazon_lightsail/"
+    },
+    {
+        "ID": "1_104",
+        "Title": "Kubernetes Operator for Hyperledger Fabric",
+        "Upvotes": 10,
+        "Comments": 0,
+        "Date": 1620640158.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/n90nb6/kubernetes_operator_for_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_105",
+        "Title": "Linux foundation CHFD Certifcation Tips and Clarifications",
+        "Upvotes": 8,
+        "Comments": 5,
+        "Date": 1619469939.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/mz7jqq/linux_foundation_chfd_certifcation_tips_and/"
+    },
+    {
+        "ID": "1_106",
+        "Title": "Seperate functions for each endorser in Hyperledger Fabric",
+        "Upvotes": 3,
+        "Comments": 8,
+        "Date": 1618985134.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/mv9hlm/seperate_functions_for_each_endorser_in/"
+    },
+    {
+        "ID": "1_107",
+        "Title": "How active is the hyperledger community?",
+        "Upvotes": 6,
+        "Comments": 7,
+        "Date": 1617158679.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/mgwe6q/how_active_is_the_hyperledger_community/"
+    },
+    {
+        "ID": "1_108",
+        "Title": "Questions on creating a Hyperledger Fabric Voting Blockchain",
+        "Upvotes": 8,
+        "Comments": 1,
+        "Date": 1613552614.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/llq8m1/questions_on_creating_a_hyperledger_fabric_voting/"
+    },
+    {
+        "ID": "1_109",
+        "Title": "Hyperledger Fabric v2 on Kubernetes with Explorer and Swagger REST API i...",
+        "Upvotes": 7,
+        "Comments": 2,
+        "Date": 1612683295.0,
+        "URL": "https://youtube.com/watch?v=Zz64t4_2rsA&feature=share"
+    },
+    {
+        "ID": "1_110",
+        "Title": "How To Take a Backup For Your Hyperledger Fabric Network",
+        "Upvotes": 6,
+        "Comments": 0,
+        "Date": 1610817568.0,
+        "URL": "https://allyourfeeds.com/blockchain/news/how-to-take-a-backup-for-your-hyperledger-fabric-network?order=recent"
+    },
+    {
+        "ID": "1_111",
+        "Title": "Hyperledger Fabric",
+        "Upvotes": 4,
+        "Comments": 3,
+        "Date": 1610360855.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/kv040b/hyperledger_fabric/"
+    },
+    {
+        "ID": "1_112",
+        "Title": "What is hyperledger fabric blockchain?",
+        "Upvotes": 6,
+        "Comments": 4,
+        "Date": 1609596243.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/koxylg/what_is_hyperledger_fabric_blockchain/"
+    },
+    {
+        "ID": "1_113",
+        "Title": "Should I use Indy or fabric?",
+        "Upvotes": 2,
+        "Comments": 4,
+        "Date": 1608718195.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/kiqii4/should_i_use_indy_or_fabric/"
+    },
+    {
+        "ID": "1_114",
+        "Title": "Hyperledger fabric base level question",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1607622493.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/kak24d/hyperledger_fabric_base_level_question/"
+    },
+    {
+        "ID": "1_115",
+        "Title": "Hyperledger Fabric Operator on Kubernetes",
+        "Upvotes": 5,
+        "Comments": 0,
+        "Date": 1606723919.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/k3rr38/hyperledger_fabric_operator_on_kubernetes/"
+    },
+    {
+        "ID": "1_116",
+        "Title": "Need help in creating a smart contract in Hyperledger Fabric",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1604767168.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/jptyau/need_help_in_creating_a_smart_contract_in/"
+    },
+    {
+        "ID": "1_117",
+        "Title": "Strong data consistency and finality in Hyperledger Fabric blockchain",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1603890253.0,
+        "URL": "https://softwaremill.com/hyperledger-fabric-blockchain-data-consistency/"
+    },
+    {
+        "ID": "1_118",
+        "Title": "Beginner Hyperledger Fabric",
+        "Upvotes": 3,
+        "Comments": 10,
+        "Date": 1603615901.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/jhqaci/beginner_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_119",
+        "Title": "MiniFab has become a Hyperledger Lab - help us make Fabric deployment easier!",
+        "Upvotes": 9,
+        "Comments": 2,
+        "Date": 1602185671.0,
+        "URL": "https://github.com/hyperledger-labs/minifabric"
+    },
+    {
+        "ID": "1_120",
+        "Title": "If I learn Hyperledger can I not create my own DAPPS?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1601763728.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/j4nzpk/if_i_learn_hyperledger_can_i_not_create_my_own/"
+    },
+    {
+        "ID": "1_121",
+        "Title": "Questions about challenges of Decentralized Ledger/Blockchain in production",
+        "Upvotes": 8,
+        "Comments": 2,
+        "Date": 1600698511.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ix1gzm/questions_about_challenges_of_decentralized/"
+    },
+    {
+        "ID": "1_122",
+        "Title": "Fabric-Mini",
+        "Upvotes": 7,
+        "Comments": 0,
+        "Date": 1600606379.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/iwdb87/fabricmini/"
+    },
+    {
+        "ID": "1_123",
+        "Title": "Hyperledger Fabric Orchestration tool",
+        "Upvotes": 9,
+        "Comments": 2,
+        "Date": 1598560937.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/iht4zc/hyperledger_fabric_orchestration_tool/"
+    },
+    {
+        "ID": "1_124",
+        "Title": "Linux Foundation Training: Hyperledger Fabric Administration (LFS272)",
+        "Upvotes": 7,
+        "Comments": 12,
+        "Date": 1597398276.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/i9j1j5/linux_foundation_training_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_125",
+        "Title": "Learning Hyperledger Fabric 2.x",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1596472001.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/i304cc/learning_hyperledger_fabric_2x/"
+    },
+    {
+        "ID": "1_126",
+        "Title": "Are there any real world examples of Hyperledger Fabric in production?",
+        "Upvotes": 13,
+        "Comments": 10,
+        "Date": 1596303925.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/i1w9pc/are_there_any_real_world_examples_of_hyperledger/"
+    },
+    {
+        "ID": "1_127",
+        "Title": "If I want to run a Hyperledger Fabric network using Kubernetes w a few nodes and concentrate on chaincode - what's the best managed solution?",
+        "Upvotes": 2,
+        "Comments": 5,
+        "Date": 1595905418.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/hz6trp/if_i_want_to_run_a_hyperledger_fabric_network/"
+    },
+    {
+        "ID": "1_128",
+        "Title": "DApps running on non-Fabric HL Frameworks?",
+        "Upvotes": 2,
+        "Comments": 6,
+        "Date": 1595886481.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/hz1nyr/dapps_running_on_nonfabric_hl_frameworks/"
+    },
+    {
+        "ID": "1_129",
+        "Title": "docker exec cli peer channel create | failed to create new connection: context deadline exceeded | amazon managed blockchain",
+        "Upvotes": 3,
+        "Comments": 3,
+        "Date": 1595487423.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/hwb2r1/docker_exec_cli_peer_channel_create_failed_to/"
+    },
+    {
+        "ID": "1_130",
+        "Title": "Introduction to RAFT in Fabric network",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1595016566.0,
+        "URL": "https://youtu.be/HFbjdfu2R1Q"
+    },
+    {
+        "ID": "1_131",
+        "Title": "Hyperledger Fabric Alternatives?",
+        "Upvotes": 4,
+        "Comments": 4,
+        "Date": 1594659093.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/hqixfl/hyperledger_fabric_alternatives/"
+    },
+    {
+        "ID": "1_132",
+        "Title": "There is some good articles, posts or resources to build oracles in hyperledger fabric?",
+        "Upvotes": 6,
+        "Comments": 2,
+        "Date": 1593339609.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/hhc36r/there_is_some_good_articles_posts_or_resources_to/"
+    },
+    {
+        "ID": "1_133",
+        "Title": "Principals and best practices for state database design",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1592561006.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/hby0o6/principals_and_best_practices_for_state_database/"
+    },
+    {
+        "ID": "1_134",
+        "Title": "Should I use Hyperledger Iroha?",
+        "Upvotes": 4,
+        "Comments": 4,
+        "Date": 1591797114.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/h0beav/should_i_use_hyperledger_iroha/"
+    },
+    {
+        "ID": "1_135",
+        "Title": "Easy tutorial for hyperledger.",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1591060118.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/guxenj/easy_tutorial_for_hyperledger/"
+    },
+    {
+        "ID": "1_136",
+        "Title": "Fabric Management Tool (UI)?",
+        "Upvotes": 4,
+        "Comments": 7,
+        "Date": 1591010054.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/guir8j/fabric_management_tool_ui/"
+    },
+    {
+        "ID": "1_137",
+        "Title": "Book: Mastering Hyperledger Fabric, Master the art of Hyperledger Fabric on docker-compose, docker swarm and kubernetes",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1590355622.0,
+        "URL": "http://leanpub.com/masteringhyperledgerfabric"
+    },
+    {
+        "ID": "1_138",
+        "Title": "How to create a Java chaincode and deploy in a Hyperledger Fabric 2 network",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1589918418.0,
+        "URL": "https://medium.com/coinmonks/how-to-create-a-java-chaincode-and-deploy-in-a-hyperledger-fabric-2-network-65199e5f645d"
+    },
+    {
+        "ID": "1_139",
+        "Title": "Learning Hyperledger Fabric Development",
+        "Upvotes": 3,
+        "Comments": 2,
+        "Date": 1589140003.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/gh83ns/learning_hyperledger_fabric_development/"
+    },
+    {
+        "ID": "1_140",
+        "Title": "Just Open-Sourced a Fabric Blockchain Implementation for COVID-19 Tracking",
+        "Upvotes": 21,
+        "Comments": 3,
+        "Date": 1588359273.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/gbnzun/just_opensourced_a_fabric_blockchain/"
+    },
+    {
+        "ID": "1_141",
+        "Title": "Creating a Hyperledger Fabric 2 network template in four simples steps",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1588078648.0,
+        "URL": "https://medium.com/@ialberquilla/creating-a-hyperledger-fabric-2-network-template-in-four-simples-steps-cf804d5075e2"
+    },
+    {
+        "ID": "1_142",
+        "Title": "Deploy a Hyperledger Fabric v2 Web App Using the Node.js SDK",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1588078265.0,
+        "URL": "https://chainstack.com/deploy-a-hyperledger-fabric-v2-web-app-using-sdk-for-node-js/"
+    },
+    {
+        "ID": "1_143",
+        "Title": "What makes Indy special?",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1588024523.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/g9adeo/what_makes_indy_special/"
+    },
+    {
+        "ID": "1_144",
+        "Title": "Query about which hyperledger to use",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1587843933.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/g7zz0b/query_about_which_hyperledger_to_use/"
+    },
+    {
+        "ID": "1_145",
+        "Title": "How to Install and Setup Hyperledger Fabric",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1587626830.0,
+        "URL": "https://ddtg.io/HyperledgerSetup"
+    },
+    {
+        "ID": "1_146",
+        "Title": "Leveraging Hyperledger Fabric \u2014 Enterprise Blockchain Unleashes Viable Solutions",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1587450863.0,
+        "URL": "https://allyourfeeds.com/blockchain/news/leveraging-hyperledger-fabric-enterprise-blockchain-unleashes-viable-solutions?order=recent"
+    },
+    {
+        "ID": "1_147",
+        "Title": "How to use databases, jwt authentication for multiple users using Hyperledger fabric CA?",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1585022414.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/fnyhma/how_to_use_databases_jwt_authentication_for/"
+    },
+    {
+        "ID": "1_148",
+        "Title": "Hypeprledger Fabric 1.4 Tutorial - Smart Contract Access Control Demo",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1584632530.0,
+        "URL": "https://www.youtube.com/watch?v=EjJS_bRgoS8"
+    },
+    {
+        "ID": "1_149",
+        "Title": "Is IBM the only established resource for onboarding to the Food Trust (and other Fabric projects)?",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1584629157.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/flb6an/is_ibm_the_only_established_resource_for/"
+    },
+    {
+        "ID": "1_150",
+        "Title": "Store Hyperledger Fabric certificates and keys in CouchDB",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1584617778.0,
+        "URL": "https://www.hackdoor.io/articles/8MNPxDNV/store-hyperledger-fabric-certificates-and-keys-in-couchdb"
+    },
+    {
+        "ID": "1_151",
+        "Title": "Fabric Devkit: a project to help developers building solutions based on Hyperledger Fabric",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1583506606.0,
+        "URL": "https://fabric-devkit.github.io/"
+    },
+    {
+        "ID": "1_152",
+        "Title": "Minifabric: a fast way to get a fabric network running on your machine",
+        "Upvotes": 8,
+        "Comments": 0,
+        "Date": 1583433544.0,
+        "URL": "https://github.com/litong01/minifabric"
+    },
+    {
+        "ID": "1_153",
+        "Title": "You can now deploy Hyperledger Fabric 2.0 with Chainstack",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1583299454.0,
+        "URL": "https://chainstack.com/bringing-the-simplicity-of-chainstacks-automated-deployment-to-hyperledger-fabric-2-0/"
+    },
+    {
+        "ID": "1_154",
+        "Title": "Creating my own cryptocurrency",
+        "Upvotes": 3,
+        "Comments": 6,
+        "Date": 1582839870.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/fajjrk/creating_my_own_cryptocurrency/"
+    },
+    {
+        "ID": "1_155",
+        "Title": "Does anyone have an ETA on when Caliper will be updated to support Fabric 2.0?",
+        "Upvotes": 3,
+        "Comments": 3,
+        "Date": 1582572640.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/f8wmhd/does_anyone_have_an_eta_on_when_caliper_will_be/"
+    },
+    {
+        "ID": "1_156",
+        "Title": "How to create Hyperledger Fabric network from scratch - supply chain",
+        "Upvotes": 9,
+        "Comments": 0,
+        "Date": 1582556715.0,
+        "URL": "https://medium.com/coinmonks/creating-a-hyperledger-fabric-network-from-scratch-part-i-designing-the-network-23d803bbdb61?source=post_stats_page---------------------------"
+    },
+    {
+        "ID": "1_157",
+        "Title": "Hyperledger Fabric Installation Guide!",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1582183368.0,
+        "URL": "https://schadokar.dev/posts/hyperledger-fabric-installation-guide/"
+    },
+    {
+        "ID": "1_158",
+        "Title": "Store Hyperledger Fabric certificates and keys in CouchDB",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1582180128.0,
+        "URL": "https://schadokar.dev/posts/couchdb-keyvalue-store-hlf/"
+    },
+    {
+        "ID": "1_159",
+        "Title": "How to develop an application",
+        "Upvotes": 1,
+        "Comments": 4,
+        "Date": 1581820051.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/f4k1ww/how_to_develop_an_application/"
+    },
+    {
+        "ID": "1_160",
+        "Title": "How did you learn how to deploy and maintain an Hyperledger Fabric Network?",
+        "Upvotes": 6,
+        "Comments": 9,
+        "Date": 1581793242.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/f4dw4t/how_did_you_learn_how_to_deploy_and_maintain_an/"
+    },
+    {
+        "ID": "1_161",
+        "Title": "Fabric: FabToken framework status? Was supposed to be re-released 2.0? No update>?",
+        "Upvotes": 2,
+        "Comments": 3,
+        "Date": 1581374390.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/f1ydas/fabric_fabtoken_framework_status_was_supposed_to/"
+    },
+    {
+        "ID": "1_162",
+        "Title": "Does anyone know what software parameters on the chain level can be tuned in Hyperledger and how to do so?",
+        "Upvotes": 2,
+        "Comments": 4,
+        "Date": 1580865258.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ez0xgw/does_anyone_know_what_software_parameters_on_the/"
+    },
+    {
+        "ID": "1_163",
+        "Title": "Hyperledger FABRIC + IPFS",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1580229837.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ev7vyb/hyperledger_fabric_ipfs/"
+    },
+    {
+        "ID": "1_164",
+        "Title": "Learning Hyerledger Fabric in 2020 resources",
+        "Upvotes": 9,
+        "Comments": 5,
+        "Date": 1579852180.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/et7ah0/learning_hyerledger_fabric_in_2020_resources/"
+    },
+    {
+        "ID": "1_165",
+        "Title": "Error: Failed to connect to any peer event hubs",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1578927756.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/eo5857/error_failed_to_connect_to_any_peer_event_hubs/"
+    },
+    {
+        "ID": "1_166",
+        "Title": "Hyperledger Fabric v2 beta release - Removal of native token support (FabToken)",
+        "Upvotes": 9,
+        "Comments": 2,
+        "Date": 1578924111.0,
+        "URL": "https://github.com/hyperledger/fabric/releases/tag/v2.0.0-beta"
+    },
+    {
+        "ID": "1_167",
+        "Title": "Which is the tech stack of choice for building Social Media dApps?",
+        "Upvotes": 1,
+        "Comments": 5,
+        "Date": 1578890747.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/enzcbg/which_is_the_tech_stack_of_choice_for_building/"
+    },
+    {
+        "ID": "1_168",
+        "Title": "Cannot access the RESTful API",
+        "Upvotes": 1,
+        "Comments": 3,
+        "Date": 1578753402.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/en84av/cannot_access_the_restful_api/"
+    },
+    {
+        "ID": "1_169",
+        "Title": "Fabrics ledger got too large? TL;DR: its CouchDB often does not run compactions at all \u2013 check this out on your environments!",
+        "Upvotes": 6,
+        "Comments": 1,
+        "Date": 1578737539.0,
+        "URL": "https://blog.codecentric.de/en/2020/01/hyperledger-fabric-couchdb-is-killing-my-cloud-storage-bills/"
+    },
+    {
+        "ID": "1_170",
+        "Title": "Revive^CC: A static analysis tool for Hyperledger Fabric chaincode written in Go",
+        "Upvotes": 7,
+        "Comments": 3,
+        "Date": 1578614420.0,
+        "URL": "https://github.com/sivachokkapu/revive-cc"
+    },
+    {
+        "ID": "1_171",
+        "Title": "Hyperledger Fabric 1.4 Tutorial - Learn how to set up a Five-node Raft-based Ordering Service",
+        "Upvotes": 10,
+        "Comments": 0,
+        "Date": 1578414334.0,
+        "URL": "https://www.youtube.com/watch?v=Lo9UB_idBto"
+    },
+    {
+        "ID": "1_172",
+        "Title": "IDE Questions",
+        "Upvotes": 2,
+        "Comments": 3,
+        "Date": 1577126800.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/eeoo2t/ide_questions/"
+    },
+    {
+        "ID": "1_173",
+        "Title": "Concurrent smart contracts in Hyperledger Fabric blockchain",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1576576031.0,
+        "URL": "https://blog.softwaremill.com/concurrent-smart-contracts-in-hyperledger-fabric-blockchain-part-3-ee3b8351a107"
+    },
+    {
+        "ID": "1_174",
+        "Title": "Concurrent smart contracts in Hyperledger Fabric blockchain (part 2)",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1576139067.0,
+        "URL": "https://blog.softwaremill.com/concurrent-smart-contracts-in-hyperledger-fabric-blockchain-part-2-fc09af32e48d"
+    },
+    {
+        "ID": "1_175",
+        "Title": "Concurrent smart contracts in Hyperledger Fabric blockchain",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1575970995.0,
+        "URL": "https://blog.softwaremill.com/concurrent-smart-contracts-in-hyperledger-fabric-blockchain-part-1-bba32b2c0e08"
+    },
+    {
+        "ID": "1_176",
+        "Title": "Setup Hyperledger Fabric network on separate machines or VMs",
+        "Upvotes": 4,
+        "Comments": 6,
+        "Date": 1575690419.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/e79dxh/setup_hyperledger_fabric_network_on_separate/"
+    },
+    {
+        "ID": "1_177",
+        "Title": "Anyone here with an experience developing blockchain network with Hyperledger Fabric v1.4 (using VSCODE)?",
+        "Upvotes": 0,
+        "Comments": 4,
+        "Date": 1573279870.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/dts7kz/anyone_here_with_an_experience_developing/"
+    },
+    {
+        "ID": "1_178",
+        "Title": "Hyperledger Fabric + Composer Blockchain Development on Windows 10?",
+        "Upvotes": 2,
+        "Comments": 19,
+        "Date": 1571783770.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/dlpsgp/hyperledger_fabric_composer_blockchain/"
+    },
+    {
+        "ID": "1_179",
+        "Title": "Guide To Create Amazon Managed Blockchain Network On Hyperledger Fabric | Full Walkthrough",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1571737651.0,
+        "URL": "https://youtu.be/D9KazzELa_g"
+    },
+    {
+        "ID": "1_180",
+        "Title": "Major security hole in Hyperledger Fabric - Private Data is not private",
+        "Upvotes": 5,
+        "Comments": 10,
+        "Date": 1571659518.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/dkzjr2/major_security_hole_in_hyperledger_fabric_private/"
+    },
+    {
+        "ID": "1_181",
+        "Title": "Hyperledger Besu? Student asking for tips",
+        "Upvotes": 3,
+        "Comments": 6,
+        "Date": 1571081400.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/dhvnqu/hyperledger_besu_student_asking_for_tips/"
+    },
+    {
+        "ID": "1_182",
+        "Title": "Deploying Hyperledger Fabric on Kubernetes using Helm & Argo (with Fabric-CA instead of cryptogen)",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1569722289.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/dap4en/deploying_hyperledger_fabric_on_kubernetes_using/"
+    },
+    {
+        "ID": "1_183",
+        "Title": "Podcast on Hyperledger Fabric, smart contracts, decentralization, and deploying a network to production",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1569354399.0,
+        "URL": "https://developer.ibm.com/podcasts/ibm_developer_podcast/002_horea_porutiu_hyperledger_fabric_blockchain/"
+    },
+    {
+        "ID": "1_184",
+        "Title": "Introduction to HyperLedger Fabric",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1568607293.0,
+        "URL": "https://codecampanion.blogspot.com/2019/09/introduction-to-hyperledger-fabric.html"
+    },
+    {
+        "ID": "1_185",
+        "Title": "Are Smart Contract and Chaincode Same in Hyperledger Fabric?",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1568351760.0,
+        "URL": "https://levelup.gitconnected.com/do-smart-contract-and-chaincode-are-same-in-hyperledger-fabric-1b4c3034d593"
+    },
+    {
+        "ID": "1_186",
+        "Title": "Hyperledger Fabric Installation Guide!",
+        "Upvotes": 2,
+        "Comments": 3,
+        "Date": 1568305853.0,
+        "URL": "https://medium.com/hackernoon/hyperledger-fabric-installation-guide-74065855eca9"
+    },
+    {
+        "ID": "1_187",
+        "Title": "Advantages of Hyperledger Fabric for Blockchain Networks",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1568235369.0,
+        "URL": "https://i.redd.it/x8snz9bc21m31.jpg"
+    },
+    {
+        "ID": "1_188",
+        "Title": "Hyperledger Fabric: create a Blockchain Network in under 10 minutes [no scripts]",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1567282069.0,
+        "URL": "https://hackernoon.com/before-you-quit-hyperledger-fabric-start-your-network-without-scripts-under-10-minutes-3xfza30cd"
+    },
+    {
+        "ID": "1_189",
+        "Title": "OSCON 2019 talk: Deploy a blockchain web-app with Hyperledger Fabric 1.4",
+        "Upvotes": 9,
+        "Comments": 1,
+        "Date": 1566322294.0,
+        "URL": "https://www.youtube.com/watch?v=7pcTE5M0fAs"
+    },
+    {
+        "ID": "1_190",
+        "Title": "How to create oracles for Hyperledger Fabric: external data in the blockchain",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1566196151.0,
+        "URL": "https://hackernoon.com/oracles-for-hyperledger-fabric-with-convector-suite-ay2u130w9"
+    },
+    {
+        "ID": "1_191",
+        "Title": "Deploying to your second network/state of composer",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1566170753.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/cs8tcb/deploying_to_your_second_networkstate_of_composer/"
+    },
+    {
+        "ID": "1_192",
+        "Title": "Question about consistency under byzantine peers of Fabric",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1566121764.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/crzbaf/question_about_consistency_under_byzantine_peers/"
+    },
+    {
+        "ID": "1_193",
+        "Title": "Question about consensus",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1565412658.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/codpbn/question_about_consensus/"
+    },
+    {
+        "ID": "1_194",
+        "Title": "ICYMI: Convector is the OSS framework to build robust and predictable Hyperledger Fabric smart contracts",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1565401073.0,
+        "URL": "https://worldsibu.tech/convector/convector-smart-contracts/"
+    },
+    {
+        "ID": "1_195",
+        "Title": "Debugging a Hyperledger Fabric chaincode with Convector",
+        "Upvotes": 5,
+        "Comments": 0,
+        "Date": 1565397649.0,
+        "URL": "https://www.youtube.com/watch?v=eKcdzW1Kpas"
+    },
+    {
+        "ID": "1_196",
+        "Title": "Question about centralized Private blockchain",
+        "Upvotes": 2,
+        "Comments": 5,
+        "Date": 1565280728.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/cnnvxa/question_about_centralized_private_blockchain/"
+    },
+    {
+        "ID": "1_197",
+        "Title": "Announcing the production release of Forma: multi-cloud Fabric automation",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1564512909.0,
+        "URL": "https://medium.com/worldsibu/announcing-the-production-release-of-forma-%EF%B8%8F-828c4e5dba36"
+    },
+    {
+        "ID": "1_198",
+        "Title": "[Video] Setup Hyperledger Fabric on Kubernetes",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1564404699.0,
+        "URL": "https://youtu.be/q8DbgjMB4lA"
+    },
+    {
+        "ID": "1_199",
+        "Title": "Hyperledger Fabric With kafka ordering service",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1564034273.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/chjqzn/hyperledger_fabric_with_kafka_ordering_service/"
+    },
+    {
+        "ID": "1_200",
+        "Title": "Questions about Hyperledger Fabric fundamentals",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1563979565.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ch93l2/questions_about_hyperledger_fabric_fundamentals/"
+    },
+    {
+        "ID": "1_201",
+        "Title": "Service-oriented Hyperledger Fabric application development",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1563955261.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ch59ie/serviceoriented_hyperledger_fabric_application/"
+    },
+    {
+        "ID": "1_202",
+        "Title": "does Hyperledger Fabric fit the Federated blockchain model?",
+        "Upvotes": 3,
+        "Comments": 8,
+        "Date": 1563220882.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/cdmmh9/does_hyperledger_fabric_fit_the_federated/"
+    },
+    {
+        "ID": "1_203",
+        "Title": "Fabric warning: This orderer is running in compatibility mode. Can anyone help?",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1562648996.0,
+        "URL": "https://stackoverflow.com/questions/56945579/hyperledger-fabric-warning-this-orderer-is-running-in-compatibility-mode"
+    },
+    {
+        "ID": "1_204",
+        "Title": "Hyperledger Fabric Tutorial / Project Tutorial using Javascript, Java or Go or Any",
+        "Upvotes": 4,
+        "Comments": 5,
+        "Date": 1562498934.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ca5uuh/hyperledger_fabric_tutorial_project_tutorial/"
+    },
+    {
+        "ID": "1_205",
+        "Title": "Create multiple users on the same node",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1561991754.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/c7tbm6/create_multiple_users_on_the_same_node/"
+    },
+    {
+        "ID": "1_206",
+        "Title": "Newbie question on securing transactions",
+        "Upvotes": 7,
+        "Comments": 7,
+        "Date": 1561457182.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/c566lm/newbie_question_on_securing_transactions/"
+    },
+    {
+        "ID": "1_207",
+        "Title": "Official Fabric Java SDK Example Being Sunsetted?",
+        "Upvotes": 1,
+        "Comments": 4,
+        "Date": 1560210195.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bz54hk/official_fabric_java_sdk_example_being_sunsetted/"
+    },
+    {
+        "ID": "1_208",
+        "Title": "Developing GO Chiancode with the Fabric VSCode extension",
+        "Upvotes": 3,
+        "Comments": 2,
+        "Date": 1559775589.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bx97ko/developing_go_chiancode_with_the_fabric_vscode/"
+    },
+    {
+        "ID": "1_209",
+        "Title": "Block time in private/permissioned blockchains?",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1559772023.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bx8jmy/block_time_in_privatepermissioned_blockchains/"
+    },
+    {
+        "ID": "1_210",
+        "Title": "Not @heavybit this evening to celebrate the launch of @_blockdaemon 's Hyperledger Fabric Service? No worries, You can Watch Live!",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1559705821.0,
+        "URL": "https://coinwhalenews.com/news/n/not-heavybit-this-evening-to-celebrate-the-launch-of-_blockdaemon"
+    },
+    {
+        "ID": "1_211",
+        "Title": "What are recommended repo for Hyperledger Fabric real world project?",
+        "Upvotes": 6,
+        "Comments": 7,
+        "Date": 1559490050.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bvyn2y/what_are_recommended_repo_for_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_212",
+        "Title": "Looking for a tutorial for building a hyperledger fabric network from scratch",
+        "Upvotes": 1,
+        "Comments": 7,
+        "Date": 1559488333.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bvyc7y/looking_for_a_tutorial_for_building_a_hyperledger/"
+    },
+    {
+        "ID": "1_213",
+        "Title": "Fabric SDK Webservice Integration",
+        "Upvotes": 3,
+        "Comments": 6,
+        "Date": 1559155521.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/buihzl/fabric_sdk_webservice_integration/"
+    },
+    {
+        "ID": "1_214",
+        "Title": "Fabtoken -- the new gem under Fabric 2.0 alpha",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1557450784.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bms0sk/fabtoken_the_new_gem_under_fabric_20_alpha/"
+    },
+    {
+        "ID": "1_215",
+        "Title": "Looking for a Hyperledger Fabric Developer",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1557326465.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bm62r9/looking_for_a_hyperledger_fabric_developer/"
+    },
+    {
+        "ID": "1_216",
+        "Title": "Hyperledger Fabric - Make endorser sign a variable or certificate in chaincode",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1556881427.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bk75c6/hyperledger_fabric_make_endorser_sign_a_variable/"
+    },
+    {
+        "ID": "1_217",
+        "Title": "Blog: How does Fabric Peer use CouchDB instance?",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1556286746.0,
+        "URL": "http://www.bcmentors.com/fabric-couchdb-data/"
+    },
+    {
+        "ID": "1_218",
+        "Title": "Bellucci Premium has introduced a blockchain-based system, created by @Oracle using Hyperledger Fabric in an effort to guarantee the provenance of their food themselves.",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1556000118.0,
+        "URL": "https://coinwhalenews.com/news/n/belluccipremium-has-introduced-a-blockchain-based-system-created"
+    },
+    {
+        "ID": "1_219",
+        "Title": "Fabric : help with yaml's",
+        "Upvotes": 1,
+        "Comments": 5,
+        "Date": 1555782510.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bfeybn/fabric_help_with_yamls/"
+    },
+    {
+        "ID": "1_220",
+        "Title": "Ethereum or Hyperledger Fabric?",
+        "Upvotes": 4,
+        "Comments": 3,
+        "Date": 1555679061.0,
+        "URL": "https://blog.quillhash.com/ethereum-or-hyperledger-fabric/"
+    },
+    {
+        "ID": "1_221",
+        "Title": "Prototype - Low code blockchain platform",
+        "Upvotes": 10,
+        "Comments": 0,
+        "Date": 1555601155.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bemuy4/prototype_low_code_blockchain_platform/"
+    },
+    {
+        "ID": "1_222",
+        "Title": "Hyperledger Fabric - The \u201cTaste\u201d of Raft",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1555575131.0,
+        "URL": "https://medium.com/coinmonks/hyperledger-fabric-the-taste-of-raft-4f9f0df20b5e"
+    },
+    {
+        "ID": "1_223",
+        "Title": "Hyperledger Fabric Java Chaincode with CouchDB Example",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1555574326.0,
+        "URL": "https://medium.com/coinmonks/couchdb-hyperledger-fabric-account-based-wallet-java-chaincode-82166c165266"
+    },
+    {
+        "ID": "1_224",
+        "Title": "Fully working prototype HL7 FHIR healthcare payments in Hyperledger Fabric with Convector",
+        "Upvotes": 7,
+        "Comments": 0,
+        "Date": 1554936185.0,
+        "URL": "https://github.com/instamed/healthcare-payments-blockchain"
+    },
+    {
+        "ID": "1_225",
+        "Title": "Communication between 2 channels",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1554804383.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/bb64ah/communication_between_2_channels/"
+    },
+    {
+        "ID": "1_226",
+        "Title": "Demo of a Real World Deployed Hyperledger Fabric/Composer",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1554717125.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/baruvx/demo_of_a_real_world_deployed_hyperledger/"
+    },
+    {
+        "ID": "1_227",
+        "Title": "Help Regarding the access level form the application using fabric",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1554556766.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ba47xf/help_regarding_the_access_level_form_the/"
+    },
+    {
+        "ID": "1_228",
+        "Title": "Full tutorial on how to build a smart contract system for Hyperledger Fabric with Convector",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1554436971.0,
+        "URL": "https://docs.worldsibu.com/article/89-tutorial"
+    },
+    {
+        "ID": "1_229",
+        "Title": "Some Questions for the Hyperledger Community",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1554119100.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/b817ps/some_questions_for_the_hyperledger_community/"
+    },
+    {
+        "ID": "1_230",
+        "Title": "Start with Hyperledger Fabric",
+        "Upvotes": 9,
+        "Comments": 8,
+        "Date": 1553840323.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/b6ts4k/start_with_hyperledger_fabric/"
+    },
+    {
+        "ID": "1_231",
+        "Title": "\u201cTesting and debugging a Convector Smart Contract\u201d by WorldSibu https://link.medium.com/ewwNIKkugV",
+        "Upvotes": 6,
+        "Comments": 2,
+        "Date": 1553260049.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/b44v57/testing_and_debugging_a_convector_smart_contract/"
+    },
+    {
+        "ID": "1_232",
+        "Title": "(Quiz) Fabric Chaincode Knowledge Check",
+        "Upvotes": 6,
+        "Comments": 0,
+        "Date": 1552520052.0,
+        "URL": "http://www.bcmentors.com/fabric-chaincode-knowledge-check/"
+    },
+    {
+        "ID": "1_233",
+        "Title": "Getting started using the Enterprise File Fabric with BlockChain for Secure Governance and Compliance of Company Files",
+        "Upvotes": 1,
+        "Comments": 3,
+        "Date": 1552315418.0,
+        "URL": "https://blog.storagemadeeasy.com/using-the-enterprise-file-fabric-with-blockchain-for-secure-governance-and-compliance-of-company-files/#more-6694"
+    },
+    {
+        "ID": "1_234",
+        "Title": "I'm attending SoCal Linux Expo, learning about Hyperledger Fabric. (I love The Office analogies)",
+        "Upvotes": 12,
+        "Comments": 3,
+        "Date": 1552069498.0,
+        "URL": "https://i.redd.it/n8eoc1vltxk21.jpg"
+    },
+    {
+        "ID": "1_235",
+        "Title": "Where does someone start if they want to include Hyperledger in an enterprise solution?",
+        "Upvotes": 2,
+        "Comments": 5,
+        "Date": 1552057108.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ayr6ee/where_does_someone_start_if_they_want_to_include/"
+    },
+    {
+        "ID": "1_236",
+        "Title": "Validation for a new dev tool",
+        "Upvotes": 3,
+        "Comments": 15,
+        "Date": 1551960762.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/aybyy9/validation_for_a_new_dev_tool/"
+    },
+    {
+        "ID": "1_237",
+        "Title": "Discussion regarding security tokens on hyperledger for a non-techie.",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1551894121.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/ay1jxk/discussion_regarding_security_tokens_on/"
+    },
+    {
+        "ID": "1_238",
+        "Title": "Hyper Ledger Fabric Demo Application For Production.",
+        "Upvotes": 7,
+        "Comments": 3,
+        "Date": 1551596730.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/awrnj0/hyper_ledger_fabric_demo_application_for/"
+    },
+    {
+        "ID": "1_239",
+        "Title": "How Hyperledger Fabric is decentralized?",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1551566516.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/awncum/how_hyperledger_fabric_is_decentralized/"
+    },
+    {
+        "ID": "1_240",
+        "Title": "What jobs are available",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1551320311.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/avlnr2/what_jobs_are_available/"
+    },
+    {
+        "ID": "1_241",
+        "Title": "Looking to get started with Hyperledger Fabric development? Here's a tutorial for running the Commercial Paper application from the Hyperledger Fabric docs",
+        "Upvotes": 10,
+        "Comments": 0,
+        "Date": 1551304688.0,
+        "URL": "https://www.youtube.com/watch?v=1Evy4Zuppm0"
+    },
+    {
+        "ID": "1_242",
+        "Title": "What would you want to know from an experienced Fabric developer?",
+        "Upvotes": 3,
+        "Comments": 4,
+        "Date": 1551176253.0,
+        "URL": "https://www.reddit.com/r/hyperledger/comments/auxw07/what_would_you_want_to_know_from_an_experienced/"
+    },
+    {
+        "ID": "2_1",
+        "Title": "Central Bank of the Philippines selects Hyperledger Fabric as Blockchain for Pilot CBDC Project",
+        "Upvotes": 6,
+        "Comments": 29,
+        "Date": 1694069526.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/16c8t4z/central_bank_of_the_philippines_selects/"
+    },
+    {
+        "ID": "2_2",
+        "Title": "Why VeChain (VET) and Logistic Cryptos Likely Won't Succeed",
+        "Upvotes": 13,
+        "Comments": 41,
+        "Date": 1689617947.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/1529lfz/why_vechain_vet_and_logistic_cryptos_likely_wont/"
+    },
+    {
+        "ID": "2_3",
+        "Title": "The pilot project of Brazil's CBDC 'Real Digital' allows the freezing of user wallets and reducing balances | Central Bank confirms discoveries made by a developer in the source code, but does not say whether functions will be maintained in the final version",
+        "Upvotes": 53,
+        "Comments": 49,
+        "Date": 1689022486.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/14w619j/the_pilot_project_of_brazils_cbdc_real_digital/"
+    },
+    {
+        "ID": "2_4",
+        "Title": "If YOU can't run a consensus node... why are you promoting it? Seriously...",
+        "Upvotes": 66,
+        "Comments": 122,
+        "Date": 1686804766.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/149t3sc/if_you_cant_run_a_consensus_node_why_are_you/"
+    },
+    {
+        "ID": "2_5",
+        "Title": "The Paris Court of Appeal adopts NFTs for document authentication",
+        "Upvotes": 82,
+        "Comments": 34,
+        "Date": 1686400586.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/145z777/the_paris_court_of_appeal_adopts_nfts_for/"
+    },
+    {
+        "ID": "2_6",
+        "Title": "Modular blockchains: the \"Y\"",
+        "Upvotes": 4,
+        "Comments": 21,
+        "Date": 1677854029.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/11h298e/modular_blockchains_the_y/"
+    },
+    {
+        "ID": "2_7",
+        "Title": "The Current List of CBDCs In Development Around the World",
+        "Upvotes": 22,
+        "Comments": 69,
+        "Date": 1675864133.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/10wx51p/the_current_list_of_cbdcs_in_development_around/"
+    },
+    {
+        "ID": "2_8",
+        "Title": "Cosmos IBC(Inter-blockchain communication) how close is to reaching interpretability with other chains",
+        "Upvotes": 30,
+        "Comments": 29,
+        "Date": 1673374863.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/108gtgo/cosmos_ibcinterblockchain_communication_how_close/"
+    },
+    {
+        "ID": "2_9",
+        "Title": "There needs to be an industry standard to legitimize blockchain knowledge.",
+        "Upvotes": 5,
+        "Comments": 23,
+        "Date": 1667151005.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/yhkciz/there_needs_to_be_an_industry_standard_to/"
+    },
+    {
+        "ID": "2_10",
+        "Title": "What are the benefits of a blockchain based ticketing system ?",
+        "Upvotes": 9,
+        "Comments": 29,
+        "Date": 1665816087.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/y4gqrx/what_are_the_benefits_of_a_blockchain_based/"
+    },
+    {
+        "ID": "2_11",
+        "Title": "Refuting the latest anti-Bitcoin list of points from r/buttcoin (the anti-Bitcoin sub).",
+        "Upvotes": 726,
+        "Comments": 596,
+        "Date": 1653410436.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/uwv2yv/refuting_the_latest_antibitcoin_list_of_points/"
+    },
+    {
+        "ID": "2_12",
+        "Title": "Take this downtime to learn a blockchain programming language.",
+        "Upvotes": 316,
+        "Comments": 176,
+        "Date": 1651925345.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/ukby1i/take_this_downtime_to_learn_a_blockchain/"
+    },
+    {
+        "ID": "2_13",
+        "Title": "Question regarding permissioned blockchains",
+        "Upvotes": 0,
+        "Comments": 5,
+        "Date": 1649004873.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/tvdtf2/question_regarding_permissioned_blockchains/"
+    },
+    {
+        "ID": "2_14",
+        "Title": "Aleph Zero | New Layer 1 game changer? | Breakdown analysis | Long DD",
+        "Upvotes": 12,
+        "Comments": 9,
+        "Date": 1647090274.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/tcfzt8/aleph_zero_new_layer_1_game_changer_breakdown/"
+    },
+    {
+        "ID": "2_15",
+        "Title": "Blockchain, cryptocurrencies, and mining",
+        "Upvotes": 5,
+        "Comments": 10,
+        "Date": 1642756449.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/s96qgc/blockchain_cryptocurrencies_and_mining/"
+    },
+    {
+        "ID": "2_16",
+        "Title": "European Blockchain Services Infrastructure IOTA selected for European blockchain project",
+        "Upvotes": 22,
+        "Comments": 8,
+        "Date": 1642281489.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/s4ujef/european_blockchain_services_infrastructure_iota/"
+    },
+    {
+        "ID": "2_17",
+        "Title": "Most NFT use cases will be heavily regulated",
+        "Upvotes": 29,
+        "Comments": 32,
+        "Date": 1640962075.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/rsvfyr/most_nft_use_cases_will_be_heavily_regulated/"
+    },
+    {
+        "ID": "2_18",
+        "Title": "Are blockchain technologies overrated?",
+        "Upvotes": 8,
+        "Comments": 71,
+        "Date": 1638337048.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/r67icy/are_blockchain_technologies_overrated/"
+    },
+    {
+        "ID": "2_19",
+        "Title": "Where am I most vulnerable when making crypto transactions? (that Google miner hacking issue)",
+        "Upvotes": 66,
+        "Comments": 31,
+        "Date": 1638150292.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/r4k8ii/where_am_i_most_vulnerable_when_making_crypto/"
+    },
+    {
+        "ID": "2_20",
+        "Title": "is there true 100% trustless blockchain protocol",
+        "Upvotes": 8,
+        "Comments": 26,
+        "Date": 1638045254.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/r3ma12/is_there_true_100_trustless_blockchain_protocol/"
+    },
+    {
+        "ID": "2_21",
+        "Title": "I took the Blockchain Essentials by IBM so you don't have to, here's what I learned",
+        "Upvotes": 4,
+        "Comments": 7,
+        "Date": 1637928641.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/r2lrsc/i_took_the_blockchain_essentials_by_ibm_so_you/"
+    },
+    {
+        "ID": "2_22",
+        "Title": "What Is Blockchain? (in simple terms)",
+        "Upvotes": 16,
+        "Comments": 18,
+        "Date": 1637577073.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/qzijm6/what_is_blockchain_in_simple_terms/"
+    },
+    {
+        "ID": "2_23",
+        "Title": "Comparing ZK and optimistic rollups",
+        "Upvotes": 13,
+        "Comments": 12,
+        "Date": 1636757829.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/qsn5q7/comparing_zk_and_optimistic_rollups/"
+    },
+    {
+        "ID": "2_24",
+        "Title": "Blockchain and Supply chain talk.",
+        "Upvotes": 3,
+        "Comments": 4,
+        "Date": 1634834085.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/qcvrej/blockchain_and_supply_chain_talk/"
+    },
+    {
+        "ID": "2_25",
+        "Title": "NEAR Protocol Announces $350M Grants to Expand dApp Ecosystem",
+        "Upvotes": 3,
+        "Comments": 2,
+        "Date": 1634823149.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/qcrwdx/near_protocol_announces_350m_grants_to_expand/"
+    },
+    {
+        "ID": "2_26",
+        "Title": "Centre of Excellence for Blockchain launches ABCD (Academic BlockChain Document) for issuing and verifying academic documents.",
+        "Upvotes": 3,
+        "Comments": 7,
+        "Date": 1632408615.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/ptww58/centre_of_excellence_for_blockchain_launches_abcd/"
+    },
+    {
+        "ID": "2_27",
+        "Title": "I researched XinFin Network [XDC], here's what I found (technical)",
+        "Upvotes": 57,
+        "Comments": 24,
+        "Date": 1631739104.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/poypm0/i_researched_xinfin_network_xdc_heres_what_i/"
+    },
+    {
+        "ID": "2_28",
+        "Title": "Ecosystem is the most cringe word in all of crypto.",
+        "Upvotes": 0,
+        "Comments": 56,
+        "Date": 1631427543.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/pmng04/ecosystem_is_the_most_cringe_word_in_all_of_crypto/"
+    },
+    {
+        "ID": "2_29",
+        "Title": "Types of Blockchains",
+        "Upvotes": 14,
+        "Comments": 33,
+        "Date": 1630987616.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/pjfjun/types_of_blockchains/"
+    },
+    {
+        "ID": "2_30",
+        "Title": "Tezos Is Now Launched On Chainstack",
+        "Upvotes": 34,
+        "Comments": 27,
+        "Date": 1630726579.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/phk3tr/tezos_is_now_launched_on_chainstack/"
+    },
+    {
+        "ID": "2_31",
+        "Title": "An NFT is more than just a jpeg, there part of the future of crypto...",
+        "Upvotes": 31,
+        "Comments": 70,
+        "Date": 1629981793.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/pbyqdm/an_nft_is_more_than_just_a_jpeg_there_part_of_the/"
+    },
+    {
+        "ID": "2_32",
+        "Title": "Eleven Free Courses To Learn Bitcoin, Blockchain And Cryptocurrencies - An older Forbes Article, but may help some newer enthusiasts starting out.",
+        "Upvotes": 5,
+        "Comments": 16,
+        "Date": 1629466835.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/p85eyf/eleven_free_courses_to_learn_bitcoin_blockchain/"
+    },
+    {
+        "ID": "2_33",
+        "Title": "Show me how much you know about Crypto - Quiz Time #1",
+        "Upvotes": 28,
+        "Comments": 41,
+        "Date": 1629410019.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/p7okm3/show_me_how_much_you_know_about_crypto_quiz_time_1/"
+    },
+    {
+        "ID": "2_34",
+        "Title": "European Central bank releases 'Digital Euro' test result",
+        "Upvotes": 19,
+        "Comments": 17,
+        "Date": 1628328280.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/ozq68b/european_central_bank_releases_digital_euro_test/"
+    },
+    {
+        "ID": "2_35",
+        "Title": "Prediction: What Blockchain will the Euro CBDC be on ?",
+        "Upvotes": 7,
+        "Comments": 19,
+        "Date": 1628246488.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/oz45kc/prediction_what_blockchain_will_the_euro_cbdc_be/"
+    },
+    {
+        "ID": "2_36",
+        "Title": "The European Central Bank has released the results of its \u2018tiered approach\u2019 on an experimental digital euro. According to the report, blockchain networks Tezos, Hyperledger Fabric, and NEM are fully compatible with the current fiat-based system.",
+        "Upvotes": 22,
+        "Comments": 13,
+        "Date": 1628209747.0,
+        "URL": "https://m.investing.com/news/cryptocurrency-news/the-results-of-the-digital-euro-cbdc-trials-are-finally-here-2581744/?utm_source=rss&utm_medium=rss&utm_campaign=the-results-of-the-digital-euro-cbdc-trials-are-finally-here-by-dailycoin?ampMode=1"
+    },
+    {
+        "ID": "2_37",
+        "Title": "The Results of the \u2018Digital Euro\u2019 CBDC Trials Are Finally Here - \"Tezos, Hyperledger Fabric, and NEM are fully interoperable with existing fiat systems, allowing several use cases and supporting various features of a potential CBDC in the future.\"",
+        "Upvotes": 47,
+        "Comments": 22,
+        "Date": 1628198746.0,
+        "URL": "https://www.investing.com/news/cryptocurrency-news/the-results-of-the-digital-euro-cbdc-trials-are-finally-here-2581744"
+    },
+    {
+        "ID": "2_38",
+        "Title": "The Bank of Canada is hiring a Product Architect, CBDC",
+        "Upvotes": 2,
+        "Comments": 11,
+        "Date": 1627922759.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/owih3u/the_bank_of_canada_is_hiring_a_product_architect/"
+    },
+    {
+        "ID": "2_39",
+        "Title": "Deutsche Wertpapier Service Bank AG looking for a manager with \"Very good understanding of common platforms, architectures and protocols, such as Bitcoin, Ethereum, Hyperledger, Corda or IOTA\"",
+        "Upvotes": 8,
+        "Comments": 6,
+        "Date": 1627865665.0,
+        "URL": "https://dwpbank.softgarden.io/job/11168658?l=de"
+    },
+    {
+        "ID": "2_40",
+        "Title": "European central bank,Bank of France digital euro experiments on Hyperledger, Tezos and NEM",
+        "Upvotes": 18,
+        "Comments": 7,
+        "Date": 1627497631.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/otg4jw/european_central_bankbank_of_france_digital_euro/"
+    },
+    {
+        "ID": "2_41",
+        "Title": "Why Amazon will move into the NFT space",
+        "Upvotes": 10,
+        "Comments": 16,
+        "Date": 1627400163.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/osp7vj/why_amazon_will_move_into_the_nft_space/"
+    },
+    {
+        "ID": "2_42",
+        "Title": "a boring social experiment, first impressions",
+        "Upvotes": 4,
+        "Comments": 6,
+        "Date": 1623742566.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/o08oh4/a_boring_social_experiment_first_impressions/"
+    },
+    {
+        "ID": "2_43",
+        "Title": "IBM Donates Code Improvements to Open Source Hyperledger",
+        "Upvotes": 4,
+        "Comments": 4,
+        "Date": 1623254908.0,
+        "URL": "https://www.coindesk.com/ibm-significant-code-contribution-hyperledger-red-hat-support"
+    },
+    {
+        "ID": "2_44",
+        "Title": "Looking for high level education on cryptocurrencies and blockchain? Here\u2019s a list of the top free online courses offered by some of the leading universities",
+        "Upvotes": 3077,
+        "Comments": 240,
+        "Date": 1620736333.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/n9vxu8/looking_for_high_level_education_on/"
+    },
+    {
+        "ID": "2_45",
+        "Title": "Hedera Hashgraph (HBAR) - The next Blockchain?",
+        "Upvotes": 151,
+        "Comments": 132,
+        "Date": 1620667754.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/n9atsh/hedera_hashgraph_hbar_the_next_blockchain/"
+    },
+    {
+        "ID": "2_46",
+        "Title": "(Mega Bullish) Tons of JP Morgan Employees have Ethereum/Solidity Skills!",
+        "Upvotes": 8,
+        "Comments": 9,
+        "Date": 1618158508.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/motwfi/mega_bullish_tons_of_jp_morgan_employees_have/"
+    },
+    {
+        "ID": "2_47",
+        "Title": "HyperLedger Fabric: Seemingly Major Adoption of the Open-Source Blockchain Option",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1617121961.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/mgk0nh/hyperledger_fabric_seemingly_major_adoption_of/"
+    },
+    {
+        "ID": "2_48",
+        "Title": "The whole purpose of a public blockchain is decentralization",
+        "Upvotes": 41,
+        "Comments": 33,
+        "Date": 1617011950.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/mfm2n1/the_whole_purpose_of_a_public_blockchain_is/"
+    },
+    {
+        "ID": "2_49",
+        "Title": "Do you actually need a blockchain? This is a great document to refer to when evaluating new tokens or coins and the problem they are trying to solve.",
+        "Upvotes": 13,
+        "Comments": 9,
+        "Date": 1614998101.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/lys4o4/do_you_actually_need_a_blockchain_this_is_a_great/"
+    },
+    {
+        "ID": "2_50",
+        "Title": "Baseline Protocol Commitment Manager Brings Hyperledger Besu, Infura; Public Blockchain Clients to Enterprise Workflows - OASIS Open",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1607530175.0,
+        "URL": "https://www.oasis-open.org/2020/12/09/baseline-protocol-commitment-manager-brings-hyperledger-besu-infura-public-blockchain-clients-to-enterprise-workflows/"
+    },
+    {
+        "ID": "2_51",
+        "Title": "An educational introduction to the OriginTrail Ecosystem (TRAC), one of the alts primed for blast off in '21",
+        "Upvotes": 80,
+        "Comments": 28,
+        "Date": 1606748685.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/k3xfl8/an_educational_introduction_to_the_origintrail/"
+    },
+    {
+        "ID": "2_52",
+        "Title": "NEM to launch Symbol - a Hybrid Blockchain to bridge between private and public networks",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1606463608.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/k1wz9v/nem_to_launch_symbol_a_hybrid_blockchain_to/"
+    },
+    {
+        "ID": "2_53",
+        "Title": "Five Fact Friday #3",
+        "Upvotes": 11,
+        "Comments": 16,
+        "Date": 1605292932.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/jtlhsm/five_fact_friday_3/"
+    },
+    {
+        "ID": "2_54",
+        "Title": "New coin named TEST is hitting the market soon (opportunity or scam)",
+        "Upvotes": 0,
+        "Comments": 35,
+        "Date": 1603197444.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/jeomlm/new_coin_named_test_is_hitting_the_market_soon/"
+    },
+    {
+        "ID": "2_55",
+        "Title": "Hyperledger Besu will implement the MESS proposal to prevent 51% attacks on ETC blockchain",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1601992655.0,
+        "URL": "https://cryptocoindaddy.com/hyperledger-besu-will-implement-mess-to-prevent-51-percent-attack-on-ethereum-classic-blockchain/"
+    },
+    {
+        "ID": "2_56",
+        "Title": "OriginTrail's ODN to serve as an Oracle for permissioned Blockchain (Oracle, Hyperledger)",
+        "Upvotes": 28,
+        "Comments": 4,
+        "Date": 1600970571.0,
+        "URL": "https://twitter.com/ORCLBlockchain/status/1309168346504540161?s=20"
+    },
+    {
+        "ID": "2_57",
+        "Title": "Hyperledger Frameworks made easy",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1600624373.0,
+        "URL": "https://www.youtube.com/watch?v=p0FIO_SpwRE&feature=share"
+    },
+    {
+        "ID": "2_58",
+        "Title": "Chainlink analysis - my thoughts and research",
+        "Upvotes": 47,
+        "Comments": 108,
+        "Date": 1596824372.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/i5j0c3/chainlink_analysis_my_thoughts_and_research/"
+    },
+    {
+        "ID": "2_59",
+        "Title": "5 days ago IBM put out an informative webinar on using the hashgraph crypto consensus service. The presenter highlighted how useful it is and that its likely to become an important part of using hyperledger fabric.",
+        "Upvotes": 5,
+        "Comments": 3,
+        "Date": 1592999097.0,
+        "URL": "https://youtu.be/HR_gVdqCqwY"
+    },
+    {
+        "ID": "2_60",
+        "Title": "Looking for some straightforward blockchain answers",
+        "Upvotes": 5,
+        "Comments": 4,
+        "Date": 1592789065.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/hdin5a/looking_for_some_straightforward_blockchain/"
+    },
+    {
+        "ID": "2_61",
+        "Title": "Hyperledger vs Energy Web Comparison - battle of the consortiums",
+        "Upvotes": 0,
+        "Comments": 25,
+        "Date": 1591128314.0,
+        "URL": "https://i.redd.it/zj57hoevzj251.jpg"
+    },
+    {
+        "ID": "2_62",
+        "Title": "Developing a Supply-Chain-Blockchain... where to start?",
+        "Upvotes": 4,
+        "Comments": 26,
+        "Date": 1588711044.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/ge5ms0/developing_a_supplychainblockchain_where_to_start/"
+    },
+    {
+        "ID": "2_63",
+        "Title": "Integrate Hyperledger Fabric With the IOTA Tangle",
+        "Upvotes": 289,
+        "Comments": 37,
+        "Date": 1574778148.0,
+        "URL": "https://blog.iota.org/integrate-hyperledger-fabric-with-the-iota-tangle-9bc3ac873e82"
+    },
+    {
+        "ID": "2_64",
+        "Title": "Chinese Army\u2019s Blockchain Provider Approved for New Hyperledger Certification Program",
+        "Upvotes": 5,
+        "Comments": 2,
+        "Date": 1574094656.0,
+        "URL": "https://www.coindesk.com/chinese-armys-blockchain-provider-approved-for-new-hyperledger-certification-program"
+    },
+    {
+        "ID": "2_65",
+        "Title": "Hyperledger Blockchain Group Weighs Changes to Fix Election Issues",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1570877666.0,
+        "URL": "https://bitsent.org/hyperledger-blockchain-group-weighs-changes-to-fix-election-issues/"
+    },
+    {
+        "ID": "2_66",
+        "Title": "At Devcon? Into Hyperledger? Dr. Chun Hui (former Hyperledger research scientist at IBM) will be speaking at the Hyperledger Kansai meetup today on how he built a profitable PoC that's being used to fix trust problems in developing economies' trade networks",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1570551798.0,
+        "URL": "https://www.meetup.com/Hyperledger-Kansai/events/264886205/"
+    },
+    {
+        "ID": "2_67",
+        "Title": "Are there projects built on Bitcoin?",
+        "Upvotes": 8,
+        "Comments": 27,
+        "Date": 1568683593.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/d59zup/are_there_projects_built_on_bitcoin/"
+    },
+    {
+        "ID": "2_68",
+        "Title": "Using Hyperledger Blockchain, Largest bank in Russia Buys $15 Million in Debt - CoinJournal.co",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1568309210.0,
+        "URL": "https://www.coinjournal.co/using-hyperledger-blockchain-largest-bank-in-russia-buys-15-million-in-debt/"
+    },
+    {
+        "ID": "2_69",
+        "Title": "Joseph Lubin Joins Hyperledger Board - CoinJournal.co",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1568216970.0,
+        "URL": "https://www.coinjournal.co/ethereum-co-founder-joe-lubin-joins-hyperledger-board/"
+    },
+    {
+        "ID": "2_70",
+        "Title": "Will Hyperledger be the Platform that Successfully Brings Blockchain into the Enterprises ?",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1568197971.0,
+        "URL": "https://blog.quillhash.com/will-hyperledger-be-the-platform-that-successfully-brings-blockchain-into-the-enterprises/"
+    },
+    {
+        "ID": "2_71",
+        "Title": "Everything you need to know about Hyperledger and LODE (Interview with Dan Wasyluk of Blockchain Foundry)",
+        "Upvotes": 0,
+        "Comments": 2,
+        "Date": 1567186739.0,
+        "URL": "https://www.youtube.com/watch?v=D3ihgtdZT4Q"
+    },
+    {
+        "ID": "2_72",
+        "Title": "Loom Sells-Out To Facebook Libra | Dharma V2 | No Taxes Crypto Taxes In Portugal! | HyperLedger Besu",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1567121499.0,
+        "URL": "https://youtu.be/Sg0gcPrVsSQ"
+    },
+    {
+        "ID": "2_73",
+        "Title": "Ethereum Client Becomes First Public Blockchain Project on Hyperledger",
+        "Upvotes": 4,
+        "Comments": 2,
+        "Date": 1567094382.0,
+        "URL": "https://www.coindesk.com/hyperledger-adds-consensys-enterprise-project-to-consortium"
+    },
+    {
+        "ID": "2_74",
+        "Title": "Hyperledger Unanimously Approves First Ethereum Codebase For Enterprises",
+        "Upvotes": 28,
+        "Comments": 9,
+        "Date": 1567091453.0,
+        "URL": "https://www.forbes.com/sites/michaeldelcastillo/2019/08/29/hyperledger-unanimously-approves-first-ethereum-codebase-for-enterprises/#3d9c9a53794c"
+    },
+    {
+        "ID": "2_75",
+        "Title": "Quant Network partners with AX Trading to bring Digital Assets to Wall Street",
+        "Upvotes": 43,
+        "Comments": 7,
+        "Date": 1565716392.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/cpw5ky/quant_network_partners_with_ax_trading_to_bring/"
+    },
+    {
+        "ID": "2_76",
+        "Title": "ConcenSys backed Truffle is expanding to Hyperledger Fabric, Tezos and R3's Corda after clocking 3.5 million downloads from Ethereum developers",
+        "Upvotes": 24,
+        "Comments": 6,
+        "Date": 1564751799.0,
+        "URL": "https://www.coindesk.com/consensys-backed-truffle-is-taking-its-dev-tools-beyond-just-ethereum"
+    },
+    {
+        "ID": "2_77",
+        "Title": "Check out the consolidated video from Hyperledger Member Summit, where Cardstack's Chris Tse walks you through the architecture and demos of blockchain-based registries. Come and learn how you can build the next enterprise blockchain use case using Git, Sawtooth, and Cardstack technology!",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1564498392.0,
+        "URL": "https://youtu.be/HBqSpYpqWko"
+    },
+    {
+        "ID": "2_78",
+        "Title": "A comprehensive list of blockchain terminology",
+        "Upvotes": 2,
+        "Comments": 2,
+        "Date": 1563957048.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/ch5ho7/a_comprehensive_list_of_blockchain_terminology/"
+    },
+    {
+        "ID": "2_79",
+        "Title": "Chris Tse from Cardstack will be at Hyperledger Member Summit 2019 talking Building a Media Registry with Git and Sawtooth",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1563552739.0,
+        "URL": "https://hyperledgermemberssummit2019.sched.com/event/QQ8v/building-a-media-registry-with-git-and-sawtooth-chris-tse-cardstack"
+    },
+    {
+        "ID": "2_80",
+        "Title": "The techie's intro to blockchain -- Dr Suen, Hyperledger Fabric Proof-of-Concept Dev & Ethereum Convert, explains blockchain through the OSI model",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1562766018.0,
+        "URL": "https://medium.com/kommercetf/blockchain-osi-stack-2f1482595953"
+    },
+    {
+        "ID": "2_81",
+        "Title": "Microsoft and Ethereum Foundation Swell the Hyperledger Ranks Amid Growing Cross-Industry Blockchain Collaboration - DiscoverCrypto",
+        "Upvotes": 8,
+        "Comments": 0,
+        "Date": 1561394321.0,
+        "URL": "https://discovercrypto.net/microsoft-and-ethereum-foundation-swell-the-hyperledger-ranks-amid-growing-cross-industry-blockchain-collaboration/"
+    },
+    {
+        "ID": "2_82",
+        "Title": "Ethereum Foundation joins Hyperledger and Enterprise Ethereum Alliance",
+        "Upvotes": 16,
+        "Comments": 0,
+        "Date": 1560859489.0,
+        "URL": "https://twitter.com/ethereum/status/1140952763431604224"
+    },
+    {
+        "ID": "2_83",
+        "Title": "Unibright will Present with Digital Asset at Synchronise 2019",
+        "Upvotes": 10,
+        "Comments": 2,
+        "Date": 1560683875.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/c18uua/unibright_will_present_with_digital_asset_at/"
+    },
+    {
+        "ID": "2_84",
+        "Title": "V-ID utilizes five (5) different blockchains for GDPR compliance and file validation: Ethereum, Digibyte, IBM Hyperledger, Bitcoin, and LTO Network with Binance Chain.",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1559932193.0,
+        "URL": "https://about.v-id.org/tech/"
+    },
+    {
+        "ID": "2_85",
+        "Title": "Why Would Business Clients Choose A Particular Enterprise Blockchain To Build On?",
+        "Upvotes": 8,
+        "Comments": 10,
+        "Date": 1557814750.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/bof2uz/why_would_business_clients_choose_a_particular/"
+    },
+    {
+        "ID": "2_86",
+        "Title": "Hyperledger Iroha v1.0 Blockchain Released; this is a production release that can now be used in enterprises systems. Current users of Hyperledger Iroha include the central bank of Cambodia and the central securities depositories of Slovenia and Russia.",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1557745421.0,
+        "URL": "https://www.hyperledger.org/blog/2019/05/06/welcome-hyperledger-iroha-1-0-flattening-the-dlt-learning-curve"
+    },
+    {
+        "ID": "2_87",
+        "Title": "Any blockchain interoperability projects besides Hyperledger Quilt?",
+        "Upvotes": 4,
+        "Comments": 14,
+        "Date": 1556636750.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/bj4dgx/any_blockchain_interoperability_projects_besides/"
+    },
+    {
+        "ID": "2_88",
+        "Title": "Why would commercials banks use generic and public blockchains when there is modular blockchain plateform like Hyperledger and a more specialized framework for financial application like R3 Corda ? both are permissioned and private with smart contracts support",
+        "Upvotes": 0,
+        "Comments": 4,
+        "Date": 1556209816.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/bhaom9/why_would_commercials_banks_use_generic_and/"
+    },
+    {
+        "ID": "2_89",
+        "Title": "Ethereum smart contract listening to events on Ripple!!!!",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1554453378.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/b9omvp/ethereum_smart_contract_listening_to_events_on/"
+    },
+    {
+        "ID": "2_90",
+        "Title": "Quant joins the Hyperledger project alongside Ripple.",
+        "Upvotes": 38,
+        "Comments": 18,
+        "Date": 1553690769.0,
+        "URL": "https://www.hyperledger.org/announcements/2019/03/27/hyperledger-welcomes-nine-new-members-to-its-expanding-enterprise-blockchain-community"
+    },
+    {
+        "ID": "2_91",
+        "Title": "On the Same Page: Blockchain for the Advertising Industry",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1553682963.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/b62uqx/on_the_same_page_blockchain_for_the_advertising/"
+    },
+    {
+        "ID": "2_92",
+        "Title": "Overledger to replace Hyperledger, 3 lines of code to integrate a multi chain Dapp.",
+        "Upvotes": 7,
+        "Comments": 0,
+        "Date": 1552367517.0,
+        "URL": "https://www.overledger.com"
+    },
+    {
+        "ID": "2_93",
+        "Title": "Understanding Hyperledger Fabric - Coin Savage",
+        "Upvotes": 5,
+        "Comments": 1,
+        "Date": 1552231071.0,
+        "URL": "https://coinsavage.com/content/2019/03/understanding-hyperledger-fabric/"
+    },
+    {
+        "ID": "2_94",
+        "Title": "On This Day In Crypto History...",
+        "Upvotes": 9,
+        "Comments": 1,
+        "Date": 1551559945.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/awm7ub/on_this_day_in_crypto_history/"
+    },
+    {
+        "ID": "2_95",
+        "Title": "Aero Wang, Co- founder of Nebulas and NEO: \u201cAt the bottom of last crypto cycle, I thought AntShares (NEO) was dead.\u201d",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1550555110.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/as70vg/aero_wang_co_founder_of_nebulas_and_neo_at_the/"
+    },
+    {
+        "ID": "2_96",
+        "Title": "AWS goes on blockchain and will use Ethereum and Hyperledger blockchain",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1550043284.0,
+        "URL": "https://www.blockonedaily.com/aws-goes-on-blockchain-and-will-use-ethereum-and-hyperledger-blockchain/"
+    },
+    {
+        "ID": "2_97",
+        "Title": "IBM Think 2019 : Tech event of the year! February 12 \u2013 15 - Will include discussions around cryptocurrencies",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1549319743.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/an7ar5/ibm_think_2019_tech_event_of_the_year_february_12/"
+    },
+    {
+        "ID": "2_98",
+        "Title": "Overview of Blockchain Platforms for business: Hyperledger, Corda R3, CREDITS",
+        "Upvotes": 22,
+        "Comments": 0,
+        "Date": 1548436125.0,
+        "URL": "https://credits.com/en/Home/New_Ins/4203"
+    },
+    {
+        "ID": "2_99",
+        "Title": "Elephant In The Room - The Difference Between Crypto & Blockchain Demand",
+        "Upvotes": 0,
+        "Comments": 2,
+        "Date": 1547847598.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/ahfchz/elephant_in_the_room_the_difference_between/"
+    },
+    {
+        "ID": "2_100",
+        "Title": "Genuine Question. Why Blockchain Need Cryptocurrency?",
+        "Upvotes": 0,
+        "Comments": 7,
+        "Date": 1547599459.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/agfiqn/genuine_question_why_blockchain_need/"
+    },
+    {
+        "ID": "2_101",
+        "Title": "They say crypto is dead...but creativeness never dies",
+        "Upvotes": 4,
+        "Comments": 8,
+        "Date": 1547567062.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/ag9s9n/they_say_crypto_is_deadbut_creativeness_never_dies/"
+    },
+    {
+        "ID": "2_102",
+        "Title": "Can we put an end to price predictions?",
+        "Upvotes": 62,
+        "Comments": 71,
+        "Date": 1547220765.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/aewhek/can_we_put_an_end_to_price_predictions/"
+    },
+    {
+        "ID": "2_103",
+        "Title": "Techrock (Walimai - Wabi) joins the ranks of Alibaba Cloud, Deutsche Telekom, Citi, and others, in the Hyperledger family",
+        "Upvotes": 7,
+        "Comments": 18,
+        "Date": 1545047727.0,
+        "URL": "https://www.hyperledger.org/announcements/2018/12/11/hyperledger-adds-alibaba-cloud-citi-deutsche-telekom-we-trade-and-12-more-new-members-at-hyperledger-global-forum"
+    },
+    {
+        "ID": "2_104",
+        "Title": "In case you missed it: Major Crypto and Blockchain News from the week ending 12/14/2018",
+        "Upvotes": 7,
+        "Comments": 3,
+        "Date": 1544830849.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/a6a6vb/in_case_you_missed_it_major_crypto_and_blockchain/"
+    },
+    {
+        "ID": "2_105",
+        "Title": "Deutsche Telekom, Alibaba Among 12 New Members On Hyperledger",
+        "Upvotes": 13,
+        "Comments": 7,
+        "Date": 1544799195.0,
+        "URL": "https://www.cointrust.com/market-news/deutsche-telekom-alibaba-among-12-new-members-on-hyperledger"
+    },
+    {
+        "ID": "2_106",
+        "Title": "Post good educational resources here!",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1544507153.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/a542jk/post_good_educational_resources_here/"
+    },
+    {
+        "ID": "2_107",
+        "Title": "Making Cross-Chain Smart Contracts on ARK via Hyperledger Fabric",
+        "Upvotes": 70,
+        "Comments": 7,
+        "Date": 1544123903.0,
+        "URL": "https://blog.ark.io/making-cross-chain-smart-contracts-on-ark-via-hyperledger-fabric-e69149b1e12c"
+    },
+    {
+        "ID": "2_108",
+        "Title": "In the spirit of Thanksgiving, let's come together and share research or information that we have found.",
+        "Upvotes": 2,
+        "Comments": 11,
+        "Date": 1542916836.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9zhdgc/in_the_spirit_of_thanksgiving_lets_come_together/"
+    },
+    {
+        "ID": "2_109",
+        "Title": "The Hyperledger Fabric Now Supports Ethereum\u2019s (ETH) Virtual Machine",
+        "Upvotes": 8,
+        "Comments": 0,
+        "Date": 1540740583.0,
+        "URL": "http://helpinghand.today/2018/10/28/the-hyperledger-fabric-now-supports-ethereums-eth-virtual-machine/"
+    },
+    {
+        "ID": "2_110",
+        "Title": "Coinbase reportedly set to announce an initial public offering tomorrow as cryptocurrencies are negative",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1540501285.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9re9tv/coinbase_reportedly_set_to_announce_an_initial/"
+    },
+    {
+        "ID": "2_111",
+        "Title": "Cryptocurrencies posting moderate gains as Japan\u2019s FSA officially recognizes self-regulating cryptocurrency industry body",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1540390420.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9r019p/cryptocurrencies_posting_moderate_gains_as_japans/"
+    },
+    {
+        "ID": "2_112",
+        "Title": "Cryptocurrencies are largely red as study finds 400% increase in demand for blockchain engineers",
+        "Upvotes": 5,
+        "Comments": 1,
+        "Date": 1540243185.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9qi4zd/cryptocurrencies_are_largely_red_as_study_finds/"
+    },
+    {
+        "ID": "2_113",
+        "Title": "Blockstream's new liquid product is a federated sidechain which is a centralized solution that is completely permissioned not that different to something like ripple or hyperledger. The hypocrisy of replacing onchain with liquid for the sake of decentralization is ludicrous.",
+        "Upvotes": 31,
+        "Comments": 48,
+        "Date": 1539476433.0,
+        "URL": "https://twitter.com/Justin_Bons/status/1051083362553749504?s=19"
+    },
+    {
+        "ID": "2_114",
+        "Title": "Quant Overledger [QNT] Compilation of AMA Oct. 8",
+        "Upvotes": 53,
+        "Comments": 13,
+        "Date": 1539040885.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9mjy3i/quant_overledger_qnt_compilation_of_ama_oct_8/"
+    },
+    {
+        "ID": "2_115",
+        "Title": "Enterprise Ethereum Alliance Joins Forces With Hyperledger",
+        "Upvotes": 21,
+        "Comments": 4,
+        "Date": 1538466948.0,
+        "URL": "https://www.hyperledger.org/blog/2018/10/01/growing-the-enterprise-blockchain-ecosystem-through-open-standards-and-open-source-code"
+    },
+    {
+        "ID": "2_116",
+        "Title": "CRYPTO NEWS RECAP: Malta\u2019s Prime Minister declared to the United Nations General Assembly that cryptocurrencies are the inevitable future of money while cryptocurrencies are in the red",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1538429249.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9kkjlu/crypto_news_recap_maltas_prime_minister_declared/"
+    },
+    {
+        "ID": "2_117",
+        "Title": "Hyperledger and Enterprise Ethereum Alliance Join Forces In Enterprise Blockchain Boost",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1538414363.0,
+        "URL": "https://www.forbes.com/sites/astanley/2018/10/01/hyperledger-and-enterprise-ethereum-alliance-join-forces-in-enterprise-blockchain-boost/"
+    },
+    {
+        "ID": "2_118",
+        "Title": "Blockchain Interoperability Wanchain Joins Hyperledger - Great News for IBM",
+        "Upvotes": 7,
+        "Comments": 1,
+        "Date": 1538320680.0,
+        "URL": "https://cryptovest.com/news/blockchain-interoperability-wanchain-joins-hyperledger/"
+    },
+    {
+        "ID": "2_119",
+        "Title": "FedEx Joins Hyperledger\u2019s Blockchain Hub to Advance Widescale Adoption",
+        "Upvotes": 4,
+        "Comments": 3,
+        "Date": 1538077108.0,
+        "URL": "https://www.newsbtc.com/2018/09/27/fedex-joins-hyperledgers-blockchain-hub-to-advance-widescale-adoption/"
+    },
+    {
+        "ID": "2_120",
+        "Title": "Hyperledger Continues Strong Momentum with 14 New Members",
+        "Upvotes": 6,
+        "Comments": 13,
+        "Date": 1538075497.0,
+        "URL": "https://www.prnewswire.com/news-releases/hyperledger-continues-strong-momentum-with-14-new-members-300718918.html"
+    },
+    {
+        "ID": "2_121",
+        "Title": "Cardstack announced they are joining Hyperledger family, as one of 14 projects that are officially stepping aboard the Linux Foundation\u2019s open-source effort to bring blockchain to real industry use cases around the world.",
+        "Upvotes": 31,
+        "Comments": 10,
+        "Date": 1538039967.0,
+        "URL": "https://medium.com/cardstack/cardstack-joins-hyperledger-d980d56c689c"
+    },
+    {
+        "ID": "2_122",
+        "Title": "'Yesterday Stratis Announced their Roadmap. Cold staking, side chains, C# Smart Contracts, and DLT (competing with hyperledger) all by the end of 2018!'",
+        "Upvotes": 26,
+        "Comments": 19,
+        "Date": 1538026735.0,
+        "URL": "https://twitter.com/stratisplatform/status/1044992393236418561?s=21"
+    },
+    {
+        "ID": "2_123",
+        "Title": "Bi-Daily Crypto News Recap: Cryptocurrencies see flush of green as Circle launches dollar-backed stablecoin and Bitmain officially applies for IPO",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1537997709.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9j6sjn/bidaily_crypto_news_recap_cryptocurrencies_see/"
+    },
+    {
+        "ID": "2_124",
+        "Title": "Constellation joins Hyperledger",
+        "Upvotes": 11,
+        "Comments": 4,
+        "Date": 1537993738.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9j6819/constellation_joins_hyperledger/"
+    },
+    {
+        "ID": "2_125",
+        "Title": "FedEx Joins Hyperledger in Blockchain Consortium's Latest Expansion",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1537992694.0,
+        "URL": "https://www.coindesk.com/fedex-joins-hyperledger-in-blockchain-consortiums-latest-expansion/"
+    },
+    {
+        "ID": "2_126",
+        "Title": "Constellation, FedEx, HoneyWell and Wanchain joins Hyperledger, along with 11 other companies",
+        "Upvotes": 40,
+        "Comments": 6,
+        "Date": 1537972388.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9j30t3/constellation_fedex_honeywell_and_wanchain_joins/"
+    },
+    {
+        "ID": "2_127",
+        "Title": "Constellation Labs ($DAG) joins Hyperledger",
+        "Upvotes": 6,
+        "Comments": 2,
+        "Date": 1537968505.0,
+        "URL": "https://www.hyperledger.org/announcements/2018/09/26/hyperledger-continues-strong-momentum-with-14-new-members"
+    },
+    {
+        "ID": "2_128",
+        "Title": "Constellation Labs joins Hyperledger for interoperability",
+        "Upvotes": 6,
+        "Comments": 0,
+        "Date": 1537967668.0,
+        "URL": "https://twitter.com/hyperledger/status/1044920017119207424?s=21"
+    },
+    {
+        "ID": "2_129",
+        "Title": "The only ANY:ANY interoperability Project: Quant Overledger",
+        "Upvotes": 38,
+        "Comments": 82,
+        "Date": 1537336808.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9h2maa/the_only_anyany_interoperability_project_quant/"
+    },
+    {
+        "ID": "2_130",
+        "Title": "DNATIX ICO REVIEW",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1537076798.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9g8cb2/dnatix_ico_review/"
+    },
+    {
+        "ID": "2_131",
+        "Title": "The AutoBlock offers solution that aims to benefit the automotive industry as a whole",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1536334034.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9dvezu/the_autoblock_offers_solution_that_aims_to/"
+    },
+    {
+        "ID": "2_132",
+        "Title": "Thank me later. IBM partnership today, market cap less than 10million, .02 cents, excellent management.",
+        "Upvotes": 0,
+        "Comments": 8,
+        "Date": 1535551480.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9b9k9g/thank_me_later_ibm_partnership_today_market_cap/"
+    },
+    {
+        "ID": "2_133",
+        "Title": "MetaHash is the next generation network based on Blockchain 4.0 technology",
+        "Upvotes": 14,
+        "Comments": 0,
+        "Date": 1534488162.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/9801ch/metahash_is_the_next_generation_network_based_on/"
+    },
+    {
+        "ID": "2_134",
+        "Title": "An extensive list of blockchain courses, resources and articles to help you get a job working with blockchain.",
+        "Upvotes": 216,
+        "Comments": 37,
+        "Date": 1534317251.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/97g9n0/an_extensive_list_of_blockchain_courses_resources/"
+    },
+    {
+        "ID": "2_135",
+        "Title": "Crypto News Recap for the week ending August 3rd",
+        "Upvotes": 7,
+        "Comments": 1,
+        "Date": 1533416767.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/94mg0g/crypto_news_recap_for_the_week_ending_august_3rd/"
+    },
+    {
+        "ID": "2_136",
+        "Title": "Lightning Bank Ledgers? Bitfury and Ripple Demo New Twist on Bitcoin Tech",
+        "Upvotes": 8,
+        "Comments": 3,
+        "Date": 1531965324.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/901m8g/lightning_bank_ledgers_bitfury_and_ripple_demo/"
+    },
+    {
+        "ID": "2_137",
+        "Title": "Blockchain Expert Naviin Kapoor joins idap.io Advisory Board",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1531238649.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/8xqkcm/blockchain_expert_naviin_kapoor_joins_idapio/"
+    },
+    {
+        "ID": "2_138",
+        "Title": "Hyperledger welcomes 'major wave' of Chinese blockchain collaborations",
+        "Upvotes": 9,
+        "Comments": 1,
+        "Date": 1530542683.0,
+        "URL": "https://www.blockchaintechnology-news.com/2018/06/29/hyperledger-welcomes-major-wave-of-chinese-blockchain-collaborations/"
+    },
+    {
+        "ID": "2_139",
+        "Title": "Which one will be a solid major crypto name by 2020 [Poll] #tezos #eos #tron #achain #orbs #polkadots #metronome #vechain #komodo #nano #hashgraph #cardano #neo #hyperledger #ripple #stellar #qtum #lisk #cardano #stratis #ark #waves #icon",
+        "Upvotes": 0,
+        "Comments": 11,
+        "Date": 1530155844.0,
+        "URL": "https://www.facebook.com/groups/cryptocurrencycollectorsclub/permalink/1465252736914220/"
+    },
+    {
+        "ID": "2_140",
+        "Title": "Omnitude on Hyperledger",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1530109285.0,
+        "URL": "https://medium.com/omnitude/omnitude-becomes-a-hyperledger-member-as-it-builds-its-enterprise-blockchain-ecosystem-fd2f42459e8f"
+    },
+    {
+        "ID": "2_141",
+        "Title": "ICON is a very very deceptive project. Watch out",
+        "Upvotes": 0,
+        "Comments": 22,
+        "Date": 1528046329.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/8oa1v6/icon_is_a_very_very_deceptive_project_watch_out/"
+    },
+    {
+        "ID": "2_142",
+        "Title": "Crypto Month in Review - May 2018",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1527815047.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/8nns5y/crypto_month_in_review_may_2018/"
+    },
+    {
+        "ID": "2_143",
+        "Title": "I will be attending a blockchain seminar presentation by an IBM researcher tomorrow. What questions would you like me to ask?",
+        "Upvotes": 3,
+        "Comments": 2,
+        "Date": 1527809575.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/8nn5x2/i_will_be_attending_a_blockchain_seminar/"
+    },
+    {
+        "ID": "2_144",
+        "Title": "Edenchain Delivers What They Promise",
+        "Upvotes": 23,
+        "Comments": 22,
+        "Date": 1527177931.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/8ltt43/edenchain_delivers_what_they_promise/"
+    },
+    {
+        "ID": "2_145",
+        "Title": "Computerworld - Interesting Read on Blockchain - IBM, KlickEx, and Hyperledger mentioned - KlickEx 8 Million tx/day",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1527139371.0,
+        "URL": "http://computerworld.in/feature/what-blockchain-most-disruptive-tech-decades"
+    },
+    {
+        "ID": "2_146",
+        "Title": "What Projects Are Building Using a Combination of Blockchains?",
+        "Upvotes": 0,
+        "Comments": 5,
+        "Date": 1527079395.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/8lj1mt/what_projects_are_building_using_a_combination_of/"
+    },
+    {
+        "ID": "2_147",
+        "Title": "Russia\u2019s largest bank buys commercial bonds on a blockchain. On the IBM blockchain using hyperledger fabric. Stellar XLM will be used IMO. DYOR trust me!",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1526957211.0,
+        "URL": "https://www.reddit.com/r/Stellar/comments/8l2cn0/russias_largest_bank_buys_commercial_bonds_on_a/"
+    },
+    {
+        "ID": "2_148",
+        "Title": "MOBI the Mobility Open Blockchain Initiative. The list of cryptoprojects on board: Iota, ShareRing, Hyperledger.",
+        "Upvotes": 152,
+        "Comments": 27,
+        "Date": 1526719179.0,
+        "URL": "https://i.redd.it/w55ah76gyry01.jpg"
+    },
+    {
+        "ID": "2_149",
+        "Title": "How Omnitude will use Hyperledger blockchain technology",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1526036052.0,
+        "URL": "https://medium.com/omnitude/how-omnitude-will-use-hyperledger-blockchain-technology-62d21d63194e"
+    },
+    {
+        "ID": "2_150",
+        "Title": "The Proof of Elapsed Time (PoET) consensus algorithm is the most exciting development in cryptocurrency since Bitcoins' inception.",
+        "Upvotes": 0,
+        "Comments": 9,
+        "Date": 1525919358.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/8ibm64/the_proof_of_elapsed_time_poet_consensus/"
+    },
+    {
+        "ID": "2_151",
+        "Title": "Congressional candidate Michael Allman will follow constituent votes tracked on a hyperledger platform - hosting AMA May 9th @ 10am PST",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1525805687.0,
+        "URL": "https://www.reddit.com/r/TechLA/comments/8hovim/california_52nd_congressional_candidate_michael/"
+    },
+    {
+        "ID": "2_152",
+        "Title": "Hyperledger Fabric Now Used in Day to Day Operations!",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1525356385.0,
+        "URL": "https://www.hyperledger.org/blog/2018/04/03/hyperledger-fabric-now-used-in-day-to-day-operations"
+    },
+    {
+        "ID": "2_153",
+        "Title": "BitRent and Hyperledger",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1525348237.0,
+        "URL": "https://medium.com/@bitrent/bitrent-and-hyperledger-953ec4ac5f9b"
+    },
+    {
+        "ID": "2_154",
+        "Title": "Accenture,Nissay Dowa Insurance,Beyond Protocol, BigchainDB, Blockchain at Berkeley, BMW, Dashride, DOVU, FOAM, Ford, GM, Hyperledger, IBM,IOTA, Ocean Protocol, Renault, the Trusted IoT Alliance, VeChain, Xain, launch blockchain research group for automotive industry",
+        "Upvotes": 25,
+        "Comments": 5,
+        "Date": 1525281561.0,
+        "URL": "https://docs.wixstatic.com/ugd/bd1fb8_4e16d895b37e4b2a9d4dafdbb82cef2a.pdf"
+    },
+    {
+        "ID": "2_155",
+        "Title": "BMW, GM, Ford and Renault launch blockchain research group with over 30 founding members that also include Bosch, Blockchain at Berkeley, Hyperledger, Fetch.ai, IBM and IOTA",
+        "Upvotes": 950,
+        "Comments": 133,
+        "Date": 1525266232.0,
+        "URL": "https://techcrunch.com/2018/05/02/the-mobility-open-blockchain-initiative-bmw-gm-ford-renault/amp/?__twitter_impression=true"
+    },
+    {
+        "ID": "2_156",
+        "Title": "Amazon Web Services Introduces Ethereum and Hyperledger Blockchain Templates",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1524743555.0,
+        "URL": "https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-blockchain-templates/"
+    },
+    {
+        "ID": "2_157",
+        "Title": "April 2018: XRP Steals the Show",
+        "Upvotes": 0,
+        "Comments": 11,
+        "Date": 1524311429.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/8dvadc/april_2018_xrp_steals_the_show/"
+    },
+    {
+        "ID": "2_158",
+        "Title": "Amazon AWS deploys Blockchain Templates for Ethereum and Hyperledger",
+        "Upvotes": 437,
+        "Comments": 47,
+        "Date": 1524241835.0,
+        "URL": "https://aws.amazon.com/blockchain/templates/"
+    },
+    {
+        "ID": "2_159",
+        "Title": "Amazon AWS spinning Ethereum and Hyperledger fabric in a few clicks",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1524241676.0,
+        "URL": "https://www.coindesk.com/aws-making-easier-use-hyperledger-fabric-ethereum/"
+    },
+    {
+        "ID": "2_160",
+        "Title": "Is Hyperledger a threat to public blockchains?",
+        "Upvotes": 2,
+        "Comments": 4,
+        "Date": 1523445145.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/8bg8po/is_hyperledger_a_threat_to_public_blockchains/"
+    },
+    {
+        "ID": "2_161",
+        "Title": "Someone talk me into why coins with a supply chain / logistics use case requires value.",
+        "Upvotes": 6,
+        "Comments": 11,
+        "Date": 1522114044.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/87ejt4/someone_talk_me_into_why_coins_with_a_supply/"
+    },
+    {
+        "ID": "2_162",
+        "Title": "IBM's Marie Wieck Explains Blockchain Use Cases at Length. Stellar's role explicitly called out and aligned to the IBM's blockchain plans.",
+        "Upvotes": 101,
+        "Comments": 15,
+        "Date": 1520494527.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/82vrtx/ibms_marie_wieck_explains_blockchain_use_cases_at/"
+    },
+    {
+        "ID": "2_163",
+        "Title": "My brief observation of most common Consensus Algorithms",
+        "Upvotes": 73,
+        "Comments": 9,
+        "Date": 1519303267.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7zellr/my_brief_observation_of_most_common_consensus/"
+    },
+    {
+        "ID": "2_164",
+        "Title": "Need some guidance on choosing a blockchain and building an app",
+        "Upvotes": 9,
+        "Comments": 8,
+        "Date": 1518898128.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7y925z/need_some_guidance_on_choosing_a_blockchain_and/"
+    },
+    {
+        "ID": "2_165",
+        "Title": "Find the coins that major industry is backing for starters",
+        "Upvotes": 6,
+        "Comments": 13,
+        "Date": 1518476550.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7x4v4w/find_the_coins_that_major_industry_is_backing_for/"
+    },
+    {
+        "ID": "2_166",
+        "Title": "Japan Net Bank And Fujitsu Trial Blockchain With Mijin And Hyperledger",
+        "Upvotes": 15,
+        "Comments": 0,
+        "Date": 1517995390.0,
+        "URL": "https://coinjournal.net/japan-net-bank-fujitsu-trial-blockchain-mijin-hyperledger/"
+    },
+    {
+        "ID": "2_167",
+        "Title": "Japan Net Bank tests blockchain technology with mijin and Hyperledger",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1517900663.0,
+        "URL": "https://www.cryptoninjas.net/2018/02/06/japan-net-bank-tests-blockchain-technology-mijin-hyperledger/"
+    },
+    {
+        "ID": "2_168",
+        "Title": "My due diligence on Ternio (TERN)",
+        "Upvotes": 27,
+        "Comments": 7,
+        "Date": 1517494930.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7uj17f/my_due_diligence_on_ternio_tern/"
+    },
+    {
+        "ID": "2_169",
+        "Title": "thetimeline.txt",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1517492104.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7uir8c/thetimelinetxt/"
+    },
+    {
+        "ID": "2_170",
+        "Title": "Distributed ledger platform Hyperledger Sawtooth 1.0 now available",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1517360523.0,
+        "URL": "https://www.cryptoninjas.net/2018/01/30/distributed-ledger-platform-hyperledger-sawtooth-1-0-now-available/"
+    },
+    {
+        "ID": "2_171",
+        "Title": "IoT Chain (ITC) - Why China's answer to IOTA should have a place in your portfolio",
+        "Upvotes": 94,
+        "Comments": 78,
+        "Date": 1517285946.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7tyfbe/iot_chain_itc_why_chinas_answer_to_iota_should/"
+    },
+    {
+        "ID": "2_172",
+        "Title": "Truly Undervalued pt. II: OriginTrail: under the radar, significant partnerships & programs.",
+        "Upvotes": 885,
+        "Comments": 308,
+        "Date": 1516873851.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7sv2d1/truly_undervalued_pt_ii_origintrail_under_the/"
+    },
+    {
+        "ID": "2_173",
+        "Title": "Omnitude Bringing Power of Hyperledger Technology to Enterprise Ecommerce with Its Smart Blockchain Platform",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1516096406.0,
+        "URL": "http://bitcoinist.com/omnitude-brings-power-hyperledger-technology-enterprise-ecommerce-smart-blockchain-platform/"
+    },
+    {
+        "ID": "2_174",
+        "Title": "Global Blockchain Business Council (GBBC) - Meeting in Davos, Switzerland. List of Participants for GBBC event.",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1516031817.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7qkjdj/global_blockchain_business_council_gbbc_meeting/"
+    },
+    {
+        "ID": "2_175",
+        "Title": "XRP - great tech, useless coin!",
+        "Upvotes": 0,
+        "Comments": 9,
+        "Date": 1514643465.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7n1qx1/xrp_great_tech_useless_coin/"
+    },
+    {
+        "ID": "2_176",
+        "Title": "Looking at how undervalued this coin is, I had to make this post (OST)",
+        "Upvotes": 92,
+        "Comments": 67,
+        "Date": 1514357823.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7mdhsk/looking_at_how_undervalued_this_coin_is_i_had_to/"
+    },
+    {
+        "ID": "2_177",
+        "Title": "Future of Ripple",
+        "Upvotes": 0,
+        "Comments": 20,
+        "Date": 1513498181.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7kcqh7/future_of_ripple/"
+    },
+    {
+        "ID": "2_178",
+        "Title": "My growing collection of info about NEO Vol. 2",
+        "Upvotes": 518,
+        "Comments": 93,
+        "Date": 1511954211.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7gciu5/my_growing_collection_of_info_about_neo_vol_2/"
+    },
+    {
+        "ID": "2_179",
+        "Title": "INK - IP on the Blockchain (Asian coin under the radar)",
+        "Upvotes": 10,
+        "Comments": 7,
+        "Date": 1511116966.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7e2hei/ink_ip_on_the_blockchain_asian_coin_under_the/"
+    },
+    {
+        "ID": "2_180",
+        "Title": "IOTA ditched for Stellar - SatoshiPay",
+        "Upvotes": 0,
+        "Comments": 4,
+        "Date": 1510676545.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7cwox3/iota_ditched_for_stellar_satoshipay/"
+    },
+    {
+        "ID": "2_181",
+        "Title": "Anne Shares Aims To Integrate Blockchain Into Copyright Protection With Hyperledger",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1510651288.0,
+        "URL": "http://news.8btc.com/anne-shares-aims-to-integrate-blockchain-into-copyright-protection-with-hyperledger"
+    },
+    {
+        "ID": "2_182",
+        "Title": "Each side accuses the other of being \"centralized\" - perhaps this is the most important question, who's in the bank's pocket?",
+        "Upvotes": 46,
+        "Comments": 31,
+        "Date": 1510461828.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/7cdg79/each_side_accuses_the_other_of_being_centralized/"
+    },
+    {
+        "ID": "2_183",
+        "Title": "VR Firm YDreams Global Joins Hyperledger Blockchain Consortium",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1510243461.0,
+        "URL": "https://www.coindesk.com/vr-technology-firm-ydreams-global-joins-hyperledger-blockchain-consortium/"
+    },
+    {
+        "ID": "2_184",
+        "Title": "Datacoin [Update] - Hyperledger Demo now available for download",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1510011430.0,
+        "URL": "https://bitcointalk.org/index.php?topic=2188160.0"
+    },
+    {
+        "ID": "2_185",
+        "Title": "Datacoin [ANN] - Integrating Hyperledger Fabric for Smart Contracts",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1509496915.0,
+        "URL": "https://bitcointalk.org/index.php?topic=2188160.0"
+    },
+    {
+        "ID": "2_186",
+        "Title": "Major Chinese Company, Baidu, Joins Global Blockchain Group",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1509118437.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/793zuq/major_chinese_company_baidu_joins_global/"
+    },
+    {
+        "ID": "2_187",
+        "Title": "\"[Joe] Lubin says that a Gartner analyst recently pegged Ethereum\u2019s developer base at 30 times larger than IBM-backed Hyperledger Fabric\"",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1508941075.0,
+        "URL": "https://qz.com/1111123/of-course-its-a-bubble-ethereum-cofounder-joe-lubin-isnt-worried-about-a-crash/"
+    },
+    {
+        "ID": "2_188",
+        "Title": "Making 'Boring' Bonds Sexy: NSD Attracts Interest with Hyperledger Test",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1508926265.0,
+        "URL": "https://www.coindesk.com/making-boring-bonds-sexy-nsd-attracts-interest-with-hyperledger-bond-test/"
+    },
+    {
+        "ID": "2_189",
+        "Title": "Hyperledger Blockchain Consortium Adds Bosch, Wipro and More as New Members",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1508847072.0,
+        "URL": "https://www.coindesk.com/hyperledger-blockchain-consortium-adds-bosch-wipro-and-more-as-new-members/"
+    },
+    {
+        "ID": "2_190",
+        "Title": "Baidu Joins Hyperledger to Advance Blockchain Technology",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1508746606.0,
+        "URL": "http://news.8btc.com/baidu-joins-hyperledger-to-advance-blockchain-technology"
+    },
+    {
+        "ID": "2_191",
+        "Title": "Chinese Search Giant Baidu Joins Hyperledger Blockchain Consortium",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1508423883.0,
+        "URL": "https://www.coindesk.com/chinese-search-giant-baidu-joins-hyperledger-blockchain-consortium/"
+    },
+    {
+        "ID": "2_192",
+        "Title": "Chinese Version of Google Baidu Joins Hyperledger. Who\u2019s Next?",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1508403299.0,
+        "URL": "https://cointelegraph.com/news/chinese-version-of-google-baidu-joins-hyperledger-whos-next"
+    },
+    {
+        "ID": "2_193",
+        "Title": "Tradeshift Joins Hyperledger Blockchain Consortium as Premier Member",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1508146229.0,
+        "URL": "https://www.coindesk.com/tradeshift-joins-hyperledger-blockchain-consortium-premier-member/"
+    },
+    {
+        "ID": "2_194",
+        "Title": "IBM, Hyperledger Join Blockchain Identity Consortium",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1507758853.0,
+        "URL": "https://www.coindesk.com/ibm-hyperledger-join-blockchain-identity-consortium/"
+    },
+    {
+        "ID": "2_195",
+        "Title": "My growing collection of info about NEO",
+        "Upvotes": 917,
+        "Comments": 122,
+        "Date": 1507697512.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/75mul5/my_growing_collection_of_info_about_neo/"
+    },
+    {
+        "ID": "2_196",
+        "Title": "GameCredits joins Hyperledger to expand its industry-wide impact",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1507130962.0,
+        "URL": "http://bitcoinchaser.com/press-release/gamecredits-joins-hyperledger-expand-industry-wide-impact"
+    },
+    {
+        "ID": "2_197",
+        "Title": "Oracle Joins the Blockchain Craze, Uses Hyperledger Fabric",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1507086854.0,
+        "URL": "https://cointelegraph.com/news/oracle-joins-the-blockchain-craze-uses-hyperledger-fabric"
+    },
+    {
+        "ID": "2_198",
+        "Title": "Russia's Central Depository Trials Hyperledger for Bond Trading",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1507022470.0,
+        "URL": "https://www.coindesk.com/russias-central-depository-trials-hyperledger-bond-trading/"
+    },
+    {
+        "ID": "2_199",
+        "Title": "Is hyperledger OK for my \"coin\" project ?",
+        "Upvotes": 0,
+        "Comments": 3,
+        "Date": 1507009776.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/73yjbu/is_hyperledger_ok_for_my_coin_project/"
+    },
+    {
+        "ID": "2_200",
+        "Title": "GameCredits joins Hyperledger",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1506610753.0,
+        "URL": "https://gamecredits.com/gamecredits-joins-hyperledger/"
+    },
+    {
+        "ID": "2_201",
+        "Title": "More Info About GameCredits Hyperledger membership",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1506595561.0,
+        "URL": "https://paymentweek.com/2017-9-27-gamecredits-joins-hyperledger-expand-industry-wide-impact/"
+    },
+    {
+        "ID": "2_202",
+        "Title": "Hyperledger Blockchain \u2018Shadows\u2019 Canadian Bank\u2019s International Payments",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1506589859.0,
+        "URL": "https://cointelegraph.com/news/hyperledger-blockchain-shadows-canadian-banks-international-payments"
+    },
+    {
+        "ID": "2_203",
+        "Title": "GameCredits became the member of Hyperledger beside IBM, Cisco, American Express, Intel",
+        "Upvotes": 3,
+        "Comments": 4,
+        "Date": 1506428556.0,
+        "URL": "https://www.hyperledger.org/announcements"
+    },
+    {
+        "ID": "2_204",
+        "Title": "Perspectives on each of the TOP 10 cryptos -- your thoughts?",
+        "Upvotes": 110,
+        "Comments": 109,
+        "Date": 1505565445.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/70gnmw/perspectives_on_each_of_the_top_10_cryptos_your/"
+    },
+    {
+        "ID": "2_205",
+        "Title": "IT Consultancy Wipro Joins Hyperledger Blockchain Consortium",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1505394505.0,
+        "URL": "https://www.coindesk.com/it-consultancy-wipro-joins-hyperledger-blockchain-consortium/"
+    },
+    {
+        "ID": "2_206",
+        "Title": "Old Flames, New Code: Ripple and Hyperledger Reunite for Interledger Effort",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1505393892.0,
+        "URL": "https://www.coindesk.com/old-flames-new-code-ripple-hyperledger-reunite-interledger-effort/"
+    },
+    {
+        "ID": "2_207",
+        "Title": "Oracle Officially Joins Hyperledger Blockchain Project",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1504236316.0,
+        "URL": "https://cointelegraph.com/news/oracle-officially-joins-hyperledger-blockchain-project"
+    },
+    {
+        "ID": "2_208",
+        "Title": "Patientory (PTOY) joins Hyperledger",
+        "Upvotes": 5,
+        "Comments": 8,
+        "Date": 1504013437.0,
+        "URL": "https://mobile.twitter.com/patientory/status/902505399127080961"
+    },
+    {
+        "ID": "2_209",
+        "Title": "Introducing the BlockRx Project! We are trying to solve pharma\u2019s biggest problems using the blockchain. (x-post from /r/blockRx)",
+        "Upvotes": 5,
+        "Comments": 2,
+        "Date": 1503507244.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/6vkagq/introducing_the_blockrx_project_we_are_trying_to/"
+    },
+    {
+        "ID": "2_210",
+        "Title": "Hyperledger Blockchain Consortium Reveals 'Sawtooth Ethereum' Tech",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1503429692.0,
+        "URL": "https://www.coindesk.com/hyperledger-blockchain-consortium-reveals-sawtooth-ethereum-tech/"
+    },
+    {
+        "ID": "2_211",
+        "Title": "Boldstart Founder Launches Hyperledger Fabric's First Blockchain Accelerator",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1503405391.0,
+        "URL": "https://www.coindesk.com/boldstart-founder-launches-hyperledger-fabrics-first-blockchain-accelerator/"
+    },
+    {
+        "ID": "2_212",
+        "Title": "Hyperledger Blockchain Project to Elect New Technical Committee",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1502292398.0,
+        "URL": "https://www.coindesk.com/hyperledger-blockchain-project-elect-new-technical-committee/"
+    },
+    {
+        "ID": "2_213",
+        "Title": "Let's discuss consensus algorithms, as that's the most important basis for a cryptocurrency",
+        "Upvotes": 35,
+        "Comments": 19,
+        "Date": 1502182033.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/6sc874/lets_discuss_consensus_algorithms_as_thats_the/"
+    },
+    {
+        "ID": "2_214",
+        "Title": "Comparison of Ethereum and Hyperledger for Enterprise Use",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1501269934.0,
+        "URL": "https://www.coinjoker.com/difference-ethereum-hyperledger/"
+    },
+    {
+        "ID": "2_215",
+        "Title": "SWIFT Hyperledger - Nets 22 More Banks",
+        "Upvotes": 4,
+        "Comments": 9,
+        "Date": 1500569726.0,
+        "URL": "http://cointelegraph.com/news/swift-hyperledger-backed-blockchain-project-nets-22-more-banks"
+    },
+    {
+        "ID": "2_216",
+        "Title": "IBM to build a new trade finance platform with Hyperledger",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1498589442.0,
+        "URL": "http://www.newsbtc.com/2017/06/27/ibm-build-new-trade-finance-platform-hyperledger/"
+    },
+    {
+        "ID": "2_217",
+        "Title": "New Nxter newsletter covering new Ardor features, latest Projects running on Nxt platform, Hyperledger event and more..",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1498487411.0,
+        "URL": "https://nxter.org/nxt-news-june-2017-iv-didnt-know-impossible"
+    },
+    {
+        "ID": "2_218",
+        "Title": "Fujitsu Joins Blockchain Race With Hyperledger Platform",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1496678763.0,
+        "URL": "https://cointelegraph.com/news/fujitsu-joins-blockchain-race-with-hyperledger-platform"
+    },
+    {
+        "ID": "2_219",
+        "Title": "Air - A Modular Digital Identity Monetization Platform",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1496431031.0,
+        "URL": "https://www.reddit.com/r/CryptoCurrency/comments/6ewiaq/air_a_modular_digital_identity_monetization/"
+    },
+    {
+        "ID": "3_1",
+        "Title": "Blockchain Uses in Software Development",
+        "Upvotes": 3,
+        "Comments": 4,
+        "Date": 1687328073.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/14ezeal/blockchain_uses_in_software_development/"
+    },
+    {
+        "ID": "3_2",
+        "Title": "What's your choice of Chain and why?",
+        "Upvotes": 2,
+        "Comments": 10,
+        "Date": 1685673262.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/13y0sb5/whats_your_choice_of_chain_and_why/"
+    },
+    {
+        "ID": "3_3",
+        "Title": "Connect me on Linkedin if you want to know about Blockchain and adoption",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1677155529.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/119wld4/connect_me_on_linkedin_if_you_want_to_know_about/"
+    },
+    {
+        "ID": "3_4",
+        "Title": "Technical question permissioned Blockchain",
+        "Upvotes": 3,
+        "Comments": 2,
+        "Date": 1649004813.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/tvdsie/technical_question_permissioned_blockchain/"
+    },
+    {
+        "ID": "3_5",
+        "Title": "Blockchain consensus-as-a-service",
+        "Upvotes": 6,
+        "Comments": 6,
+        "Date": 1647343573.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/temsfh/blockchain_consensusasaservice/"
+    },
+    {
+        "ID": "3_6",
+        "Title": "Blockchain Development Company | Blockchain Development Services",
+        "Upvotes": 2,
+        "Comments": 3,
+        "Date": 1644495231.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/sp58rp/blockchain_development_company_blockchain/"
+    },
+    {
+        "ID": "3_7",
+        "Title": "Hyperledger Caliper and use of Java!!",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1644315305.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/sngvdk/hyperledger_caliper_and_use_of_java/"
+    },
+    {
+        "ID": "3_8",
+        "Title": "Have you heard about the Hyperledger Besu features?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1633345725.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/q139wf/have_you_heard_about_the_hyperledger_besu_features/"
+    },
+    {
+        "ID": "3_9",
+        "Title": "Blockchain Network with Hyperledger Fabric: Peculiarities and Use Cases",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1630573671.0,
+        "URL": "https://jelastic.com/blog/blockchain-network-hyperledger-fabric/"
+    },
+    {
+        "ID": "3_10",
+        "Title": "Is it a good idea to create a custom cryptocurrency using Hyperledger fabric?",
+        "Upvotes": 2,
+        "Comments": 1,
+        "Date": 1628598323.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/p1o4vc/is_it_a_good_idea_to_create_a_custom/"
+    },
+    {
+        "ID": "3_11",
+        "Title": "Do you think Hyperledger fabric technology is the future of blockchain for businesses?",
+        "Upvotes": 7,
+        "Comments": 4,
+        "Date": 1628512208.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/p10hu4/do_you_think_hyperledger_fabric_technology_is_the/"
+    },
+    {
+        "ID": "3_12",
+        "Title": "Ethereum Vs. Hyperledger: A Comprehensive Guide",
+        "Upvotes": 3,
+        "Comments": 2,
+        "Date": 1623304128.0,
+        "URL": "https://www.blockchain-council.org/ethereum/ethereum-vs-hyperledger-a-comprehensive-guide/"
+    },
+    {
+        "ID": "3_13",
+        "Title": "How to use the Hyperledger fabric from the company",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1603097840.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/jdy7mv/how_to_use_the_hyperledger_fabric_from_the_company/"
+    },
+    {
+        "ID": "3_14",
+        "Title": "Key Notes to Understand Hyperledger Fabric effectively",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1601777055.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/j4r7cu/key_notes_to_understand_hyperledger_fabric/"
+    },
+    {
+        "ID": "3_15",
+        "Title": "Top Universities Are Increasing Blockchain Activity Worldwide.",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1600672462.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/iwvloh/top_universities_are_increasing_blockchain/"
+    },
+    {
+        "ID": "3_16",
+        "Title": "Hyperledger Frameworks made easy",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1600626303.0,
+        "URL": "https://www.youtube.com/watch?v=p0FIO_SpwRE&feature=share"
+    },
+    {
+        "ID": "3_17",
+        "Title": "Hyperledger Frameworks made easy",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1600625412.0,
+        "URL": "https://www.youtube.com/watch?v=p0FIO_SpwRE&feature=share"
+    },
+    {
+        "ID": "3_18",
+        "Title": "VS Code Extensions Required for Blockchain Development",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1600423019.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/iv37zj/vs_code_extensions_required_for_blockchain/"
+    },
+    {
+        "ID": "3_19",
+        "Title": "Blockchain Developers Have the Fastest Emerging Job Market in the USA in 2020",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1599558028.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/ioqnlr/blockchain_developers_have_the_fastest_emerging/"
+    },
+    {
+        "ID": "3_20",
+        "Title": "The Future of Blockchain For Start-Ups Or Businesses",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1597906235.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/id5du7/the_future_of_blockchain_for_startups_or/"
+    },
+    {
+        "ID": "3_21",
+        "Title": "Why Symbol from NEM will become \u201cThe Gold Standard\u201d for Corporate Blockchain Solution",
+        "Upvotes": 6,
+        "Comments": 1,
+        "Date": 1597845086.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/ico0hh/why_symbol_from_nem_will_become_the_gold_standard/"
+    },
+    {
+        "ID": "3_22",
+        "Title": "Blockchain Technology Will Be The Future Of Digital Payments.",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1597826277.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/icjw2o/blockchain_technology_will_be_the_future_of/"
+    },
+    {
+        "ID": "3_23",
+        "Title": "Best Open-source Projects To Study Blockchain Deeply",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1597733999.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/ibw69r/best_opensource_projects_to_study_blockchain/"
+    },
+    {
+        "ID": "3_24",
+        "Title": "Importance Of A Hyperledger Certifications",
+        "Upvotes": 1,
+        "Comments": 2,
+        "Date": 1596702421.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/i4nyfc/importance_of_a_hyperledger_certifications/"
+    },
+    {
+        "ID": "3_25",
+        "Title": "Hyperledger Besu As Enterprise-Focused Initiative",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1594783349.0,
+        "URL": "https://www.blockchain-council.org/blockchain/hyperledger-besu-as-enterprise-focused-initiative/?utm_source=organic&utm_medium=bookmarking&utm_campaign=seo"
+    },
+    {
+        "ID": "3_26",
+        "Title": "How is Blockchain technology improving The Future of Employees?",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1594617714.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/hq9gme/how_is_blockchain_technology_improving_the_future/"
+    },
+    {
+        "ID": "3_27",
+        "Title": "Global Demand For Blockchain Developers",
+        "Upvotes": 3,
+        "Comments": 0,
+        "Date": 1594373103.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/holvsa/global_demand_for_blockchain_developers/"
+    },
+    {
+        "ID": "3_28",
+        "Title": "Incredible Role of Blockchain in Finance Sector",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1594104383.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/hmphkw/incredible_role_of_blockchain_in_finance_sector/"
+    },
+    {
+        "ID": "3_29",
+        "Title": "Learn Blockchain Programming with Online Blockchain Courses",
+        "Upvotes": 0,
+        "Comments": 1,
+        "Date": 1592981218.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/hew2nx/learn_blockchain_programming_with_online/"
+    },
+    {
+        "ID": "3_30",
+        "Title": "Blockchain can be of two different types, private blockchain and public blockchain.",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1592499382.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/hbihec/blockchain_can_be_of_two_different_types_private/"
+    },
+    {
+        "ID": "3_31",
+        "Title": "Explain Different Types of Blockchain: which one Is Best For Business?",
+        "Upvotes": 1,
+        "Comments": 1,
+        "Date": 1592459432.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/hb8pgr/explain_different_types_of_blockchain_which_one/"
+    },
+    {
+        "ID": "3_32",
+        "Title": "Corda Blockchain: Ruler of The Financial Firm",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1592035313.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/h83amp/corda_blockchain_ruler_of_the_financial_firm/"
+    },
+    {
+        "ID": "3_33",
+        "Title": "Hyperledger Besu APIs: What You Need To Know?",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1590569007.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/grfz71/hyperledger_besu_apis_what_you_need_to_know/"
+    },
+    {
+        "ID": "3_34",
+        "Title": "Comparison: Blockchain Developer vs. Blockchain Expert",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1590198706.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/gowif7/comparison_blockchain_developer_vs_blockchain/"
+    },
+    {
+        "ID": "3_35",
+        "Title": "Korea prepaid card has made an investment in Singapore-based Benzant as Bezant has been offering Blockchain-as-a-Service (BaaS) using Hyperledger Fabric technology.",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1565686226.0,
+        "URL": "https://www.coindesk.com/korea-prepaid-card-invests-in-blockchain-as-a-service-company-bezant"
+    },
+    {
+        "ID": "3_36",
+        "Title": "Check out the consolidated video from Hyperledger Member Summit, where Cardstack's Chris Tse walks you through the architecture and demos of blockchain-based registries. Come and learn how you can build the next enterprise blockchain use case using Git, Sawtooth, and Cardstack technology!",
+        "Upvotes": 4,
+        "Comments": 0,
+        "Date": 1564498420.0,
+        "URL": "https://youtu.be/HBqSpYpqWko"
+    },
+    {
+        "ID": "3_37",
+        "Title": "Chris Tse from Cardstack will be at Hyperledger Member Summit 2019 talking Building a Media Registry with Git and Sawtooth",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1563552765.0,
+        "URL": "https://hyperledgermemberssummit2019.sched.com/event/QQ8v/building-a-media-registry-with-git-and-sawtooth-chris-tse-cardstack"
+    },
+    {
+        "ID": "3_38",
+        "Title": "Hyperledger member @Swisscom_de is set to take the stage at @Blockchain_Expo Global to discuss \"Providing Hyperledger Fabric blockchain services in Switzerland\".",
+        "Upvotes": 2,
+        "Comments": 0,
+        "Date": 1555632165.0,
+        "URL": "https://coinwhalenews.com/news/n/hyperledger-member-swisscom_de-is-set-to-take-the-stage-at"
+    },
+    {
+        "ID": "3_39",
+        "Title": "Things To Know before Implementing Blockchain In Your Business \ud83d\udcf7",
+        "Upvotes": 0,
+        "Comments": 2,
+        "Date": 1551266219.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/avcdvr/things_to_know_before_implementing_blockchain_in/"
+    },
+    {
+        "ID": "3_40",
+        "Title": "Faireum - Faireum's Goal is to Enable all People to Have Fair Access to Gambling and Betting Practices",
+        "Upvotes": 12,
+        "Comments": 0,
+        "Date": 1550788923.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/at9kbc/faireum_faireums_goal_is_to_enable_all_people_to/"
+    },
+    {
+        "ID": "3_41",
+        "Title": "Hyperledger Enterprise Solutions: Top 5 Real Use Cases",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1549860513.0,
+        "URL": "https://openledger.info/insights/hyperledger-enterprise-solutions-top-5-real-use-cases/"
+    },
+    {
+        "ID": "3_42",
+        "Title": "Velic cryptocurrency management DApp to build on ICON blockchain",
+        "Upvotes": 0,
+        "Comments": 0,
+        "Date": 1548621325.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/akfko5/velic_cryptocurrency_management_dapp_to_build_on/"
+    },
+    {
+        "ID": "3_43",
+        "Title": "Swiss Alps Energy and Mining as A Company",
+        "Upvotes": 11,
+        "Comments": 0,
+        "Date": 1540767747.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/9s7o8f/swiss_alps_energy_and_mining_as_a_company/"
+    },
+    {
+        "ID": "3_44",
+        "Title": "Pros and Cons of Hyperledger Fabric for Blockchain Networks",
+        "Upvotes": 6,
+        "Comments": 3,
+        "Date": 1530302171.0,
+        "URL": "https://www.devteam.space/blog/pros-and-cons-of-hyperledger-fabric-for-blockchain-networks/"
+    },
+    {
+        "ID": "3_45",
+        "Title": "Last 8h of Omnitude ICO - New blockchain ecosystem built on hyperledger - Product for blockchain mass adoption",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1527778405.0,
+        "URL": "https://tokensale.omnitude.tech/?ref=c694fdb5"
+    },
+    {
+        "ID": "3_46",
+        "Title": "Get Certified Today and Get Hired Tomorrow",
+        "Upvotes": 3,
+        "Comments": 1,
+        "Date": 1525755196.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/8hu4bo/get_certified_today_and_get_hired_tomorrow/"
+    },
+    {
+        "ID": "3_47",
+        "Title": "Infinite X Labs - Blockchain Development & Consulting Services",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1522097201.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/87ck8j/infinite_x_labs_blockchain_development_consulting/"
+    },
+    {
+        "ID": "3_48",
+        "Title": "How Hyperledger Blockchain Can be The Future Of Cloud Storage",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1517818566.0,
+        "URL": "http://blockchain.oodles.io/hyperledger-blockchain-cloud-storage/"
+    },
+    {
+        "ID": "3_49",
+        "Title": "Hashcash welcomes IBM collaboration",
+        "Upvotes": 1,
+        "Comments": 0,
+        "Date": 1516780475.0,
+        "URL": "https://www.reddit.com/r/BlockchainStartups/comments/7slkze/hashcash_welcomes_ibm_collaboration/"
+    }
+]
